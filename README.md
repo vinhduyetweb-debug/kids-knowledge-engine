@@ -28,10 +28,25 @@ Cách chạy mini app:
 2. Mở file `index.html` bằng trình duyệt.
 3. Bấm "Câu tiếp theo" để chơi thử.
 
+## Export nội dung
+
+Chạy lệnh:
+
+```bat
+node tools\export-content.js
+```
+
+Kết quả được tạo trong:
+
+```txt
+exports/generated/
+```
+
 Cấu trúc:
 ```txt
 content/        Dữ liệu gốc
 apps/           Mini app thử nghiệm
+tools/          Script xuất nội dung
 templates/      Template xuất nội dung
 docs/           Tài liệu sản phẩm
 prompts/        Prompt giao AI/Codex

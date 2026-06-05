@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 2A — Export Engine Pack
+
+- Added `tools/export-content.js`.
+- Added generated export outputs for ebook, flashcards, coloring prompts, video scripts and parent guide.
+- Added lightweight validation before export.
+- Updated README with export instructions.
+
 ## 2026-06-05 - Task 1 Safe Improvement
 
 ### Checked
