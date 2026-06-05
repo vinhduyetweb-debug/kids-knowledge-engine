@@ -28,6 +28,16 @@ Cách chạy mini app:
 2. Mở file `index.html` bằng trình duyệt.
 3. Bấm "Câu tiếp theo" để chơi thử.
 
+## Chạy mini app 100 câu đố
+
+Mở file:
+
+```txt
+apps/guess-animal/index.html
+```
+
+App chạy static, không cần backend.
+
 ## Export nội dung
 
 Chạy lệnh:

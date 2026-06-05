@@ -8,41 +8,71 @@
 </head>
 <body>
   <main class="app">
-    <section class="hero">
+    <section class="hero" aria-labelledby="appTitle">
       <p class="eyebrow">Kids Knowledge Engine MVP</p>
-      <h1>Bé Khám Phá Động Vật</h1>
+      <h1 id="appTitle">Bé Khám Phá Động Vật</h1>
       <p>Mỗi ngày một câu đố, một hình ảnh, một điều mới.</p>
+      <p id="contentStatus" class="content-status">Đang tải bộ dữ liệu...</p>
     </section>
 
-    <section class="card">
-      <div id="counter" class="counter"></div>
+    <section class="toolbar" aria-label="Bộ lọc câu đố">
+      <label for="categoryFilter">Chủ đề</label>
+      <select id="categoryFilter">
+        <option value="all">Tất cả</option>
+        <option value="familiar">Động vật quen thuộc</option>
+        <option value="wild">Động vật hoang dã</option>
+        <option value="insects">Côn trùng</option>
+        <option value="sea">Sinh vật biển</option>
+      </select>
+    </section>
+
+    <section class="quiz-card" aria-live="polite">
+      <div class="quiz-topline">
+        <p id="counter" class="counter"></p>
+        <p id="score" class="score">Đúng: 0 / 0</p>
+      </div>
+
       <h2 id="title">Đố bé biết</h2>
       <pre id="riddle" class="riddle"></pre>
 
-      <div class="actions">
-        <button id="showAnswerBtn">Xem đáp án</button>
-        <button id="nextBtn" class="secondary">Câu tiếp theo</button>
-      </div>
+      <div id="options" class="options"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
 
       <div id="answerBox" class="answer hidden">
         <h3 id="answer"></h3>
         <p id="fact"></p>
-        <p><strong>Từ mới:</strong> <span id="vocab"></span></p>
-        <p><strong>Gợi ý cho phụ huynh:</strong> <span id="parentGuide"></span></p>
-        <div class="quiz" aria-live="polite">
-          <h4>Câu hỏi nhỏ</h4>
-          <p id="quizQuestion"></p>
-          <div id="quizOptions" class="quiz-options"></div>
-          <p id="quizFeedback" class="quiz-feedback"></p>
+
+        <div>
+          <h4>Từ mới</h4>
+          <ul id="vocab"></ul>
         </div>
+
+        <div>
+          <h4>Gợi ý cho phụ huynh</h4>
+          <p id="parentGuide"></p>
+        </div>
+
+        <div id="safetyBlock" class="safety hidden">
+          <h4>Lưu ý an toàn</h4>
+          <ul id="safetyNotes"></ul>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="nextBtn" type="button" class="secondary">Câu tiếp theo</button>
+        <button id="replayBtn" type="button">Chơi lại</button>
       </div>
     </section>
 
-    <section class="note">
-      <h3>Ghi chú MVP</h3>
-      <p>App này chạy tĩnh, không cần server, không thu thập dữ liệu trẻ em.</p>
+    <section class="parent-section">
+      <h2>Dành cho phụ huynh</h2>
+      <p>Demo gồm 100 câu đố động vật cho bé 3-5 tuổi. Nội dung đã được rà soát ở mức MVP, phù hợp để phụ huynh đọc cùng bé và quan sát phản ứng của bé khi chơi.</p>
+      <p>Với các con vật có cảnh báo, hãy nhắc bé chỉ quan sát cùng người lớn và không tự chạm vào động vật lạ.</p>
     </section>
   </main>
+
+  <script src="./data/animals_vi_3_5_mvp_100.js"></script>
   <script src="./app.js"></script>
 </body>
 </html>

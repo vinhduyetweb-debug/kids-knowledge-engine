@@ -284,6 +284,10 @@ Sau Batch 2, còn 40 item `draft` chưa xử lý, từ `animal_dragonfly_vi_3_5`
 - Có thể dùng cho sản phẩm bán chưa? Có thể dùng làm bản ứng viên, nhưng nên có một vòng biên tập/thẩm định thủ công cuối trước khi bán.
 - Việc cần review thủ công tiếp theo: đọc toàn bộ 100 item trong ngữ cảnh sản phẩm, kiểm tra giọng văn, tính nhất quán thuật ngữ, độ đúng fact và chất lượng prompt hình ảnh.
 
+## App Demo Usage
+
+The reviewed 100-item dataset is now used by the static guess-animal mini app for demo/testing. The dataset is acceptable for app demo use, but still benefits from final human editorial QA before commercial PDF/product release.
+
 ## Kết luận
 
 - Có nên dùng file 100 item cho app demo không? Có.

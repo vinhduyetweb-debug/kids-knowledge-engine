@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Task 3 — Mini App Product Upgrade
+
+- Upgraded guess-animal mini app to use the reviewed 100-item dataset.
+- Added randomized quiz flow, score tracking and replay.
+- Added lightweight category filtering.
+- Added parent guidance section and content status display.
+- Kept the app static with no backend/framework/package/fetch/storage.
+
 ## Task 2F — Content Fix Batch 4
 
 - Improved the final batch of draft animal items in `animals_vi_3_5_mvp_100.json`.
