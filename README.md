@@ -42,6 +42,18 @@ Kết quả được tạo trong:
 exports/generated/
 ```
 
+### Export bộ 100 item
+
+```bat
+node tools\export-content.js --source content\animals\animals_vi_3_5_mvp_100.json --suffix mvp_100
+```
+
+Kết quả được tạo trong:
+
+```txt
+exports/generated/
+```
+
 Cấu trúc:
 ```txt
 content/        Dữ liệu gốc

@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Task 2B — Content Expansion Pack
+
+- Added `content/animals/animals_vi_3_5_mvp_100.json`.
+- Expanded animals dataset from 20 to 100 items while preserving the original 20-item file.
+- Updated export script to support custom source and suffix arguments.
+- Added validation for duplicate ids, duplicate titles, quiz options and required fields.
+- Generated export outputs for the 100-item dataset.
+
 ## Task 2A — Export Engine Pack
 
 - Added `tools/export-content.js`.
