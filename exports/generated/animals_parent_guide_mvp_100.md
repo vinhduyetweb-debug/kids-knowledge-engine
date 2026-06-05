@@ -264,7 +264,7 @@ Hỏi bé: Con ong thường sống ở đâu hoặc có âm thanh như thế n�
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên chạm vào ong hoặc tổ ong. Nếu thấy ong, hãy đứng xa và gọi người lớn.
 
 ---
 
@@ -340,7 +340,7 @@ Hỏi bé: Con sư tử thường sống ở đâu hoặc có âm thanh như th�
 
 ### Lưu ý an toàn
 
-Không có.
+- Sư tử là động vật hoang dã. Bé chỉ nên quan sát sư tử qua sách, video hoặc khi đi sở thú cùng người lớn.
 
 ---
 
@@ -386,14 +386,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con hươu cao cổ có đặc điểm nào dễ nhận ra?
+Hỏi bé: Vì sao cổ dài giúp hươu cao cổ ăn lá trên cao?
 
 ### Từ mới
 
 - hươu cao cổ
 - cổ dài
+- lá cây
 - đồng cỏ
-- con vật
 
 ### Lưu ý an toàn
 
@@ -405,14 +405,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cá heo có đặc điểm nào dễ nhận ra?
+Hỏi bé: Cá heo di chuyển bằng cách bơi hay đi bộ?
 
 ### Từ mới
 
 - cá heo
-- bơi nhanh
 - biển
-- con vật
+- bơi
+- âm thanh
 
 ### Lưu ý an toàn
 
@@ -424,14 +424,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cá voi có đặc điểm nào dễ nhận ra?
+Hỏi bé: Cá voi to hay nhỏ? Cá voi sống dưới nước hay trên cạn?
 
 ### Từ mới
 
 - cá voi
-- thân to
-- đại dương
-- con vật
+- biển
+- to lớn
+- phun nước
 
 ### Lưu ý an toàn
 
@@ -443,18 +443,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cá mập có đặc điểm nào dễ nhận ra?
+Hỏi bé: Khi muốn xem cá mập, mình nên xem qua sách, video hay thủy cung an toàn?
 
 ### Từ mới
 
 - cá mập
 - vây lưng
-- biển
-- con vật
+- biển sâu
+- răng sắc
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ chỉ quan sát cá mập qua sách, phim hoặc thủy cung an toàn.
+- Cá mập là động vật hoang dã dưới biển. Bé chỉ nên quan sát cá mập qua sách, video hoặc thủy cung an toàn cùng người lớn.
 
 ---
 
@@ -462,18 +462,18 @@ Hỏi bé: Con cá mập có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sao biển có đặc điểm nào dễ nhận ra?
+Hỏi bé: Sao biển giống hình gì mà bé đã biết?
 
 ### Từ mới
 
 - sao biển
-- hình ngôi sao
+- ngôi sao
 - bờ biển
-- con vật
+- cánh
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé chỉ nên quan sát sao biển cùng người lớn, không tự ý nhặt hoặc mang sinh vật biển về nhà.
 
 ---
 
@@ -481,18 +481,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cua có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con cua có mấy chiếc càng lớn?
 
 ### Từ mới
 
 - cua
-- hai càng
-- bãi cát
-- con vật
+- càng
+- mai cứng
+- đi ngang
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự chạm vào càng cua vì càng có thể kẹp đau.
 
 ---
 
@@ -500,14 +500,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con tôm có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con tôm có thân thẳng hay cong?
 
 ### Từ mới
 
 - tôm
 - râu dài
+- thân cong
 - dưới nước
-- con vật
 
 ### Lưu ý an toàn
 
@@ -519,14 +519,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con mực có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con mực sống trên cạn hay dưới biển?
 
 ### Từ mới
 
 - mực
 - thân mềm
 - biển
-- con vật
+- nhiều tay
 
 ### Lưu ý an toàn
 
@@ -538,14 +538,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con bạch tuộc có đặc điểm nào dễ nhận ra?
+Hỏi bé: Bạch tuộc có nhiều tay hay ít tay?
 
 ### Từ mới
 
 - bạch tuộc
-- nhiều tay
+- tám tay
 - biển
-- con vật
+- ẩn mình
 
 ### Lưu ý an toàn
 
@@ -557,14 +557,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con ngựa vằn có đặc điểm nào dễ nhận ra?
+Hỏi bé: Ngựa vằn có những sọc màu gì?
 
 ### Từ mới
 
 - ngựa vằn
-- vằn đen trắng
+- sọc
+- đen trắng
 - đồng cỏ
-- con vật
 
 ### Lưu ý an toàn
 
@@ -576,14 +576,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con hươu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Hươu dùng đôi chân để đi chậm hay chạy nhanh?
 
 ### Từ mới
 
 - hươu
 - chân thon
+- lá cây
 - rừng
-- con vật
 
 ### Lưu ý an toàn
 
@@ -595,14 +595,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con nai có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con nai đi nhẹ nhàng hay ồn ào?
 
 ### Từ mới
 
 - nai
-- dáng nhẹ
 - rừng
-- con vật
+- lá cây
+- nhẹ nhàng
 
 ### Lưu ý an toàn
 
@@ -614,18 +614,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con gấu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Vì sao mình chỉ nên quan sát gấu từ xa?
 
 ### Từ mới
 
 - gấu
 - lông dày
 - rừng
-- con vật
+- thân to
 
 ### Lưu ý an toàn
 
-Không có.
+- Gấu là động vật hoang dã. Bé chỉ nên quan sát gấu qua sách, video hoặc ở sở thú cùng người lớn.
 
 ---
 
@@ -633,14 +633,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con gấu trúc có đặc điểm nào dễ nhận ra?
+Hỏi bé: Gấu trúc có những màu lông nào?
 
 ### Từ mới
 
 - gấu trúc
-- lông đen trắng
+- tre
+- đen trắng
 - rừng tre
-- con vật
 
 ### Lưu ý an toàn
 
@@ -652,18 +652,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con hổ có đặc điểm nào dễ nhận ra?
+Hỏi bé: Khi xem hổ ở sở thú, mình nên đứng gần người lớn hay chạy lại gần?
 
 ### Từ mới
 
 - hổ
-- lông vằn
+- vằn đen
 - rừng
-- con vật
+- gầm
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ không đến gần thú hoang, chỉ quan sát qua sách hoặc sở thú an toàn.
+- Hổ là động vật hoang dã. Bé chỉ nên quan sát hổ qua sách, video hoặc ở sở thú cùng người lớn.
 
 ---
 
@@ -671,18 +671,18 @@ Hỏi bé: Con hổ có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con báo có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con báo có lông trơn hay có nhiều đốm?
 
 ### Từ mới
 
 - báo
-- đốm trên lông
+- đốm
+- chạy nhanh
 - rừng
-- con vật
 
 ### Lưu ý an toàn
 
-Không có.
+- Báo là động vật hoang dã. Bé chỉ nên quan sát báo qua sách, video hoặc ở nơi an toàn cùng người lớn.
 
 ---
 
@@ -690,18 +690,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sói có đặc điểm nào dễ nhận ra?
+Hỏi bé: Sói thường sống một mình hay theo bầy?
 
 ### Từ mới
 
 - sói
+- bầy
 - tai nhọn
 - rừng
-- con vật
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ không lại gần động vật hoang dã.
+- Sói là động vật hoang dã. Bé không nên lại gần sói hoặc động vật lạ.
 
 ---
 
@@ -709,18 +709,18 @@ Hỏi bé: Con sói có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cá sấu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Vì sao mình chỉ xem cá sấu ở nơi có người lớn?
 
 ### Từ mới
 
 - cá sấu
 - đuôi dài
+- da sần
 - đầm nước
-- con vật
 
 ### Lưu ý an toàn
 
-- Chỉ quan sát cá sấu ở nơi an toàn, có người lớn.
+- Cá sấu là động vật hoang dã. Bé chỉ nên quan sát cá sấu ở nơi an toàn và luôn đi cùng người lớn.
 
 ---
 
@@ -728,18 +728,18 @@ Hỏi bé: Con cá sấu có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con hà mã có đặc điểm nào dễ nhận ra?
+Hỏi bé: Hà mã thích ở gần nước hay trên cây?
 
 ### Từ mới
 
 - hà mã
 - miệng rộng
 - sông hồ
-- con vật
+- thân to
 
 ### Lưu ý an toàn
 
-Không có.
+- Hà mã là động vật hoang dã. Bé chỉ nên quan sát hà mã ở nơi an toàn cùng người lớn.
 
 ---
 
@@ -747,18 +747,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con tê giác có đặc điểm nào dễ nhận ra?
+Hỏi bé: Tê giác có chiếc sừng ở đâu?
 
 ### Từ mới
 
 - tê giác
-- sừng trên mũi
-- đồng cỏ
-- con vật
+- sừng
+- mũi
+- da dày
 
 ### Lưu ý an toàn
 
-Không có.
+- Tê giác là động vật hoang dã. Bé chỉ nên quan sát tê giác qua sách, video hoặc ở sở thú cùng người lớn.
 
 ---
 

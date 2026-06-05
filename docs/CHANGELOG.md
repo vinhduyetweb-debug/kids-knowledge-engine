@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 2C — Content Fix Batch 1
+
+- Improved the first batch of draft animal items in `animals_vi_3_5_mvp_100.json`.
+- Added missing safety notes for bee and lion items.
+- Re-exported the 100-item generated outputs.
+- Updated content review report with fixed items and remaining draft items.
+
 ## Task 2B.5 — Content Quality Review Pack
 
 - Added `docs/CONTENT_REVIEW_MVP_100.md`.

@@ -449,7 +449,9 @@
     "shortVideoScript": "Đố bé biết: Con gì chăm chỉ bay quanh, ... Đáp án là Con ong!",
     "worksheetInstruction": "Tô màu con ong và khoanh tròn đặc điểm đúng.",
     "parentGuide": "Hỏi bé: Con ong thường sống ở đâu hoặc có âm thanh như thế nào?",
-    "safetyNotes": [],
+    "safetyNotes": [
+      "Bé không nên chạm vào ong hoặc tổ ong. Nếu thấy ong, hãy đứng xa và gọi người lớn."
+    ],
     "difficulty": 1,
     "status": "reviewed"
   },
@@ -577,7 +579,9 @@
     "shortVideoScript": "Đố bé biết: Con gì bờm lớn quanh đầu, ... Đáp án là Con sư tử!",
     "worksheetInstruction": "Tô màu con sư tử và khoanh tròn đặc điểm đúng.",
     "parentGuide": "Hỏi bé: Con sư tử thường sống ở đâu hoặc có âm thanh như thế nào?",
-    "safetyNotes": [],
+    "safetyNotes": [
+      "Sư tử là động vật hoang dã. Bé chỉ nên quan sát sư tử qua sách, video hoặc khi đi sở thú cùng người lớn."
+    ],
     "difficulty": 1,
     "status": "reviewed"
   },
@@ -650,648 +654,660 @@
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con hươu cao cổ",
-    "riddle": "Con gì có cổ dài,\nSống ở đồng cỏ thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì cổ thật là dài,\nVươn lên ăn lá trên cao.\nChân cao đi giữa đồng cỏ,\nBé đoán tên bạn nào?",
     "answer": "Con hươu cao cổ",
-    "fact": "Con hươu cao cổ có cổ dài và thường được bé nhận ra ở đồng cỏ.",
+    "fact": "Hươu cao cổ có chiếc cổ rất dài. Nhờ vậy, hươu cao cổ dễ ăn lá trên những cành cây cao.",
     "vocabulary": [
       "hươu cao cổ",
       "cổ dài",
-      "đồng cỏ",
-      "con vật"
+      "lá cây",
+      "đồng cỏ"
     ],
     "quiz": {
-      "question": "Con hươu cao cổ có đặc điểm gì nổi bật?",
+      "question": "Hươu cao cổ có gì rất dài?",
       "options": [
-        "Con hươu cao cổ",
-        "Con voi",
-        "Con mèo"
+        "Cổ",
+        "Cánh",
+        "Vây"
       ],
-      "correctAnswer": "Con hươu cao cổ"
+      "correctAnswer": "Cổ"
     },
-    "coloringPrompt": "Con hươu cao cổ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con hươu cao cổ for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có cổ dài? 3...2...1... Đáp án là Con hươu cao cổ!",
-    "worksheetInstruction": "Tô màu con hươu cao cổ và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con hươu cao cổ có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một chú hươu cao cổ cổ dài đứng trên đồng cỏ, nét rõ và ít chi tiết cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute giraffe with a long neck standing in a green savanna, simple preschool children book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì cổ thật dài, vươn lên ăn lá trên cao? Đáp án là con hươu cao cổ!",
+    "worksheetInstruction": "Tô màu hươu cao cổ và khoanh tròn chiếc cổ dài.",
+    "parentGuide": "Hỏi bé: Vì sao cổ dài giúp hươu cao cổ ăn lá trên cao?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_dolphin_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cá heo",
-    "riddle": "Con gì có bơi nhanh,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì bơi dưới biển xanh,\nThân trơn nhảy sóng thật nhanh.\nMiệng cười trông rất thân thiện,\nBé đoán tên bạn là gì?",
     "answer": "Con cá heo",
-    "fact": "Con cá heo có bơi nhanh và thường được bé nhận ra ở biển.",
+    "fact": "Cá heo sống dưới biển và bơi rất giỏi. Cá heo thường giao tiếp với nhau bằng nhiều âm thanh.",
     "vocabulary": [
       "cá heo",
-      "bơi nhanh",
       "biển",
-      "con vật"
+      "bơi",
+      "âm thanh"
     ],
     "quiz": {
-      "question": "Con cá heo có đặc điểm gì nổi bật?",
+      "question": "Cá heo sống ở đâu?",
       "options": [
-        "Con cá heo",
-        "Con mèo",
-        "Con chó"
+        "Dưới biển",
+        "Trên cây",
+        "Trong tổ"
       ],
-      "correctAnswer": "Con cá heo"
+      "correctAnswer": "Dưới biển"
     },
-    "coloringPrompt": "Con cá heo dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cá heo for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có bơi nhanh? 3...2...1... Đáp án là Con cá heo!",
-    "worksheetInstruction": "Tô màu con cá heo và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cá heo có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một chú cá heo đang nhảy lên khỏi sóng biển, nét đơn giản và vui tươi cho trẻ tô màu.",
+    "imagePrompt": "Cute dolphin jumping above blue waves, friendly preschool educational illustration.",
+    "shortVideoScript": "Con gì bơi nhanh dưới biển xanh và hay nhảy lên khỏi mặt nước? Đáp án là con cá heo!",
+    "worksheetInstruction": "Tô màu cá heo và vẽ thêm vài làn sóng biển.",
+    "parentGuide": "Hỏi bé: Cá heo di chuyển bằng cách bơi hay đi bộ?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_whale_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cá voi",
-    "riddle": "Con gì có thân to,\nSống ở đại dương thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì rất lớn ngoài khơi,\nBơi trong biển rộng thảnh thơi.\nLưng cao phun nước trắng xóa,\nBé gọi tên bạn đi nào?",
     "answer": "Con cá voi",
-    "fact": "Con cá voi có thân to và thường được bé nhận ra ở đại dương.",
+    "fact": "Cá voi là loài vật rất lớn sống ở biển. Cá voi con uống sữa mẹ giống nhiều loài thú khác.",
     "vocabulary": [
       "cá voi",
-      "thân to",
-      "đại dương",
-      "con vật"
+      "biển",
+      "to lớn",
+      "phun nước"
     ],
     "quiz": {
-      "question": "Con cá voi có đặc điểm gì nổi bật?",
+      "question": "Cá voi sống ở đâu?",
       "options": [
-        "Con cá voi",
-        "Con chó",
-        "Con vịt"
+        "Ở biển",
+        "Trong chuồng gà",
+        "Trên cành cây"
       ],
-      "correctAnswer": "Con cá voi"
+      "correctAnswer": "Ở biển"
     },
-    "coloringPrompt": "Con cá voi dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cá voi for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân to? 3...2...1... Đáp án là Con cá voi!",
-    "worksheetInstruction": "Tô màu con cá voi và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cá voi có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một chú cá voi lớn đang phun nước trên mặt biển, nét to rõ cho trẻ tô màu.",
+    "imagePrompt": "Gentle whale spraying water in the ocean, simple cute preschool illustration.",
+    "shortVideoScript": "Con gì thật to, bơi trong biển rộng và phun nước trắng xóa? Đáp án là con cá voi!",
+    "worksheetInstruction": "Tô màu cá voi và khoanh tròn tia nước phun lên.",
+    "parentGuide": "Hỏi bé: Cá voi to hay nhỏ? Cá voi sống dưới nước hay trên cạn?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_shark_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cá mập",
-    "riddle": "Con gì có vây lưng,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì bơi giữa biển sâu,\nVây lưng nhô khỏi sóng mau.\nRăng sắc nên cần đứng xa,\nBé đoán tên bạn là gì?",
     "answer": "Con cá mập",
-    "fact": "Con cá mập có vây lưng và thường được bé nhận ra ở biển.",
+    "fact": "Cá mập là loài cá lớn sống ở biển. Một số loài cá mập có răng sắc để bắt mồi.",
     "vocabulary": [
       "cá mập",
       "vây lưng",
-      "biển",
-      "con vật"
+      "biển sâu",
+      "răng sắc"
     ],
     "quiz": {
-      "question": "Con cá mập có đặc điểm gì nổi bật?",
+      "question": "Cá mập có bộ phận nào hay nhô lên khỏi mặt nước?",
       "options": [
-        "Con cá mập",
-        "Con vịt",
-        "Con voi"
+        "Vây lưng",
+        "Cái vòi",
+        "Cái mào"
       ],
-      "correctAnswer": "Con cá mập"
+      "correctAnswer": "Vây lưng"
     },
-    "coloringPrompt": "Con cá mập dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cá mập for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có vây lưng? 3...2...1... Đáp án là Con cá mập!",
-    "worksheetInstruction": "Tô màu con cá mập và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cá mập có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một chú cá mập thân đơn giản đang bơi dưới biển, nét rõ và không đáng sợ cho trẻ tô màu.",
+    "imagePrompt": "Friendly simplified shark swimming in the ocean, non-scary preschool educational illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì có vây lưng, bơi giữa biển sâu? Đáp án là con cá mập!",
+    "worksheetInstruction": "Tô màu cá mập và khoanh tròn chiếc vây lưng.",
+    "parentGuide": "Hỏi bé: Khi muốn xem cá mập, mình nên xem qua sách, video hay thủy cung an toàn?",
     "safetyNotes": [
-      "Nhắc trẻ chỉ quan sát cá mập qua sách, phim hoặc thủy cung an toàn."
+      "Cá mập là động vật hoang dã dưới biển. Bé chỉ nên quan sát cá mập qua sách, video hoặc thủy cung an toàn cùng người lớn."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_starfish_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sao biển",
-    "riddle": "Con gì có hình ngôi sao,\nSống ở bờ biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì như ngôi sao nhỏ,\nNằm yên bên cát ven bờ.\nKhông bay lên trời lấp lánh,\nBé đoán tên bạn được chưa?",
     "answer": "Con sao biển",
-    "fact": "Con sao biển có hình ngôi sao và thường được bé nhận ra ở bờ biển.",
+    "fact": "Sao biển sống ở biển và có hình giống ngôi sao. Bé chỉ nên ngắm sao biển, không tự ý cầm lên.",
     "vocabulary": [
       "sao biển",
-      "hình ngôi sao",
+      "ngôi sao",
       "bờ biển",
-      "con vật"
+      "cánh"
     ],
     "quiz": {
-      "question": "Con sao biển có đặc điểm gì nổi bật?",
+      "question": "Sao biển có hình giống gì?",
       "options": [
-        "Con sao biển",
-        "Con voi",
-        "Con mèo"
+        "Ngôi sao",
+        "Chiếc lá",
+        "Quả bóng"
       ],
-      "correctAnswer": "Con sao biển"
+      "correctAnswer": "Ngôi sao"
     },
-    "coloringPrompt": "Con sao biển dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sao biển for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có hình ngôi sao? 3...2...1... Đáp án là Con sao biển!",
-    "worksheetInstruction": "Tô màu con sao biển và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sao biển có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con sao biển hình ngôi sao nằm trên cát, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute starfish on sandy beach, simple preschool coloring-friendly illustration.",
+    "shortVideoScript": "Con gì giống ngôi sao nhỏ nằm bên bờ biển? Đáp án là con sao biển!",
+    "worksheetInstruction": "Tô màu sao biển và vẽ thêm vài hạt cát xung quanh.",
+    "parentGuide": "Hỏi bé: Sao biển giống hình gì mà bé đã biết?",
+    "safetyNotes": [
+      "Bé chỉ nên quan sát sao biển cùng người lớn, không tự ý nhặt hoặc mang sinh vật biển về nhà."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_crab_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cua",
-    "riddle": "Con gì có hai càng,\nSống ở bãi cát thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì có hai càng xinh,\nĐi ngang trên cát linh tinh.\nMai cứng che thân bé nhỏ,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con cua",
-    "fact": "Con cua có hai càng và thường được bé nhận ra ở bãi cát.",
+    "fact": "Cua có mai cứng và hai chiếc càng. Cua thường đi ngang trên cát hoặc dưới nước.",
     "vocabulary": [
       "cua",
-      "hai càng",
-      "bãi cát",
-      "con vật"
+      "càng",
+      "mai cứng",
+      "đi ngang"
     ],
     "quiz": {
-      "question": "Con cua có đặc điểm gì nổi bật?",
+      "question": "Cua thường đi như thế nào?",
       "options": [
-        "Con cua",
-        "Con mèo",
-        "Con chó"
+        "Đi ngang",
+        "Bay cao",
+        "Nhảy trên cây"
       ],
-      "correctAnswer": "Con cua"
+      "correctAnswer": "Đi ngang"
     },
-    "coloringPrompt": "Con cua dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cua for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có hai càng? 3...2...1... Đáp án là Con cua!",
-    "worksheetInstruction": "Tô màu con cua và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cua có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một chú cua vui vẻ có hai càng trên bãi cát, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute crab with two claws walking sideways on sand, simple preschool illustration.",
+    "shortVideoScript": "Con gì có hai càng và đi ngang trên bãi cát? Đáp án là con cua!",
+    "worksheetInstruction": "Tô màu con cua và khoanh tròn hai chiếc càng.",
+    "parentGuide": "Hỏi bé: Con cua có mấy chiếc càng lớn?",
+    "safetyNotes": [
+      "Bé không nên tự chạm vào càng cua vì càng có thể kẹp đau."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_shrimp_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con tôm",
-    "riddle": "Con gì có râu dài,\nSống ở dưới nước thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì râu nhỏ thật dài,\nThân cong bơi nước khoan thai.\nMàu hồng cam khi nấu chín,\nBé đoán xem bạn là ai?",
     "answer": "Con tôm",
-    "fact": "Con tôm có râu dài và thường được bé nhận ra ở dưới nước.",
+    "fact": "Tôm sống dưới nước và có đôi râu dài. Thân tôm cong cong nên rất dễ nhận ra.",
     "vocabulary": [
       "tôm",
       "râu dài",
-      "dưới nước",
-      "con vật"
+      "thân cong",
+      "dưới nước"
     ],
     "quiz": {
-      "question": "Con tôm có đặc điểm gì nổi bật?",
+      "question": "Tôm có gì dài ở phía đầu?",
       "options": [
-        "Con tôm",
-        "Con chó",
-        "Con vịt"
+        "Râu",
+        "Sừng",
+        "Bờm"
       ],
-      "correctAnswer": "Con tôm"
+      "correctAnswer": "Râu"
     },
-    "coloringPrompt": "Con tôm dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con tôm for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có râu dài? 3...2...1... Đáp án là Con tôm!",
-    "worksheetInstruction": "Tô màu con tôm và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con tôm có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con tôm thân cong có râu dài dưới nước, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute shrimp with long antennae swimming underwater, simple preschool illustration.",
+    "shortVideoScript": "Con gì thân cong cong, có đôi râu dài và sống dưới nước? Đáp án là con tôm!",
+    "worksheetInstruction": "Tô màu con tôm và vẽ thêm vài bong bóng nước.",
+    "parentGuide": "Hỏi bé: Con tôm có thân thẳng hay cong?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_squid_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con mực",
-    "riddle": "Con gì có thân mềm,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân mềm dưới sâu,\nCó nhiều tay nhỏ trước đầu.\nBơi nhanh trong làn nước biển,\nBé đoán tên bạn ở đâu?",
     "answer": "Con mực",
-    "fact": "Con mực có thân mềm và thường được bé nhận ra ở biển.",
+    "fact": "Mực là sinh vật biển có thân mềm. Mực có nhiều tay nhỏ giúp di chuyển và bắt thức ăn.",
     "vocabulary": [
       "mực",
       "thân mềm",
       "biển",
-      "con vật"
+      "nhiều tay"
     ],
     "quiz": {
-      "question": "Con mực có đặc điểm gì nổi bật?",
+      "question": "Mực sống ở đâu?",
       "options": [
-        "Con mực",
-        "Con vịt",
-        "Con voi"
+        "Dưới biển",
+        "Trên mái nhà",
+        "Trong tổ chim"
       ],
-      "correctAnswer": "Con mực"
+      "correctAnswer": "Dưới biển"
     },
-    "coloringPrompt": "Con mực dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con mực for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân mềm? 3...2...1... Đáp án là Con mực!",
-    "worksheetInstruction": "Tô màu con mực và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con mực có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con mực thân mềm có nhiều tay nhỏ dưới biển, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute squid swimming in the ocean with soft arms, simple preschool illustration.",
+    "shortVideoScript": "Con gì thân mềm, có nhiều tay nhỏ và bơi dưới biển? Đáp án là con mực!",
+    "worksheetInstruction": "Tô màu con mực và khoanh tròn các tay nhỏ.",
+    "parentGuide": "Hỏi bé: Con mực sống trên cạn hay dưới biển?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_octopus_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con bạch tuộc",
-    "riddle": "Con gì có nhiều tay,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì tám tay mềm mại,\nBơi dưới biển xanh rất tài.\nCó thể trốn trong khe đá,\nBé gọi tên bạn là ai?",
     "answer": "Con bạch tuộc",
-    "fact": "Con bạch tuộc có nhiều tay và thường được bé nhận ra ở biển.",
+    "fact": "Bạch tuộc có tám cánh tay mềm. Bạch tuộc sống dưới biển và có thể ẩn mình rất khéo.",
     "vocabulary": [
       "bạch tuộc",
-      "nhiều tay",
+      "tám tay",
       "biển",
-      "con vật"
+      "ẩn mình"
     ],
     "quiz": {
-      "question": "Con bạch tuộc có đặc điểm gì nổi bật?",
+      "question": "Bạch tuộc có mấy cánh tay?",
       "options": [
-        "Con bạch tuộc",
-        "Con voi",
-        "Con mèo"
+        "Tám",
+        "Hai",
+        "Bốn"
       ],
-      "correctAnswer": "Con bạch tuộc"
+      "correctAnswer": "Tám"
     },
-    "coloringPrompt": "Con bạch tuộc dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con bạch tuộc for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có nhiều tay? 3...2...1... Đáp án là Con bạch tuộc!",
-    "worksheetInstruction": "Tô màu con bạch tuộc và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con bạch tuộc có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con bạch tuộc dễ thương có tám tay mềm dưới biển, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute octopus with eight soft arms under the sea, friendly preschool illustration.",
+    "shortVideoScript": "Con gì có tám tay mềm và sống dưới biển? Đáp án là con bạch tuộc!",
+    "worksheetInstruction": "Tô màu bạch tuộc và đếm tám cánh tay.",
+    "parentGuide": "Hỏi bé: Bạch tuộc có nhiều tay hay ít tay?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_zebra_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con ngựa vằn",
-    "riddle": "Con gì có vằn đen trắng,\nSống ở đồng cỏ thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì như ngựa ngoài đồng,\nÁo đen trắng kẻ từng dòng.\nChạy nhanh trên vùng cỏ rộng,\nBé đoán ra bạn hay không?",
     "answer": "Con ngựa vằn",
-    "fact": "Con ngựa vằn có vằn đen trắng và thường được bé nhận ra ở đồng cỏ.",
+    "fact": "Ngựa vằn có các sọc đen trắng trên thân. Những sọc này giúp bé nhận ra ngựa vằn rất nhanh.",
     "vocabulary": [
       "ngựa vằn",
-      "vằn đen trắng",
-      "đồng cỏ",
-      "con vật"
+      "sọc",
+      "đen trắng",
+      "đồng cỏ"
     ],
     "quiz": {
-      "question": "Con ngựa vằn có đặc điểm gì nổi bật?",
+      "question": "Ngựa vằn có màu sọc gì?",
       "options": [
-        "Con ngựa vằn",
-        "Con mèo",
-        "Con chó"
+        "Đen trắng",
+        "Đỏ vàng",
+        "Xanh tím"
       ],
-      "correctAnswer": "Con ngựa vằn"
+      "correctAnswer": "Đen trắng"
     },
-    "coloringPrompt": "Con ngựa vằn dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con ngựa vằn for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có vằn đen trắng? 3...2...1... Đáp án là Con ngựa vằn!",
-    "worksheetInstruction": "Tô màu con ngựa vằn và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con ngựa vằn có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con ngựa vằn có sọc đen trắng đứng trên đồng cỏ, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute zebra with black and white stripes standing in grassland, simple preschool illustration.",
+    "shortVideoScript": "Con gì giống ngựa và mặc áo sọc đen trắng? Đáp án là con ngựa vằn!",
+    "worksheetInstruction": "Tô màu ngựa vằn và kẻ thêm các sọc đen trắng.",
+    "parentGuide": "Hỏi bé: Ngựa vằn có những sọc màu gì?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_deer_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con hươu",
-    "riddle": "Con gì có chân thon,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì chân thon chạy nhanh,\nĂn lá non giữa rừng xanh.\nMắt hiền nhìn quanh khe khẽ,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con hươu",
-    "fact": "Con hươu có chân thon và thường được bé nhận ra ở rừng.",
+    "fact": "Hươu thường ăn lá cây và cỏ non. Hươu có đôi chân thon giúp chạy nhanh.",
     "vocabulary": [
       "hươu",
       "chân thon",
-      "rừng",
-      "con vật"
+      "lá cây",
+      "rừng"
     ],
     "quiz": {
-      "question": "Con hươu có đặc điểm gì nổi bật?",
+      "question": "Hươu thường ăn gì?",
       "options": [
-        "Con hươu",
-        "Con chó",
-        "Con vịt"
+        "Lá cây",
+        "Bánh kẹo",
+        "Cục đá"
       ],
-      "correctAnswer": "Con hươu"
+      "correctAnswer": "Lá cây"
     },
-    "coloringPrompt": "Con hươu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con hươu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có chân thon? 3...2...1... Đáp án là Con hươu!",
-    "worksheetInstruction": "Tô màu con hươu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con hươu có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con hươu hiền lành đứng trong rừng xanh, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Gentle deer standing in a green forest, cute preschool educational illustration.",
+    "shortVideoScript": "Con gì chân thon, chạy nhanh và ăn lá cây? Đáp án là con hươu!",
+    "worksheetInstruction": "Tô màu con hươu và vẽ thêm vài chiếc lá.",
+    "parentGuide": "Hỏi bé: Hươu dùng đôi chân để đi chậm hay chạy nhanh?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_stag_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con nai",
-    "riddle": "Con gì có dáng nhẹ,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì dáng nhẹ trong rừng,\nTai cao nghe tiếng lá rung.\nBước đi êm trên thảm cỏ,\nBé gọi tên bạn được không?",
     "answer": "Con nai",
-    "fact": "Con nai có dáng nhẹ và thường được bé nhận ra ở rừng.",
+    "fact": "Nai là con vật hiền, thường sống ở rừng hoặc đồng cỏ. Nai ăn lá cây và cỏ non.",
     "vocabulary": [
       "nai",
-      "dáng nhẹ",
       "rừng",
-      "con vật"
+      "lá cây",
+      "nhẹ nhàng"
     ],
     "quiz": {
-      "question": "Con nai có đặc điểm gì nổi bật?",
+      "question": "Con nai thường sống ở đâu?",
       "options": [
-        "Con nai",
-        "Con vịt",
-        "Con voi"
+        "Trong rừng",
+        "Trên mây",
+        "Dưới biển"
       ],
-      "correctAnswer": "Con nai"
+      "correctAnswer": "Trong rừng"
     },
-    "coloringPrompt": "Con nai dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con nai for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có dáng nhẹ? 3...2...1... Đáp án là Con nai!",
-    "worksheetInstruction": "Tô màu con nai và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con nai có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con nai nhẹ nhàng đứng cạnh bụi cây, nét rõ và đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute gentle deer in a forest clearing, simple preschool illustration.",
+    "shortVideoScript": "Con gì dáng nhẹ, sống trong rừng và thích ăn lá? Đáp án là con nai!",
+    "worksheetInstruction": "Tô màu con nai và khoanh tròn đôi tai.",
+    "parentGuide": "Hỏi bé: Con nai đi nhẹ nhàng hay ồn ào?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_bear_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con gấu",
-    "riddle": "Con gì có lông dày,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân lớn lông dày,\nĐi trong rừng chậm từng ngày.\nBàn chân to in trên đất,\nBé đoán tên bạn nào đây?",
     "answer": "Con gấu",
-    "fact": "Con gấu có lông dày và thường được bé nhận ra ở rừng.",
+    "fact": "Gấu có thân hình to và bộ lông dày. Gấu là động vật hoang dã nên bé chỉ nên quan sát từ xa.",
     "vocabulary": [
       "gấu",
       "lông dày",
       "rừng",
-      "con vật"
+      "thân to"
     ],
     "quiz": {
-      "question": "Con gấu có đặc điểm gì nổi bật?",
+      "question": "Gấu có bộ lông như thế nào?",
       "options": [
-        "Con gấu",
-        "Con voi",
-        "Con mèo"
+        "Dày",
+        "Mỏng như giấy",
+        "Có vảy cá"
       ],
-      "correctAnswer": "Con gấu"
+      "correctAnswer": "Dày"
     },
-    "coloringPrompt": "Con gấu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con gấu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có lông dày? 3...2...1... Đáp án là Con gấu!",
-    "worksheetInstruction": "Tô màu con gấu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con gấu có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con gấu thân tròn có lông dày đứng trong rừng, nét thân thiện cho trẻ tô màu.",
+    "imagePrompt": "Friendly cute bear with thick fur in a forest, non-scary preschool illustration.",
+    "shortVideoScript": "Con gì thân lớn, lông dày và sống trong rừng? Đáp án là con gấu!",
+    "worksheetInstruction": "Tô màu con gấu và khoanh tròn bàn chân to.",
+    "parentGuide": "Hỏi bé: Vì sao mình chỉ nên quan sát gấu từ xa?",
+    "safetyNotes": [
+      "Gấu là động vật hoang dã. Bé chỉ nên quan sát gấu qua sách, video hoặc ở sở thú cùng người lớn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_panda_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con gấu trúc",
-    "riddle": "Con gì có lông đen trắng,\nSống ở rừng tre thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì áo trắng áo đen,\nÔm tre ăn rất dịu hiền.\nMắt tròn như đeo kính nhỏ,\nBé đoán tên bạn thật liền?",
     "answer": "Con gấu trúc",
-    "fact": "Con gấu trúc có lông đen trắng và thường được bé nhận ra ở rừng tre.",
+    "fact": "Gấu trúc có bộ lông đen trắng rất dễ nhận ra. Gấu trúc thích ăn tre.",
     "vocabulary": [
       "gấu trúc",
-      "lông đen trắng",
-      "rừng tre",
-      "con vật"
+      "tre",
+      "đen trắng",
+      "rừng tre"
     ],
     "quiz": {
-      "question": "Con gấu trúc có đặc điểm gì nổi bật?",
+      "question": "Gấu trúc thích ăn gì?",
       "options": [
-        "Con gấu trúc",
-        "Con mèo",
-        "Con chó"
+        "Tre",
+        "Cá nhỏ",
+        "Cà rốt"
       ],
-      "correctAnswer": "Con gấu trúc"
+      "correctAnswer": "Tre"
     },
-    "coloringPrompt": "Con gấu trúc dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con gấu trúc for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có lông đen trắng? 3...2...1... Đáp án là Con gấu trúc!",
-    "worksheetInstruction": "Tô màu con gấu trúc và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con gấu trúc có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một chú gấu trúc đen trắng đang ôm cây tre, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute panda holding bamboo, black and white preschool educational illustration.",
+    "shortVideoScript": "Con gì lông đen trắng và thích ăn tre? Đáp án là con gấu trúc!",
+    "worksheetInstruction": "Tô màu gấu trúc và vẽ thêm cây tre.",
+    "parentGuide": "Hỏi bé: Gấu trúc có những màu lông nào?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_tiger_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con hổ",
-    "riddle": "Con gì có lông vằn,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì áo cam vằn đen,\nĐi trong rừng thật oai nghiêm.\nTiếng gầm vang xa khe khẽ,\nBé đoán tên bạn xem nào?",
     "answer": "Con hổ",
-    "fact": "Con hổ có lông vằn và thường được bé nhận ra ở rừng.",
+    "fact": "Hổ có bộ lông cam với nhiều vằn đen. Hổ là động vật hoang dã và cần được quan sát ở nơi an toàn.",
     "vocabulary": [
       "hổ",
-      "lông vằn",
+      "vằn đen",
       "rừng",
-      "con vật"
+      "gầm"
     ],
     "quiz": {
-      "question": "Con hổ có đặc điểm gì nổi bật?",
+      "question": "Hổ có bộ lông màu gì nổi bật?",
       "options": [
-        "Con hổ",
-        "Con chó",
-        "Con vịt"
+        "Cam vằn đen",
+        "Xanh lá",
+        "Trắng hồng"
       ],
-      "correctAnswer": "Con hổ"
+      "correctAnswer": "Cam vằn đen"
     },
-    "coloringPrompt": "Con hổ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con hổ for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có lông vằn? 3...2...1... Đáp án là Con hổ!",
-    "worksheetInstruction": "Tô màu con hổ và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con hổ có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con hổ thân thiện có vằn đen trong rừng, nét rõ và không đáng sợ cho trẻ tô màu.",
+    "imagePrompt": "Friendly simplified tiger with orange fur and black stripes in forest, preschool illustration.",
+    "shortVideoScript": "Con gì áo cam vằn đen và sống trong rừng? Đáp án là con hổ!",
+    "worksheetInstruction": "Tô màu con hổ và vẽ thêm các vằn đen.",
+    "parentGuide": "Hỏi bé: Khi xem hổ ở sở thú, mình nên đứng gần người lớn hay chạy lại gần?",
     "safetyNotes": [
-      "Nhắc trẻ không đến gần thú hoang, chỉ quan sát qua sách hoặc sở thú an toàn."
+      "Hổ là động vật hoang dã. Bé chỉ nên quan sát hổ qua sách, video hoặc ở sở thú cùng người lớn."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_leopard_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con báo",
-    "riddle": "Con gì có đốm trên lông,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì có đốm trên lưng,\nChạy nhanh qua những cánh rừng.\nBước chân nhẹ như cơn gió,\nBé đoán tên bạn được không?",
     "answer": "Con báo",
-    "fact": "Con báo có đốm trên lông và thường được bé nhận ra ở rừng.",
+    "fact": "Báo có nhiều đốm trên bộ lông. Báo chạy nhanh và là động vật hoang dã.",
     "vocabulary": [
       "báo",
-      "đốm trên lông",
-      "rừng",
-      "con vật"
+      "đốm",
+      "chạy nhanh",
+      "rừng"
     ],
     "quiz": {
-      "question": "Con báo có đặc điểm gì nổi bật?",
+      "question": "Báo có gì trên bộ lông?",
       "options": [
-        "Con báo",
-        "Con vịt",
-        "Con voi"
+        "Đốm",
+        "Mai cứng",
+        "Vảy cá"
       ],
-      "correctAnswer": "Con báo"
+      "correctAnswer": "Đốm"
     },
-    "coloringPrompt": "Con báo dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con báo for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có đốm trên lông? 3...2...1... Đáp án là Con báo!",
-    "worksheetInstruction": "Tô màu con báo và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con báo có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con báo có nhiều đốm đứng trong rừng, nét thân thiện và đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute leopard with spots in a forest, friendly non-scary preschool illustration.",
+    "shortVideoScript": "Con gì chạy nhanh và có nhiều đốm trên lông? Đáp án là con báo!",
+    "worksheetInstruction": "Tô màu con báo và chấm thêm các đốm trên lông.",
+    "parentGuide": "Hỏi bé: Con báo có lông trơn hay có nhiều đốm?",
+    "safetyNotes": [
+      "Báo là động vật hoang dã. Bé chỉ nên quan sát báo qua sách, video hoặc ở nơi an toàn cùng người lớn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_wolf_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sói",
-    "riddle": "Con gì có tai nhọn,\nSống ở rừng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì tai nhọn đuôi dài,\nSống cùng bầy giữa rừng sâu.\nKêu vang khi trời đã tối,\nBé đoán tên bạn là đâu?",
     "answer": "Con sói",
-    "fact": "Con sói có tai nhọn và thường được bé nhận ra ở rừng.",
+    "fact": "Sói thường sống theo bầy. Sói là động vật hoang dã nên bé chỉ nên quan sát qua hình ảnh hoặc ở nơi an toàn.",
     "vocabulary": [
       "sói",
+      "bầy",
       "tai nhọn",
-      "rừng",
-      "con vật"
+      "rừng"
     ],
     "quiz": {
-      "question": "Con sói có đặc điểm gì nổi bật?",
+      "question": "Sói thường sống như thế nào?",
       "options": [
-        "Con sói",
-        "Con voi",
-        "Con mèo"
+        "Theo bầy",
+        "Một mình trong chậu",
+        "Dưới ao"
       ],
-      "correctAnswer": "Con sói"
+      "correctAnswer": "Theo bầy"
     },
-    "coloringPrompt": "Con sói dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sói for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có tai nhọn? 3...2...1... Đáp án là Con sói!",
-    "worksheetInstruction": "Tô màu con sói và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sói có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con sói thân thiện có tai nhọn đứng trong rừng, nét đơn giản và không đáng sợ.",
+    "imagePrompt": "Friendly simplified wolf with pointed ears in a forest, non-scary preschool illustration.",
+    "shortVideoScript": "Con gì tai nhọn, đuôi dài và thường sống theo bầy? Đáp án là con sói!",
+    "worksheetInstruction": "Tô màu con sói và khoanh tròn đôi tai nhọn.",
+    "parentGuide": "Hỏi bé: Sói thường sống một mình hay theo bầy?",
     "safetyNotes": [
-      "Nhắc trẻ không lại gần động vật hoang dã."
+      "Sói là động vật hoang dã. Bé không nên lại gần sói hoặc động vật lạ."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_crocodile_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cá sấu",
-    "riddle": "Con gì có đuôi dài,\nSống ở đầm nước thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì da sần đuôi dài,\nNằm im bên nước khoan thai.\nMiệng dài răng trông sắc nhọn,\nBé đoán tên bạn là ai?",
     "answer": "Con cá sấu",
-    "fact": "Con cá sấu có đuôi dài và thường được bé nhận ra ở đầm nước.",
+    "fact": "Cá sấu sống gần nước và bơi rất giỏi. Cá sấu là động vật hoang dã nên cần quan sát ở nơi an toàn.",
     "vocabulary": [
       "cá sấu",
       "đuôi dài",
-      "đầm nước",
-      "con vật"
+      "da sần",
+      "đầm nước"
     ],
     "quiz": {
-      "question": "Con cá sấu có đặc điểm gì nổi bật?",
+      "question": "Cá sấu thường sống gần đâu?",
       "options": [
-        "Con cá sấu",
-        "Con mèo",
-        "Con chó"
+        "Nước",
+        "Mái nhà",
+        "Tổ chim"
       ],
-      "correctAnswer": "Con cá sấu"
+      "correctAnswer": "Nước"
     },
-    "coloringPrompt": "Con cá sấu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cá sấu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có đuôi dài? 3...2...1... Đáp án là Con cá sấu!",
-    "worksheetInstruction": "Tô màu con cá sấu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cá sấu có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con cá sấu đơn giản nằm cạnh đầm nước, nét rõ và không đáng sợ cho trẻ tô màu.",
+    "imagePrompt": "Friendly simplified crocodile near water, non-scary preschool educational illustration.",
+    "shortVideoScript": "Con gì da sần, đuôi dài và sống gần nước? Đáp án là con cá sấu!",
+    "worksheetInstruction": "Tô màu cá sấu và khoanh tròn chiếc đuôi dài.",
+    "parentGuide": "Hỏi bé: Vì sao mình chỉ xem cá sấu ở nơi có người lớn?",
     "safetyNotes": [
-      "Chỉ quan sát cá sấu ở nơi an toàn, có người lớn."
+      "Cá sấu là động vật hoang dã. Bé chỉ nên quan sát cá sấu ở nơi an toàn và luôn đi cùng người lớn."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_hippo_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con hà mã",
-    "riddle": "Con gì có miệng rộng,\nSống ở sông hồ thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân lớn miệng to,\nThích ngâm mình dưới hồ.\nTai nhỏ mắt tròn trên nước,\nBé đoán tên bạn được chưa?",
     "answer": "Con hà mã",
-    "fact": "Con hà mã có miệng rộng và thường được bé nhận ra ở sông hồ.",
+    "fact": "Hà mã có thân to và chiếc miệng rộng. Hà mã thường ở gần sông hồ.",
     "vocabulary": [
       "hà mã",
       "miệng rộng",
       "sông hồ",
-      "con vật"
+      "thân to"
     ],
     "quiz": {
-      "question": "Con hà mã có đặc điểm gì nổi bật?",
+      "question": "Hà mã có miệng như thế nào?",
       "options": [
-        "Con hà mã",
-        "Con chó",
-        "Con vịt"
+        "Rộng",
+        "Nhỏ như kim",
+        "Dài như vòi"
       ],
-      "correctAnswer": "Con hà mã"
+      "correctAnswer": "Rộng"
     },
-    "coloringPrompt": "Con hà mã dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con hà mã for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có miệng rộng? 3...2...1... Đáp án là Con hà mã!",
-    "worksheetInstruction": "Tô màu con hà mã và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con hà mã có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con hà mã thân tròn đang ngâm mình trong hồ, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute hippo in a pond with wide mouth, simple preschool illustration.",
+    "shortVideoScript": "Con gì thân to, miệng rộng và thích ở gần sông hồ? Đáp án là con hà mã!",
+    "worksheetInstruction": "Tô màu hà mã và vẽ thêm mặt nước xung quanh.",
+    "parentGuide": "Hỏi bé: Hà mã thích ở gần nước hay trên cây?",
+    "safetyNotes": [
+      "Hà mã là động vật hoang dã. Bé chỉ nên quan sát hà mã ở nơi an toàn cùng người lớn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_rhino_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con tê giác",
-    "riddle": "Con gì có sừng trên mũi,\nSống ở đồng cỏ thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân lớn da dày,\nCó sừng trên mũi thật hay.\nĐi trên đồng cỏ rộng lớn,\nBé đoán tên bạn hôm nay?",
     "answer": "Con tê giác",
-    "fact": "Con tê giác có sừng trên mũi và thường được bé nhận ra ở đồng cỏ.",
+    "fact": "Tê giác có chiếc sừng trên mũi và lớp da dày. Tê giác là động vật hoang dã cần được bảo vệ.",
     "vocabulary": [
       "tê giác",
-      "sừng trên mũi",
-      "đồng cỏ",
-      "con vật"
+      "sừng",
+      "mũi",
+      "da dày"
     ],
     "quiz": {
-      "question": "Con tê giác có đặc điểm gì nổi bật?",
+      "question": "Tê giác có gì trên mũi?",
       "options": [
-        "Con tê giác",
-        "Con vịt",
-        "Con voi"
+        "Sừng",
+        "Cánh",
+        "Vây"
       ],
-      "correctAnswer": "Con tê giác"
+      "correctAnswer": "Sừng"
     },
-    "coloringPrompt": "Con tê giác dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con tê giác for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có sừng trên mũi? 3...2...1... Đáp án là Con tê giác!",
-    "worksheetInstruction": "Tô màu con tê giác và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con tê giác có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con tê giác có sừng trên mũi đứng trên đồng cỏ, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute rhinoceros with a horn standing in grassland, simple preschool illustration.",
+    "shortVideoScript": "Con gì thân lớn, da dày và có sừng trên mũi? Đáp án là con tê giác!",
+    "worksheetInstruction": "Tô màu tê giác và khoanh tròn chiếc sừng trên mũi.",
+    "parentGuide": "Hỏi bé: Tê giác có chiếc sừng ở đâu?",
+    "safetyNotes": [
+      "Tê giác là động vật hoang dã. Bé chỉ nên quan sát tê giác qua sách, video hoặc ở sở thú cùng người lớn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_camel_vi_3_5",

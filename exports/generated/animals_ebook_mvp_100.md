@@ -509,500 +509,500 @@ Con ốc sên có đặc điểm gì nổi bật?
 ## 21. Con hươu cao cổ
 
 ### Câu đố
-Con gì có cổ dài,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cổ thật là dài,
+Vươn lên ăn lá trên cao.
+Chân cao đi giữa đồng cỏ,
+Bé đoán tên bạn nào?
 
 ### Đáp án
 Con hươu cao cổ
 
 ### Kiến thức nhỏ
-Con hươu cao cổ có cổ dài và thường được bé nhận ra ở đồng cỏ.
+Hươu cao cổ có chiếc cổ rất dài. Nhờ vậy, hươu cao cổ dễ ăn lá trên những cành cây cao.
 
 ### Từ mới
 - hươu cao cổ
 - cổ dài
+- lá cây
 - đồng cỏ
-- con vật
 
 ### Câu hỏi cho bé
-Con hươu cao cổ có đặc điểm gì nổi bật?
+Hươu cao cổ có gì rất dài?
 
 ---
 
 ## 22. Con cá heo
 
 ### Câu đố
-Con gì có bơi nhanh,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì bơi dưới biển xanh,
+Thân trơn nhảy sóng thật nhanh.
+Miệng cười trông rất thân thiện,
+Bé đoán tên bạn là gì?
 
 ### Đáp án
 Con cá heo
 
 ### Kiến thức nhỏ
-Con cá heo có bơi nhanh và thường được bé nhận ra ở biển.
+Cá heo sống dưới biển và bơi rất giỏi. Cá heo thường giao tiếp với nhau bằng nhiều âm thanh.
 
 ### Từ mới
 - cá heo
-- bơi nhanh
 - biển
-- con vật
+- bơi
+- âm thanh
 
 ### Câu hỏi cho bé
-Con cá heo có đặc điểm gì nổi bật?
+Cá heo sống ở đâu?
 
 ---
 
 ## 23. Con cá voi
 
 ### Câu đố
-Con gì có thân to,
-Sống ở đại dương thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì rất lớn ngoài khơi,
+Bơi trong biển rộng thảnh thơi.
+Lưng cao phun nước trắng xóa,
+Bé gọi tên bạn đi nào?
 
 ### Đáp án
 Con cá voi
 
 ### Kiến thức nhỏ
-Con cá voi có thân to và thường được bé nhận ra ở đại dương.
+Cá voi là loài vật rất lớn sống ở biển. Cá voi con uống sữa mẹ giống nhiều loài thú khác.
 
 ### Từ mới
 - cá voi
-- thân to
-- đại dương
-- con vật
+- biển
+- to lớn
+- phun nước
 
 ### Câu hỏi cho bé
-Con cá voi có đặc điểm gì nổi bật?
+Cá voi sống ở đâu?
 
 ---
 
 ## 24. Con cá mập
 
 ### Câu đố
-Con gì có vây lưng,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì bơi giữa biển sâu,
+Vây lưng nhô khỏi sóng mau.
+Răng sắc nên cần đứng xa,
+Bé đoán tên bạn là gì?
 
 ### Đáp án
 Con cá mập
 
 ### Kiến thức nhỏ
-Con cá mập có vây lưng và thường được bé nhận ra ở biển.
+Cá mập là loài cá lớn sống ở biển. Một số loài cá mập có răng sắc để bắt mồi.
 
 ### Từ mới
 - cá mập
 - vây lưng
-- biển
-- con vật
+- biển sâu
+- răng sắc
 
 ### Câu hỏi cho bé
-Con cá mập có đặc điểm gì nổi bật?
+Cá mập có bộ phận nào hay nhô lên khỏi mặt nước?
 
 ---
 
 ## 25. Con sao biển
 
 ### Câu đố
-Con gì có hình ngôi sao,
-Sống ở bờ biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì như ngôi sao nhỏ,
+Nằm yên bên cát ven bờ.
+Không bay lên trời lấp lánh,
+Bé đoán tên bạn được chưa?
 
 ### Đáp án
 Con sao biển
 
 ### Kiến thức nhỏ
-Con sao biển có hình ngôi sao và thường được bé nhận ra ở bờ biển.
+Sao biển sống ở biển và có hình giống ngôi sao. Bé chỉ nên ngắm sao biển, không tự ý cầm lên.
 
 ### Từ mới
 - sao biển
-- hình ngôi sao
+- ngôi sao
 - bờ biển
-- con vật
+- cánh
 
 ### Câu hỏi cho bé
-Con sao biển có đặc điểm gì nổi bật?
+Sao biển có hình giống gì?
 
 ---
 
 ## 26. Con cua
 
 ### Câu đố
-Con gì có hai càng,
-Sống ở bãi cát thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì có hai càng xinh,
+Đi ngang trên cát linh tinh.
+Mai cứng che thân bé nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con cua
 
 ### Kiến thức nhỏ
-Con cua có hai càng và thường được bé nhận ra ở bãi cát.
+Cua có mai cứng và hai chiếc càng. Cua thường đi ngang trên cát hoặc dưới nước.
 
 ### Từ mới
 - cua
-- hai càng
-- bãi cát
-- con vật
+- càng
+- mai cứng
+- đi ngang
 
 ### Câu hỏi cho bé
-Con cua có đặc điểm gì nổi bật?
+Cua thường đi như thế nào?
 
 ---
 
 ## 27. Con tôm
 
 ### Câu đố
-Con gì có râu dài,
-Sống ở dưới nước thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì râu nhỏ thật dài,
+Thân cong bơi nước khoan thai.
+Màu hồng cam khi nấu chín,
+Bé đoán xem bạn là ai?
 
 ### Đáp án
 Con tôm
 
 ### Kiến thức nhỏ
-Con tôm có râu dài và thường được bé nhận ra ở dưới nước.
+Tôm sống dưới nước và có đôi râu dài. Thân tôm cong cong nên rất dễ nhận ra.
 
 ### Từ mới
 - tôm
 - râu dài
+- thân cong
 - dưới nước
-- con vật
 
 ### Câu hỏi cho bé
-Con tôm có đặc điểm gì nổi bật?
+Tôm có gì dài ở phía đầu?
 
 ---
 
 ## 28. Con mực
 
 ### Câu đố
-Con gì có thân mềm,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân mềm dưới sâu,
+Có nhiều tay nhỏ trước đầu.
+Bơi nhanh trong làn nước biển,
+Bé đoán tên bạn ở đâu?
 
 ### Đáp án
 Con mực
 
 ### Kiến thức nhỏ
-Con mực có thân mềm và thường được bé nhận ra ở biển.
+Mực là sinh vật biển có thân mềm. Mực có nhiều tay nhỏ giúp di chuyển và bắt thức ăn.
 
 ### Từ mới
 - mực
 - thân mềm
 - biển
-- con vật
+- nhiều tay
 
 ### Câu hỏi cho bé
-Con mực có đặc điểm gì nổi bật?
+Mực sống ở đâu?
 
 ---
 
 ## 29. Con bạch tuộc
 
 ### Câu đố
-Con gì có nhiều tay,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì tám tay mềm mại,
+Bơi dưới biển xanh rất tài.
+Có thể trốn trong khe đá,
+Bé gọi tên bạn là ai?
 
 ### Đáp án
 Con bạch tuộc
 
 ### Kiến thức nhỏ
-Con bạch tuộc có nhiều tay và thường được bé nhận ra ở biển.
+Bạch tuộc có tám cánh tay mềm. Bạch tuộc sống dưới biển và có thể ẩn mình rất khéo.
 
 ### Từ mới
 - bạch tuộc
-- nhiều tay
+- tám tay
 - biển
-- con vật
+- ẩn mình
 
 ### Câu hỏi cho bé
-Con bạch tuộc có đặc điểm gì nổi bật?
+Bạch tuộc có mấy cánh tay?
 
 ---
 
 ## 30. Con ngựa vằn
 
 ### Câu đố
-Con gì có vằn đen trắng,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì như ngựa ngoài đồng,
+Áo đen trắng kẻ từng dòng.
+Chạy nhanh trên vùng cỏ rộng,
+Bé đoán ra bạn hay không?
 
 ### Đáp án
 Con ngựa vằn
 
 ### Kiến thức nhỏ
-Con ngựa vằn có vằn đen trắng và thường được bé nhận ra ở đồng cỏ.
+Ngựa vằn có các sọc đen trắng trên thân. Những sọc này giúp bé nhận ra ngựa vằn rất nhanh.
 
 ### Từ mới
 - ngựa vằn
-- vằn đen trắng
+- sọc
+- đen trắng
 - đồng cỏ
-- con vật
 
 ### Câu hỏi cho bé
-Con ngựa vằn có đặc điểm gì nổi bật?
+Ngựa vằn có màu sọc gì?
 
 ---
 
 ## 31. Con hươu
 
 ### Câu đố
-Con gì có chân thon,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì chân thon chạy nhanh,
+Ăn lá non giữa rừng xanh.
+Mắt hiền nhìn quanh khe khẽ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con hươu
 
 ### Kiến thức nhỏ
-Con hươu có chân thon và thường được bé nhận ra ở rừng.
+Hươu thường ăn lá cây và cỏ non. Hươu có đôi chân thon giúp chạy nhanh.
 
 ### Từ mới
 - hươu
 - chân thon
+- lá cây
 - rừng
-- con vật
 
 ### Câu hỏi cho bé
-Con hươu có đặc điểm gì nổi bật?
+Hươu thường ăn gì?
 
 ---
 
 ## 32. Con nai
 
 ### Câu đố
-Con gì có dáng nhẹ,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì dáng nhẹ trong rừng,
+Tai cao nghe tiếng lá rung.
+Bước đi êm trên thảm cỏ,
+Bé gọi tên bạn được không?
 
 ### Đáp án
 Con nai
 
 ### Kiến thức nhỏ
-Con nai có dáng nhẹ và thường được bé nhận ra ở rừng.
+Nai là con vật hiền, thường sống ở rừng hoặc đồng cỏ. Nai ăn lá cây và cỏ non.
 
 ### Từ mới
 - nai
-- dáng nhẹ
 - rừng
-- con vật
+- lá cây
+- nhẹ nhàng
 
 ### Câu hỏi cho bé
-Con nai có đặc điểm gì nổi bật?
+Con nai thường sống ở đâu?
 
 ---
 
 ## 33. Con gấu
 
 ### Câu đố
-Con gì có lông dày,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân lớn lông dày,
+Đi trong rừng chậm từng ngày.
+Bàn chân to in trên đất,
+Bé đoán tên bạn nào đây?
 
 ### Đáp án
 Con gấu
 
 ### Kiến thức nhỏ
-Con gấu có lông dày và thường được bé nhận ra ở rừng.
+Gấu có thân hình to và bộ lông dày. Gấu là động vật hoang dã nên bé chỉ nên quan sát từ xa.
 
 ### Từ mới
 - gấu
 - lông dày
 - rừng
-- con vật
+- thân to
 
 ### Câu hỏi cho bé
-Con gấu có đặc điểm gì nổi bật?
+Gấu có bộ lông như thế nào?
 
 ---
 
 ## 34. Con gấu trúc
 
 ### Câu đố
-Con gì có lông đen trắng,
-Sống ở rừng tre thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì áo trắng áo đen,
+Ôm tre ăn rất dịu hiền.
+Mắt tròn như đeo kính nhỏ,
+Bé đoán tên bạn thật liền?
 
 ### Đáp án
 Con gấu trúc
 
 ### Kiến thức nhỏ
-Con gấu trúc có lông đen trắng và thường được bé nhận ra ở rừng tre.
+Gấu trúc có bộ lông đen trắng rất dễ nhận ra. Gấu trúc thích ăn tre.
 
 ### Từ mới
 - gấu trúc
-- lông đen trắng
+- tre
+- đen trắng
 - rừng tre
-- con vật
 
 ### Câu hỏi cho bé
-Con gấu trúc có đặc điểm gì nổi bật?
+Gấu trúc thích ăn gì?
 
 ---
 
 ## 35. Con hổ
 
 ### Câu đố
-Con gì có lông vằn,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì áo cam vằn đen,
+Đi trong rừng thật oai nghiêm.
+Tiếng gầm vang xa khe khẽ,
+Bé đoán tên bạn xem nào?
 
 ### Đáp án
 Con hổ
 
 ### Kiến thức nhỏ
-Con hổ có lông vằn và thường được bé nhận ra ở rừng.
+Hổ có bộ lông cam với nhiều vằn đen. Hổ là động vật hoang dã và cần được quan sát ở nơi an toàn.
 
 ### Từ mới
 - hổ
-- lông vằn
+- vằn đen
 - rừng
-- con vật
+- gầm
 
 ### Câu hỏi cho bé
-Con hổ có đặc điểm gì nổi bật?
+Hổ có bộ lông màu gì nổi bật?
 
 ---
 
 ## 36. Con báo
 
 ### Câu đố
-Con gì có đốm trên lông,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì có đốm trên lưng,
+Chạy nhanh qua những cánh rừng.
+Bước chân nhẹ như cơn gió,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con báo
 
 ### Kiến thức nhỏ
-Con báo có đốm trên lông và thường được bé nhận ra ở rừng.
+Báo có nhiều đốm trên bộ lông. Báo chạy nhanh và là động vật hoang dã.
 
 ### Từ mới
 - báo
-- đốm trên lông
+- đốm
+- chạy nhanh
 - rừng
-- con vật
 
 ### Câu hỏi cho bé
-Con báo có đặc điểm gì nổi bật?
+Báo có gì trên bộ lông?
 
 ---
 
 ## 37. Con sói
 
 ### Câu đố
-Con gì có tai nhọn,
-Sống ở rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì tai nhọn đuôi dài,
+Sống cùng bầy giữa rừng sâu.
+Kêu vang khi trời đã tối,
+Bé đoán tên bạn là đâu?
 
 ### Đáp án
 Con sói
 
 ### Kiến thức nhỏ
-Con sói có tai nhọn và thường được bé nhận ra ở rừng.
+Sói thường sống theo bầy. Sói là động vật hoang dã nên bé chỉ nên quan sát qua hình ảnh hoặc ở nơi an toàn.
 
 ### Từ mới
 - sói
+- bầy
 - tai nhọn
 - rừng
-- con vật
 
 ### Câu hỏi cho bé
-Con sói có đặc điểm gì nổi bật?
+Sói thường sống như thế nào?
 
 ---
 
 ## 38. Con cá sấu
 
 ### Câu đố
-Con gì có đuôi dài,
-Sống ở đầm nước thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì da sần đuôi dài,
+Nằm im bên nước khoan thai.
+Miệng dài răng trông sắc nhọn,
+Bé đoán tên bạn là ai?
 
 ### Đáp án
 Con cá sấu
 
 ### Kiến thức nhỏ
-Con cá sấu có đuôi dài và thường được bé nhận ra ở đầm nước.
+Cá sấu sống gần nước và bơi rất giỏi. Cá sấu là động vật hoang dã nên cần quan sát ở nơi an toàn.
 
 ### Từ mới
 - cá sấu
 - đuôi dài
+- da sần
 - đầm nước
-- con vật
 
 ### Câu hỏi cho bé
-Con cá sấu có đặc điểm gì nổi bật?
+Cá sấu thường sống gần đâu?
 
 ---
 
 ## 39. Con hà mã
 
 ### Câu đố
-Con gì có miệng rộng,
-Sống ở sông hồ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân lớn miệng to,
+Thích ngâm mình dưới hồ.
+Tai nhỏ mắt tròn trên nước,
+Bé đoán tên bạn được chưa?
 
 ### Đáp án
 Con hà mã
 
 ### Kiến thức nhỏ
-Con hà mã có miệng rộng và thường được bé nhận ra ở sông hồ.
+Hà mã có thân to và chiếc miệng rộng. Hà mã thường ở gần sông hồ.
 
 ### Từ mới
 - hà mã
 - miệng rộng
 - sông hồ
-- con vật
+- thân to
 
 ### Câu hỏi cho bé
-Con hà mã có đặc điểm gì nổi bật?
+Hà mã có miệng như thế nào?
 
 ---
 
 ## 40. Con tê giác
 
 ### Câu đố
-Con gì có sừng trên mũi,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân lớn da dày,
+Có sừng trên mũi thật hay.
+Đi trên đồng cỏ rộng lớn,
+Bé đoán tên bạn hôm nay?
 
 ### Đáp án
 Con tê giác
 
 ### Kiến thức nhỏ
-Con tê giác có sừng trên mũi và thường được bé nhận ra ở đồng cỏ.
+Tê giác có chiếc sừng trên mũi và lớp da dày. Tê giác là động vật hoang dã cần được bảo vệ.
 
 ### Từ mới
 - tê giác
-- sừng trên mũi
-- đồng cỏ
-- con vật
+- sừng
+- mũi
+- da dày
 
 ### Câu hỏi cho bé
-Con tê giác có đặc điểm gì nổi bật?
+Tê giác có gì trên mũi?
 
 ---
 

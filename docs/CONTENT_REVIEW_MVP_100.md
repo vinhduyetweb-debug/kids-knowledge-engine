@@ -3,12 +3,12 @@
 ## Tổng quan
 
 - Tổng item: 100
-- Reviewed item ban đầu: 20
-- Draft item: 80
-- Số item cần review kỹ: 80
+- Reviewed item hiện tại: 40
+- Draft item hiện tại: 60
+- Số item cần review kỹ: 60
 - Số item có rủi ro kiến thức: 12
-- Số item có rủi ro an toàn: 2
-- Số item nên cải thiện câu đố: 80
+- Số item có rủi ro an toàn đã xử lý trong Batch 1: 2
+- Số item nên cải thiện câu đố còn lại: 60
 
 ## Danh sách item cần review kỹ
 
@@ -68,8 +68,56 @@ Toàn bộ 80 item mới đang ở `status: draft` nên cần review thủ công
 
 Không sửa content trong task này.
 
+## Task 2C — Content Fix Batch 1
+
+### Item đã sửa
+
+| id | title | thay đổi chính | status sau sửa |
+|---|---|---|---|
+| `animal_giraffe_vi_3_5` | Con hươu cao cổ | Viết lại riddle, fact, quiz, prompts, worksheet và parent guide theo đặc điểm cổ dài. | reviewed |
+| `animal_dolphin_vi_3_5` | Con cá heo | Viết lại nội dung quanh bơi dưới biển, thân trơn và âm thanh. | reviewed |
+| `animal_whale_vi_3_5` | Con cá voi | Viết lại nội dung quanh thân lớn, biển rộng và phun nước. | reviewed |
+| `animal_shark_vi_3_5` | Con cá mập | Viết lại nội dung không gây sợ, thêm nhấn mạnh vây lưng và quan sát an toàn. | reviewed |
+| `animal_starfish_vi_3_5` | Con sao biển | Viết lại nội dung quanh hình ngôi sao và cách quan sát sinh vật biển. | reviewed |
+| `animal_crab_vi_3_5` | Con cua | Viết lại nội dung quanh hai càng, mai cứng và đi ngang. | reviewed |
+| `animal_shrimp_vi_3_5` | Con tôm | Viết lại nội dung quanh râu dài, thân cong và sống dưới nước. | reviewed |
+| `animal_squid_vi_3_5` | Con mực | Viết lại nội dung quanh thân mềm, nhiều tay nhỏ và sống ở biển. | reviewed |
+| `animal_octopus_vi_3_5` | Con bạch tuộc | Viết lại nội dung quanh tám tay mềm và khả năng ẩn mình. | reviewed |
+| `animal_zebra_vi_3_5` | Con ngựa vằn | Viết lại nội dung quanh sọc đen trắng. | reviewed |
+| `animal_deer_vi_3_5` | Con hươu | Viết lại nội dung quanh chân thon, ăn lá và chạy nhanh. | reviewed |
+| `animal_stag_vi_3_5` | Con nai | Viết lại nội dung quanh dáng nhẹ, rừng và ăn lá. | reviewed |
+| `animal_bear_vi_3_5` | Con gấu | Viết lại nội dung quanh lông dày, thân to và quan sát an toàn. | reviewed |
+| `animal_panda_vi_3_5` | Con gấu trúc | Viết lại nội dung quanh lông đen trắng và tre. | reviewed |
+| `animal_tiger_vi_3_5` | Con hổ | Viết lại nội dung quanh vằn đen, rừng và quan sát an toàn. | reviewed |
+| `animal_leopard_vi_3_5` | Con báo | Viết lại nội dung quanh đốm lông và chạy nhanh. | reviewed |
+| `animal_wolf_vi_3_5` | Con sói | Viết lại nội dung quanh tai nhọn, sống theo bầy và an toàn. | reviewed |
+| `animal_crocodile_vi_3_5` | Con cá sấu | Viết lại nội dung quanh da sần, đuôi dài, gần nước và an toàn. | reviewed |
+| `animal_hippo_vi_3_5` | Con hà mã | Viết lại nội dung quanh thân to, miệng rộng và sông hồ. | reviewed |
+| `animal_rhino_vi_3_5` | Con tê giác | Viết lại nội dung quanh sừng trên mũi, da dày và bảo vệ động vật. | reviewed |
+
+### SafetyNotes đã bổ sung
+
+| id | title | safetyNotes |
+|---|---|---|
+| `animal_bee_vi_3_5` | Con ong | Bé không nên chạm vào ong hoặc tổ ong. Nếu thấy ong, hãy đứng xa và gọi người lớn. |
+| `animal_lion_vi_3_5` | Con sư tử | Sư tử là động vật hoang dã. Bé chỉ nên quan sát sư tử qua sách, video hoặc khi đi sở thú cùng người lớn. |
+| `animal_shark_vi_3_5` | Con cá mập | Cá mập là động vật hoang dã dưới biển. Bé chỉ nên quan sát cá mập qua sách, video hoặc thủy cung an toàn cùng người lớn. |
+| `animal_starfish_vi_3_5` | Con sao biển | Bé chỉ nên quan sát sao biển cùng người lớn, không tự ý nhặt hoặc mang sinh vật biển về nhà. |
+| `animal_crab_vi_3_5` | Con cua | Bé không nên tự chạm vào càng cua vì càng có thể kẹp đau. |
+| `animal_bear_vi_3_5` | Con gấu | Gấu là động vật hoang dã. Bé chỉ nên quan sát gấu qua sách, video hoặc ở sở thú cùng người lớn. |
+| `animal_tiger_vi_3_5` | Con hổ | Hổ là động vật hoang dã. Bé chỉ nên quan sát hổ qua sách, video hoặc ở sở thú cùng người lớn. |
+| `animal_leopard_vi_3_5` | Con báo | Báo là động vật hoang dã. Bé chỉ nên quan sát báo qua sách, video hoặc ở nơi an toàn cùng người lớn. |
+| `animal_wolf_vi_3_5` | Con sói | Sói là động vật hoang dã. Bé không nên lại gần sói hoặc động vật lạ. |
+| `animal_crocodile_vi_3_5` | Con cá sấu | Cá sấu là động vật hoang dã. Bé chỉ nên quan sát cá sấu ở nơi an toàn và luôn đi cùng người lớn. |
+| `animal_hippo_vi_3_5` | Con hà mã | Hà mã là động vật hoang dã. Bé chỉ nên quan sát hà mã ở nơi an toàn cùng người lớn. |
+| `animal_rhino_vi_3_5` | Con tê giác | Tê giác là động vật hoang dã. Bé chỉ nên quan sát tê giác qua sách, video hoặc ở sở thú cùng người lớn. |
+
+### Item còn cần sửa ở batch sau
+
+Còn 60 item `draft` chưa xử lý, từ `animal_camel_vi_3_5` đến `animal_manta_ray_vi_3_5`. Batch sau nên tiếp tục sửa theo nhóm 20 item, ưu tiên câu đố còn template, fact còn mơ hồ và safetyNotes cho các con vật có rủi ro.
+
 ## Kết luận
 
-- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và 80 item mới đang là `draft`.
-- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Cần rewrite/review thủ công 80 item draft, đặc biệt câu đố và fact.
-- Bước tiếp theo đề xuất: Task 2C nên là chỉnh nội dung có kiểm soát theo batch nhỏ, ví dụ 20 item/lần, bắt đầu từ nhóm có rủi ro cao: safetyNotes còn thiếu, san hô, các câu gượng, và các con vật xa lạ.
+- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 40 item `reviewed`.
+- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 60 item `draft` cần rewrite/review thủ công, đặc biệt câu đố và fact.
+- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 2 với 20 item draft kế tiếp, từ `animal_camel_vi_3_5` đến khoảng `animal_fly_vi_3_5`.
