@@ -1,0 +1,49 @@
+# KIDS KNOWLEDGE ENGINE MVP
+
+Định vị: Đây là bộ khung MVP cho hệ thống tạo nội dung giáo dục trẻ em từ một nguồn dữ liệu gốc.
+
+MVP đầu tiên:
+- Chủ đề: Động vật thân quen
+- Độ tuổi: 3-5
+- Số item mẫu: 20
+- Đầu ra thử nghiệm:
+  - Mini app đoán con vật
+  - Dữ liệu JSON chuẩn
+  - Prompt video shorts
+  - Prompt tranh tô màu
+  - Prompt ảnh minh họa
+  - Worksheet instruction
+  - Parent guide
+
+Nguyên tắc:
+- Dữ liệu gốc là tài sản.
+- Ebook chỉ là một định dạng xuất bản.
+- Không làm backend ở MVP.
+- Không thu thập dữ liệu trẻ em.
+- Không dùng hình/nhạc có bản quyền không rõ nguồn.
+- Làm ít nhưng chạy được trước.
+
+Cách chạy mini app:
+1. Mở thư mục `apps/guess-animal`.
+2. Mở file `index.html` bằng trình duyệt.
+3. Bấm "Câu tiếp theo" để chơi thử.
+
+Cấu trúc:
+```txt
+content/        Dữ liệu gốc
+apps/           Mini app thử nghiệm
+templates/      Template xuất nội dung
+docs/           Tài liệu sản phẩm
+prompts/        Prompt giao AI/Codex
+exports/        File xuất thử
+```
+
+Lộ trình:
+1. Kiểm 20 item mẫu.
+2. Tạo thêm 80 item để đủ bộ 100.
+3. Xuất PDF Ebook.
+4. Xuất flashcard.
+5. Xuất coloring book.
+6. Tạo 30 video shorts đầu tiên.
+7. Làm landing page.
+8. Test với phụ huynh/trẻ thật.

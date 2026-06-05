@@ -1,0 +1,648 @@
+[
+  {
+    "id": "animal_sheep_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con cừu",
+    "riddle": "Con gì mặc áo len dày,\nKhông sợ lạnh gió heo may.\nSống trên đồng cỏ xanh mát,\nKêu be be rất vui tai?",
+    "answer": "Con cừu",
+    "fact": "Cừu có bộ lông dày. Lông cừu có thể dùng để làm len may áo ấm.",
+    "vocabulary": [
+      "cừu",
+      "len",
+      "đồng cỏ",
+      "ấm áp"
+    ],
+    "quiz": {
+      "question": "Con nào cho ta lông để làm len?",
+      "options": [
+        "Con mèo",
+        "Con cừu",
+        "Con cá"
+      ],
+      "correctAnswer": "Con cừu"
+    },
+    "coloringPrompt": "Một chú cừu tròn trịa, dễ thương đứng trên đồng cỏ, nét đơn giản cho trẻ em tô màu.",
+    "imagePrompt": "Cute fluffy sheep standing in a green meadow, warm children's book illustration style.",
+    "shortVideoScript": "Đố bé biết: Con gì mặc áo len dày, kêu be be trên đồng cỏ? 3...2...1... Đáp án là con cừu!",
+    "worksheetInstruction": "Khoanh tròn con cừu và tô màu bộ lông của cừu.",
+    "parentGuide": "Hỏi bé: Áo len giúp mình cảm thấy thế nào khi trời lạnh?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_elephant_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con voi",
+    "riddle": "Con gì tai lớn như quạt,\nCái vòi dài thật là hay.\nBước đi chậm rãi trong rừng,\nThân to khỏe bé đoán ngay?",
+    "answer": "Con voi",
+    "fact": "Voi là loài vật rất to lớn. Voi dùng vòi để uống nước, lấy thức ăn và chào nhau.",
+    "vocabulary": [
+      "voi",
+      "vòi",
+      "tai",
+      "rừng"
+    ],
+    "quiz": {
+      "question": "Voi dùng bộ phận nào để lấy thức ăn?",
+      "options": [
+        "Cái vòi",
+        "Cái cánh",
+        "Cái vây"
+      ],
+      "correctAnswer": "Cái vòi"
+    },
+    "coloringPrompt": "Một chú voi con vui vẻ có tai to và vòi dài, nét rõ ràng cho bé tô màu.",
+    "imagePrompt": "Adorable baby elephant with big ears and long trunk, friendly children's illustration.",
+    "shortVideoScript": "Con gì có tai to như quạt và chiếc vòi dài? Đáp án là con voi!",
+    "worksheetInstruction": "Nối chiếc vòi với con voi.",
+    "parentGuide": "Hỏi bé: Vòi voi có thể làm được những việc gì?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_cat_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con mèo",
+    "riddle": "Con gì mắt sáng ban đêm,\nRón rén đi nhẹ bên thềm.\nThích ăn cá, kêu meo meo,\nNằm cuộn tròn ngủ rất êm?",
+    "answer": "Con mèo",
+    "fact": "Mèo thường đi rất nhẹ. Mèo có ria giúp cảm nhận không gian xung quanh.",
+    "vocabulary": [
+      "mèo",
+      "ria",
+      "meo meo",
+      "ban đêm"
+    ],
+    "quiz": {
+      "question": "Mèo thường kêu như thế nào?",
+      "options": [
+        "Gâu gâu",
+        "Meo meo",
+        "Ụt ịt"
+      ],
+      "correctAnswer": "Meo meo"
+    },
+    "coloringPrompt": "Một chú mèo con đang nằm cuộn tròn ngủ, nét đơn giản dễ tô màu.",
+    "imagePrompt": "Cute kitten curled up sleeping, soft children's book style.",
+    "shortVideoScript": "Con gì thích ăn cá, kêu meo meo? Đúng rồi, đó là con mèo!",
+    "worksheetInstruction": "Tô màu chú mèo và vẽ thêm cái đĩa cá.",
+    "parentGuide": "Hỏi bé: Nhà mình đã từng thấy mèo ở đâu?",
+    "safetyNotes": [
+      "Nhắc trẻ không tự ý kéo đuôi hoặc trêu chọc vật nuôi."
+    ],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_dog_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con chó",
+    "riddle": "Con gì giữ cửa rất ngoan,\nThấy người quen vẫy đuôi mừng.\nKêu gâu gâu vang trước ngõ,\nBạn thân của bé phải không?",
+    "answer": "Con chó",
+    "fact": "Chó là vật nuôi thân thiết với con người. Nhiều chú chó có thể trông nhà và chơi cùng trẻ em.",
+    "vocabulary": [
+      "chó",
+      "gâu gâu",
+      "vẫy đuôi",
+      "trông nhà"
+    ],
+    "quiz": {
+      "question": "Chó thường kêu như thế nào?",
+      "options": [
+        "Meo meo",
+        "Gâu gâu",
+        "Quạc quạc"
+      ],
+      "correctAnswer": "Gâu gâu"
+    },
+    "coloringPrompt": "Một chú chó con vui vẻ đang vẫy đuôi, nét to rõ cho bé tô màu.",
+    "imagePrompt": "Happy puppy wagging tail, cute preschool educational illustration.",
+    "shortVideoScript": "Con gì kêu gâu gâu và hay vẫy đuôi? Đáp án là con chó!",
+    "worksheetInstruction": "Khoanh tròn chú chó đang vẫy đuôi.",
+    "parentGuide": "Dạy bé xin phép người lớn trước khi chạm vào chó lạ.",
+    "safetyNotes": [
+      "Không đến gần chó lạ khi không có người lớn."
+    ],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_duck_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con vịt",
+    "riddle": "Con gì chân có màng xinh,\nBơi trên ao nhỏ lung linh.\nMiệng kêu cạp cạp vui quá,\nLạch bạch đi giữa sân đình?",
+    "answer": "Con vịt",
+    "fact": "Vịt có chân màng giúp bơi dưới nước dễ hơn.",
+    "vocabulary": [
+      "vịt",
+      "ao",
+      "chân màng",
+      "cạp cạp"
+    ],
+    "quiz": {
+      "question": "Vịt bơi ở đâu?",
+      "options": [
+        "Trên cây",
+        "Dưới ao",
+        "Trong hang"
+      ],
+      "correctAnswer": "Dưới ao"
+    },
+    "coloringPrompt": "Một chú vịt con bơi trên ao, có vài bông hoa súng, nét đơn giản.",
+    "imagePrompt": "Cute yellow duckling swimming in a pond, simple cheerful children's illustration.",
+    "shortVideoScript": "Con gì bơi dưới ao, kêu cạp cạp? Đó là con vịt!",
+    "worksheetInstruction": "Nối con vịt với cái ao.",
+    "parentGuide": "Hỏi bé: Những con vật nào biết bơi?",
+    "safetyNotes": [
+      "Nhắc trẻ không tự ra gần ao hồ khi không có người lớn."
+    ],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_cow_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con bò",
+    "riddle": "Con gì ăn cỏ ngoài đồng,\nKêu ò ò thật vang không?\nCho ta dòng sữa trắng,\nBé đoán được hay không?",
+    "answer": "Con bò",
+    "fact": "Bò cho sữa. Sữa giúp cơ thể có thêm dinh dưỡng.",
+    "vocabulary": [
+      "bò",
+      "sữa",
+      "đồng cỏ",
+      "ò ò"
+    ],
+    "quiz": {
+      "question": "Con bò có đặc điểm gì nổi bật?",
+      "options": [
+        "sữa",
+        "đồng cỏ",
+        "ò ò"
+      ],
+      "correctAnswer": "sữa"
+    },
+    "coloringPrompt": "Một con bò dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con bò for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì ăn cỏ ngoài đồng, ... Đáp án là Con bò!",
+    "worksheetInstruction": "Tô màu con bò và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con bò thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_chicken_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con gà",
+    "riddle": "Con gì sáng gáy ò ó,\nGọi mặt trời dậy thật to.\nCó mào đỏ trên đầu nhỏ,\nBé đoán xem đó là con gì?",
+    "answer": "Con gà",
+    "fact": "Gà trống thường gáy vào buổi sáng.",
+    "vocabulary": [
+      "gà",
+      "mào",
+      "ò ó o",
+      "buổi sáng"
+    ],
+    "quiz": {
+      "question": "Con gà có đặc điểm gì nổi bật?",
+      "options": [
+        "mào",
+        "ò ó o",
+        "buổi sáng"
+      ],
+      "correctAnswer": "mào"
+    },
+    "coloringPrompt": "Một con gà dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con gà for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì sáng gáy ò ó, ... Đáp án là Con gà!",
+    "worksheetInstruction": "Tô màu con gà và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con gà thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_rabbit_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con thỏ",
+    "riddle": "Con gì tai dài thật xinh,\nNhảy nhanh trên bãi cỏ xanh.\nThích ăn cà rốt màu cam,\nBé gọi tên thật nhanh?",
+    "answer": "Con thỏ",
+    "fact": "Thỏ có đôi tai dài và thường nhảy rất nhanh.",
+    "vocabulary": [
+      "thỏ",
+      "tai dài",
+      "cà rốt",
+      "nhảy"
+    ],
+    "quiz": {
+      "question": "Con thỏ có đặc điểm gì nổi bật?",
+      "options": [
+        "tai dài",
+        "cà rốt",
+        "nhảy"
+      ],
+      "correctAnswer": "tai dài"
+    },
+    "coloringPrompt": "Một con thỏ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con thỏ for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì tai dài thật xinh, ... Đáp án là Con thỏ!",
+    "worksheetInstruction": "Tô màu con thỏ và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con thỏ thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_frog_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con ếch",
+    "riddle": "Con gì ngồi cạnh bờ ao,\nKêu ộp ộp dưới mưa rào.\nNhảy một cái thật cao,\nBé đoán tên thế nào?",
+    "answer": "Con ếch",
+    "fact": "Ếch sống gần nơi ẩm ướt và có thể nhảy xa.",
+    "vocabulary": [
+      "ếch",
+      "bờ ao",
+      "ộp ộp",
+      "nhảy"
+    ],
+    "quiz": {
+      "question": "Con ếch có đặc điểm gì nổi bật?",
+      "options": [
+        "bờ ao",
+        "ộp ộp",
+        "nhảy"
+      ],
+      "correctAnswer": "bờ ao"
+    },
+    "coloringPrompt": "Một con ếch dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con ếch for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì ngồi cạnh bờ ao, ... Đáp án là Con ếch!",
+    "worksheetInstruction": "Tô màu con ếch và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con ếch thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_fish_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con cá",
+    "riddle": "Con gì không bước trên bờ,\nBơi trong nước cả ngày mơ.\nCó vây, có đuôi xinh xắn,\nBé đoán thử bây giờ?",
+    "answer": "Con cá",
+    "fact": "Cá sống dưới nước và dùng vây để bơi.",
+    "vocabulary": [
+      "cá",
+      "nước",
+      "vây",
+      "đuôi"
+    ],
+    "quiz": {
+      "question": "Con cá có đặc điểm gì nổi bật?",
+      "options": [
+        "nước",
+        "vây",
+        "đuôi"
+      ],
+      "correctAnswer": "nước"
+    },
+    "coloringPrompt": "Một con cá dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con cá for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì không bước trên bờ, ... Đáp án là Con cá!",
+    "worksheetInstruction": "Tô màu con cá và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con cá thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_bird_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con chim",
+    "riddle": "Con gì có cánh bay cao,\nHót vang líu lo trên cành.\nLàm tổ nhỏ xinh trên cây,\nBé đoán ra thật nhanh?",
+    "answer": "Con chim",
+    "fact": "Chim có cánh, nhiều loài biết bay và hót.",
+    "vocabulary": [
+      "chim",
+      "cánh",
+      "hót",
+      "tổ"
+    ],
+    "quiz": {
+      "question": "Con chim có đặc điểm gì nổi bật?",
+      "options": [
+        "cánh",
+        "hót",
+        "tổ"
+      ],
+      "correctAnswer": "cánh"
+    },
+    "coloringPrompt": "Một con chim dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con chim for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì có cánh bay cao, ... Đáp án là Con chim!",
+    "worksheetInstruction": "Tô màu con chim và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con chim thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_horse_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con ngựa",
+    "riddle": "Con gì chạy rất là nhanh,\nBờm bay theo gió trong lành.\nCó bốn chân dài khỏe mạnh,\nBé đoán tên thật nhanh?",
+    "answer": "Con ngựa",
+    "fact": "Ngựa chạy nhanh và từng giúp con người di chuyển.",
+    "vocabulary": [
+      "ngựa",
+      "bờm",
+      "chạy",
+      "bốn chân"
+    ],
+    "quiz": {
+      "question": "Con ngựa có đặc điểm gì nổi bật?",
+      "options": [
+        "bờm",
+        "chạy",
+        "bốn chân"
+      ],
+      "correctAnswer": "bờm"
+    },
+    "coloringPrompt": "Một con ngựa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con ngựa for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì chạy rất là nhanh, ... Đáp án là Con ngựa!",
+    "worksheetInstruction": "Tô màu con ngựa và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con ngựa thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_pig_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con heo",
+    "riddle": "Con gì mũi tròn ủn ỉn,\nThích ăn no rồi nằm im.\nThân hồng hồng thật dễ mến,\nBé đoán tên con gì?",
+    "answer": "Con heo",
+    "fact": "Heo có chiếc mũi đặc biệt và thường kêu ụt ịt.",
+    "vocabulary": [
+      "heo",
+      "mũi",
+      "ụt ịt",
+      "ăn"
+    ],
+    "quiz": {
+      "question": "Con heo có đặc điểm gì nổi bật?",
+      "options": [
+        "mũi",
+        "ụt ịt",
+        "ăn"
+      ],
+      "correctAnswer": "mũi"
+    },
+    "coloringPrompt": "Một con heo dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con heo for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì mũi tròn ủn ỉn, ... Đáp án là Con heo!",
+    "worksheetInstruction": "Tô màu con heo và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con heo thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_bee_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con ong",
+    "riddle": "Con gì chăm chỉ bay quanh,\nTìm hoa trong nắng long lanh.\nLàm mật ngọt thơm cho bé,\nTên gì bé nói nhanh?",
+    "answer": "Con ong",
+    "fact": "Ong lấy mật hoa và giúp hoa thụ phấn.",
+    "vocabulary": [
+      "ong",
+      "mật",
+      "hoa",
+      "chăm chỉ"
+    ],
+    "quiz": {
+      "question": "Con ong có đặc điểm gì nổi bật?",
+      "options": [
+        "mật",
+        "hoa",
+        "chăm chỉ"
+      ],
+      "correctAnswer": "mật"
+    },
+    "coloringPrompt": "Một con ong dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con ong for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì chăm chỉ bay quanh, ... Đáp án là Con ong!",
+    "worksheetInstruction": "Tô màu con ong và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con ong thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_butterfly_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con bướm",
+    "riddle": "Con gì cánh mỏng nhiều màu,\nBay quanh vườn nhỏ trước sau.\nĐậu lên bông hoa xinh xắn,\nBé đoán được tên nào?",
+    "answer": "Con bướm",
+    "fact": "Bướm có đôi cánh đẹp và thường bay quanh hoa.",
+    "vocabulary": [
+      "bướm",
+      "cánh",
+      "hoa",
+      "màu sắc"
+    ],
+    "quiz": {
+      "question": "Con bướm có đặc điểm gì nổi bật?",
+      "options": [
+        "cánh",
+        "hoa",
+        "màu sắc"
+      ],
+      "correctAnswer": "cánh"
+    },
+    "coloringPrompt": "Một con bướm dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con bướm for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì cánh mỏng nhiều màu, ... Đáp án là Con bướm!",
+    "worksheetInstruction": "Tô màu con bướm và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con bướm thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_turtle_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con rùa",
+    "riddle": "Con gì mai cứng trên lưng,\nĐi chậm chậm chẳng vội mừng.\nGặp nguy hiểm liền rụt cổ,\nBé đoán tên con đúng?",
+    "answer": "Con rùa",
+    "fact": "Rùa có mai cứng giúp bảo vệ cơ thể.",
+    "vocabulary": [
+      "rùa",
+      "mai",
+      "chậm",
+      "rụt cổ"
+    ],
+    "quiz": {
+      "question": "Con rùa có đặc điểm gì nổi bật?",
+      "options": [
+        "mai",
+        "chậm",
+        "rụt cổ"
+      ],
+      "correctAnswer": "mai"
+    },
+    "coloringPrompt": "Một con rùa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con rùa for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì mai cứng trên lưng, ... Đáp án là Con rùa!",
+    "worksheetInstruction": "Tô màu con rùa và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con rùa thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_monkey_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con khỉ",
+    "riddle": "Con gì leo trèo rất nhanh,\nĐu cây trong rừng xanh xanh.\nThích ăn chuối vàng thơm ngọt,\nBé đoán tên thật nhanh?",
+    "answer": "Con khỉ",
+    "fact": "Khỉ leo trèo giỏi và sống theo bầy đàn.",
+    "vocabulary": [
+      "khỉ",
+      "chuối",
+      "leo trèo",
+      "rừng"
+    ],
+    "quiz": {
+      "question": "Con khỉ có đặc điểm gì nổi bật?",
+      "options": [
+        "chuối",
+        "leo trèo",
+        "rừng"
+      ],
+      "correctAnswer": "chuối"
+    },
+    "coloringPrompt": "Một con khỉ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con khỉ for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì leo trèo rất nhanh, ... Đáp án là Con khỉ!",
+    "worksheetInstruction": "Tô màu con khỉ và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con khỉ thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_lion_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con sư tử",
+    "riddle": "Con gì bờm lớn quanh đầu,\nGầm vang giữa thảo nguyên sâu.\nĐược gọi vua của muôn thú,\nBé đoán tên là đâu?",
+    "answer": "Con sư tử",
+    "fact": "Sư tử sống theo bầy và có tiếng gầm rất lớn.",
+    "vocabulary": [
+      "sư tử",
+      "bờm",
+      "gầm",
+      "thảo nguyên"
+    ],
+    "quiz": {
+      "question": "Con sư tử có đặc điểm gì nổi bật?",
+      "options": [
+        "bờm",
+        "gầm",
+        "thảo nguyên"
+      ],
+      "correctAnswer": "bờm"
+    },
+    "coloringPrompt": "Một con sư tử dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con sư tử for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì bờm lớn quanh đầu, ... Đáp án là Con sư tử!",
+    "worksheetInstruction": "Tô màu con sư tử và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con sư tử thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_penguin_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con chim cánh cụt",
+    "riddle": "Con gì mặc áo trắng đen,\nĐi lạch bạch trên băng mềm.\nKhông bay nhưng bơi rất giỏi,\nBé đoán tên thật quen?",
+    "answer": "Con chim cánh cụt",
+    "fact": "Chim cánh cụt không bay nhưng bơi rất giỏi.",
+    "vocabulary": [
+      "chim cánh cụt",
+      "băng",
+      "bơi",
+      "trắng đen"
+    ],
+    "quiz": {
+      "question": "Con chim cánh cụt có đặc điểm gì nổi bật?",
+      "options": [
+        "băng",
+        "bơi",
+        "trắng đen"
+      ],
+      "correctAnswer": "băng"
+    },
+    "coloringPrompt": "Một con chim cánh cụt dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con chim cánh cụt for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì mặc áo trắng đen, ... Đáp án là Con chim cánh cụt!",
+    "worksheetInstruction": "Tô màu con chim cánh cụt và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con chim cánh cụt thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  },
+  {
+    "id": "animal_snail_vi_3_5",
+    "topic": "animals",
+    "ageGroup": "3-5",
+    "title": "Con ốc sên",
+    "riddle": "Con gì mang nhà trên lưng,\nĐi rất chậm dưới lá rừng.\nSau mưa bò ra khe khẽ,\nBé đoán tên đúng không?",
+    "answer": "Con ốc sên",
+    "fact": "Ốc sên có vỏ trên lưng để bảo vệ cơ thể mềm.",
+    "vocabulary": [
+      "ốc sên",
+      "vỏ",
+      "chậm",
+      "sau mưa"
+    ],
+    "quiz": {
+      "question": "Con ốc sên có đặc điểm gì nổi bật?",
+      "options": [
+        "vỏ",
+        "chậm",
+        "sau mưa"
+      ],
+      "correctAnswer": "vỏ"
+    },
+    "coloringPrompt": "Một con ốc sên dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
+    "imagePrompt": "Cute con ốc sên for preschool educational content, simple children's book illustration.",
+    "shortVideoScript": "Đố bé biết: Con gì mang nhà trên lưng, ... Đáp án là Con ốc sên!",
+    "worksheetInstruction": "Tô màu con ốc sên và khoanh tròn đặc điểm đúng.",
+    "parentGuide": "Hỏi bé: Con ốc sên thường sống ở đâu hoặc có âm thanh như thế nào?",
+    "safetyNotes": [],
+    "difficulty": 1,
+    "status": "reviewed"
+  }
+]

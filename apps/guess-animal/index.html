@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <title>Bé Khám Phá Động Vật</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <main class="app">
+    <section class="hero">
+      <p class="eyebrow">Kids Knowledge Engine MVP</p>
+      <h1>Bé Khám Phá Động Vật</h1>
+      <p>Mỗi ngày một câu đố, một hình ảnh, một điều mới.</p>
+    </section>
+
+    <section class="card">
+      <div id="counter" class="counter"></div>
+      <h2 id="title">Đố bé biết</h2>
+      <pre id="riddle" class="riddle"></pre>
+
+      <div class="actions">
+        <button id="showAnswerBtn">Xem đáp án</button>
+        <button id="nextBtn" class="secondary">Câu tiếp theo</button>
+      </div>
+
+      <div id="answerBox" class="answer hidden">
+        <h3 id="answer"></h3>
+        <p id="fact"></p>
+        <p><strong>Từ mới:</strong> <span id="vocab"></span></p>
+        <p><strong>Gợi ý cho phụ huynh:</strong> <span id="parentGuide"></span></p>
+        <div class="quiz" aria-live="polite">
+          <h4>Câu hỏi nhỏ</h4>
+          <p id="quizQuestion"></p>
+          <div id="quizOptions" class="quiz-options"></div>
+          <p id="quizFeedback" class="quiz-feedback"></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="note">
+      <h3>Ghi chú MVP</h3>
+      <p>App này chạy tĩnh, không cần server, không thu thập dữ liệu trẻ em.</p>
+    </section>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>

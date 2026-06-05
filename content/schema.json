@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kids Knowledge Engine Content Item",
+  "type": "object",
+  "required": [
+    "id",
+    "topic",
+    "ageGroup",
+    "title",
+    "riddle",
+    "answer",
+    "fact",
+    "vocabulary",
+    "quiz",
+    "status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "ageGroup": {
+      "type": "string",
+      "enum": [
+        "3-5",
+        "6-8",
+        "9-12"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "riddle": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "fact": {
+      "type": "string"
+    },
+    "vocabulary": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "quiz": {
+      "type": "object",
+      "required": [
+        "question",
+        "options",
+        "correctAnswer"
+      ],
+      "properties": {
+        "question": {
+          "type": "string"
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "correctAnswer": {
+          "type": "string"
+        }
+      }
+    },
+    "coloringPrompt": {
+      "type": "string"
+    },
+    "imagePrompt": {
+      "type": "string"
+    },
+    "shortVideoScript": {
+      "type": "string"
+    },
+    "worksheetInstruction": {
+      "type": "string"
+    },
+    "parentGuide": {
+      "type": "string"
+    },
+    "safetyNotes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "difficulty": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed",
+        "published"
+      ]
+    }
+  }
+}
