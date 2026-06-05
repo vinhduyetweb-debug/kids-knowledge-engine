@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Task 2B.5 — Content Quality Review Pack
+
+- Added `docs/CONTENT_REVIEW_MVP_100.md`.
+- Reviewed 100-item animals dataset for age fit, riddle quality, fact risk, safety notes and consistency.
+- Listed items that need manual review before publishing.
+
 ## Task 2B — Content Expansion Pack
 
 - Added `content/animals/animals_vi_3_5_mvp_100.json`.
