@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Task 5A — Product Export Printable Pack
+
+- Added printable ebook HTML export.
+- Added printable flashcards HTML export.
+- Added coloring prompt book markdown export.
+- Added print guide for manual PDF creation.
+- Updated export script with printable output support.
+
 ## Task 4 — Landing + Deploy Ready
 
 - Added static landing page for Bé Khám Phá Thế Giới.

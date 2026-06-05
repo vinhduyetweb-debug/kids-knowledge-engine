@@ -86,6 +86,22 @@ Kết quả được tạo trong:
 exports/generated/
 ```
 
+## Printable Product Pack
+
+Chạy lệnh:
+
+```bat
+node tools\export-content.js --source content\animals\animals_vi_3_5_mvp_100.json --suffix mvp_100 --printable
+```
+
+Kết quả:
+
+```txt
+exports/printable/
+```
+
+Có thể mở file `.html` bằng trình duyệt rồi dùng Print -> Save as PDF.
+
 Cấu trúc:
 ```txt
 content/        Dữ liệu gốc
