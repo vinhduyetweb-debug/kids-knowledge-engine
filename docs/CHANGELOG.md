@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 4 — Landing + Deploy Ready
+
+- Added static landing page for Bé Khám Phá Thế Giới.
+- Added link from landing page to guess-animal mini app.
+- Added simple Vercel static configuration.
+- Updated README with local run and deploy notes.
+
 ## Task 3 — Mini App Product Upgrade
 
 - Upgraded guess-animal mini app to use the reviewed 100-item dataset.

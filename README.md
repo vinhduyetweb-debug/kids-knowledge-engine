@@ -38,6 +38,28 @@ apps/guess-animal/index.html
 
 App chạy static, không cần backend.
 
+## Chạy landing page
+
+Mở file:
+
+```txt
+index.html
+```
+
+## Chơi mini app
+
+Mở file:
+
+```txt
+apps/guess-animal/index.html
+```
+
+## Deploy Vercel static
+
+Có thể deploy trực tiếp thư mục dự án lên Vercel dưới dạng static project.
+Không cần build command.
+Không cần install command.
+
 ## Export nội dung
 
 Chạy lệnh:
