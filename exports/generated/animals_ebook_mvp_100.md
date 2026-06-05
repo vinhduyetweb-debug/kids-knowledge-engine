@@ -1509,500 +1509,500 @@ Sau khi thấy ruồi ở nơi bẩn, bé nên làm gì?
 ## 61. Con chuồn chuồn
 
 ### Câu đố
-Con gì có cánh mỏng,
-Sống ở bờ ao thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cánh mỏng bay nhanh,
+Lượn quanh bờ ao xanh xanh.
+Đậu trên nhành cỏ rất nhẹ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con chuồn chuồn
 
 ### Kiến thức nhỏ
-Con chuồn chuồn có cánh mỏng và thường được bé nhận ra ở bờ ao.
+Chuồn chuồn có đôi cánh mỏng và bay rất nhanh. Chuồn chuồn thường xuất hiện gần ao hồ hoặc vườn cây.
 
 ### Từ mới
 - chuồn chuồn
 - cánh mỏng
 - bờ ao
-- con vật
+- bay
 
 ### Câu hỏi cho bé
-Con chuồn chuồn có đặc điểm gì nổi bật?
+Chuồn chuồn thường bay gần đâu?
 
 ---
 
 ## 62. Con châu chấu
 
 ### Câu đố
-Con gì có chân bật xa,
-Sống ở bãi cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì chân sau thật dài,
+Bật một cái đã đi xa.
+Ẩn trong bãi cỏ xanh mát,
+Bé đoán tên bạn là gì?
 
 ### Đáp án
 Con châu chấu
 
 ### Kiến thức nhỏ
-Con châu chấu có chân bật xa và thường được bé nhận ra ở bãi cỏ.
+Châu chấu có đôi chân sau khỏe để nhảy xa. Châu chấu thường sống ở bãi cỏ hoặc ruộng cây.
 
 ### Từ mới
 - châu chấu
-- chân bật xa
+- chân sau
+- nhảy
 - bãi cỏ
-- con vật
 
 ### Câu hỏi cho bé
-Con châu chấu có đặc điểm gì nổi bật?
+Châu chấu dùng gì để nhảy xa?
 
 ---
 
 ## 63. Con bọ rùa
 
 ### Câu đố
-Con gì có lưng có chấm,
-Sống ở lá cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì lưng đỏ chấm tròn,
+Bò trên chiếc lá xanh non.
+Nhỏ xinh như hạt đậu bé,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con bọ rùa
 
 ### Kiến thức nhỏ
-Con bọ rùa có lưng có chấm và thường được bé nhận ra ở lá cây.
+Bọ rùa là côn trùng nhỏ, thường có lưng đỏ với nhiều chấm đen. Bọ rùa hay bò trên lá cây.
 
 ### Từ mới
 - bọ rùa
-- lưng có chấm
+- chấm đen
 - lá cây
-- con vật
+- nhỏ xinh
 
 ### Câu hỏi cho bé
-Con bọ rùa có đặc điểm gì nổi bật?
+Bọ rùa thường có gì trên lưng?
 
 ---
 
 ## 64. Con bọ ngựa
 
 ### Câu đố
-Con gì có chân trước gập,
-Sống ở bụi cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì màu xanh trong vườn,
+Hai chân trước gập thật thương.
+Đứng yên như đang chào bé,
+Bé đoán tên bạn trên đường?
 
 ### Đáp án
 Con bọ ngựa
 
 ### Kiến thức nhỏ
-Con bọ ngựa có chân trước gập và thường được bé nhận ra ở bụi cây.
+Bọ ngựa có hai chân trước gập lại rất đặc biệt. Bọ ngựa thường sống trong bụi cây hoặc vườn xanh.
 
 ### Từ mới
 - bọ ngựa
-- chân trước gập
+- chân trước
+- màu xanh
 - bụi cây
-- con vật
 
 ### Câu hỏi cho bé
-Con bọ ngựa có đặc điểm gì nổi bật?
+Bọ ngựa có bộ phận nào rất đặc biệt?
 
 ---
 
 ## 65. Con giun đất
 
 ### Câu đố
-Con gì có thân mềm,
-Sống ở trong đất thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân mềm trong đất,
+Bò chậm sau cơn mưa rơi.
+Giúp đất tơi cho cây lớn,
+Bé đoán tên bạn được rồi?
 
 ### Đáp án
 Con giun đất
 
 ### Kiến thức nhỏ
-Con giun đất có thân mềm và thường được bé nhận ra ở trong đất.
+Giun đất sống trong đất ẩm. Khi giun đất bò trong đất, đất có thể tơi hơn và tốt hơn cho cây.
 
 ### Từ mới
 - giun đất
+- đất ẩm
 - thân mềm
-- trong đất
-- con vật
+- cây
 
 ### Câu hỏi cho bé
-Con giun đất có đặc điểm gì nổi bật?
+Giun đất thường sống ở đâu?
 
 ---
 
 ## 66. Con sâu bướm
 
 ### Câu đố
-Con gì có thân nhiều đốt,
-Sống ở lá cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì mềm mềm trên lá,
+Bò chậm từng bước nhỏ thôi.
+Lớn lên có ngày thành bướm,
+Bé đoán tên bạn đi rồi?
 
 ### Đáp án
 Con sâu bướm
 
 ### Kiến thức nhỏ
-Con sâu bướm có thân nhiều đốt và thường được bé nhận ra ở lá cây.
+Sâu bướm thường ăn lá cây. Một số sâu bướm lớn lên sẽ hóa thành bướm.
 
 ### Từ mới
 - sâu bướm
-- thân nhiều đốt
 - lá cây
-- con vật
+- bò chậm
+- bướm
 
 ### Câu hỏi cho bé
-Con sâu bướm có đặc điểm gì nổi bật?
+Sâu bướm thường bò ở đâu?
 
 ---
 
 ## 67. Con tằm
 
 ### Câu đố
-Con gì có thân nhỏ,
-Sống ở lá dâu thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì trắng nhỏ ăn dâu,
+Lớn lên nhả kén thật lâu.
+Sợi tơ mềm trong chiếc kén,
+Bé đoán tên bạn ở đâu?
 
 ### Đáp án
 Con tằm
 
 ### Kiến thức nhỏ
-Con tằm có thân nhỏ và thường được bé nhận ra ở lá dâu.
+Tằm ăn lá dâu và có thể tạo kén. Từ kén tằm, người lớn có thể lấy sợi tơ để làm vải lụa.
 
 ### Từ mới
 - tằm
-- thân nhỏ
 - lá dâu
-- con vật
+- kén
+- sợi tơ
 
 ### Câu hỏi cho bé
-Con tằm có đặc điểm gì nổi bật?
+Tằm thường ăn lá gì?
 
 ---
 
 ## 68. Con nhện
 
 ### Câu đố
-Con gì có tám chân,
-Sống ở góc vườn thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì tám chân bé xinh,
+Chăng tơ góc vườn lấp lánh.
+Bò nhẹ trên sợi tơ nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con nhện
 
 ### Kiến thức nhỏ
-Con nhện có tám chân và thường được bé nhận ra ở góc vườn.
+Nhện có tám chân và biết chăng tơ. Một số loài nhện giúp bắt côn trùng nhỏ.
 
 ### Từ mới
 - nhện
 - tám chân
+- tơ nhện
 - góc vườn
-- con vật
 
 ### Câu hỏi cho bé
-Con nhện có đặc điểm gì nổi bật?
+Nhện có mấy chân?
 
 ---
 
 ## 69. Con bọ cánh cứng
 
 ### Câu đố
-Con gì có vỏ cứng,
-Sống ở bụi cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì vỏ cứng bóng xinh,
+Bò trên lá nhỏ rung rinh.
+Có đôi cánh giấu bên dưới,
+Bé đoán tên bạn của mình?
 
 ### Đáp án
 Con bọ cánh cứng
 
 ### Kiến thức nhỏ
-Con bọ cánh cứng có vỏ cứng và thường được bé nhận ra ở bụi cây.
+Bọ cánh cứng có lớp vỏ ngoài khá cứng. Nhiều loài bọ cánh cứng có cánh nằm dưới lớp vỏ bảo vệ.
 
 ### Từ mới
 - bọ cánh cứng
 - vỏ cứng
-- bụi cây
-- con vật
+- cánh
+- lá cây
 
 ### Câu hỏi cho bé
-Con bọ cánh cứng có đặc điểm gì nổi bật?
+Bọ cánh cứng có lớp gì bên ngoài?
 
 ---
 
 ## 70. Con hải cẩu
 
 ### Câu đố
-Con gì có bơi giỏi,
-Sống ở biển lạnh thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân tròn bơi nhanh,
+Nằm phơi nắng giữa biển xanh.
+Vỗ vây nghe vui lách tách,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con hải cẩu
 
 ### Kiến thức nhỏ
-Con hải cẩu có bơi giỏi và thường được bé nhận ra ở biển lạnh.
+Hải cẩu bơi rất giỏi và thường nghỉ trên bờ đá hoặc băng. Hải cẩu có lớp mỡ giúp giữ ấm trong nước lạnh.
 
 ### Từ mới
 - hải cẩu
-- bơi giỏi
+- bơi
 - biển lạnh
-- con vật
+- vây
 
 ### Câu hỏi cho bé
-Con hải cẩu có đặc điểm gì nổi bật?
+Hải cẩu bơi ở đâu?
 
 ---
 
 ## 71. Con sư tử biển
 
 ### Câu đố
-Con gì có râu dài,
-Sống ở bờ biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì râu dài bên mép,
+Bơi nhanh rồi nghỉ trên bờ.
+Kêu vang nghe thật vui tai,
+Bé đoán tên bạn là ai?
 
 ### Đáp án
 Con sư tử biển
 
 ### Kiến thức nhỏ
-Con sư tử biển có râu dài và thường được bé nhận ra ở bờ biển.
+Sư tử biển bơi giỏi và có râu dài quanh mép. Sư tử biển thường nghỉ trên bờ biển hoặc bãi đá.
 
 ### Từ mới
 - sư tử biển
 - râu dài
+- bơi
 - bờ biển
-- con vật
 
 ### Câu hỏi cho bé
-Con sư tử biển có đặc điểm gì nổi bật?
+Sư tử biển có gì quanh mép?
 
 ---
 
 ## 72. Con rái cá
 
 ### Câu đố
-Con gì có thân dài,
-Sống ở dòng sông thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân dài bơi nhanh,
+Lặn trong dòng nước trong lành.
+Hai tay ôm thức ăn nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con rái cá
 
 ### Kiến thức nhỏ
-Con rái cá có thân dài và thường được bé nhận ra ở dòng sông.
+Rái cá có thân dài và bơi rất giỏi. Rái cá thường sống gần sông, suối hoặc vùng nước sạch.
 
 ### Từ mới
 - rái cá
 - thân dài
+- bơi
 - dòng sông
-- con vật
 
 ### Câu hỏi cho bé
-Con rái cá có đặc điểm gì nổi bật?
+Rái cá bơi có giỏi không?
 
 ---
 
 ## 73. Con cá ngựa
 
 ### Câu đố
-Con gì có dáng cong,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì dáng giống ngựa con,
+Bơi trong biển nhỏ xinh tròn.
+Đuôi cong bám vào rong biển,
+Bé đoán tên bạn lon ton?
 
 ### Đáp án
 Con cá ngựa
 
 ### Kiến thức nhỏ
-Con cá ngựa có dáng cong và thường được bé nhận ra ở biển.
+Cá ngựa là loài cá nhỏ sống dưới biển. Cá ngựa có dáng cong và chiếc đuôi có thể bám vào rong biển.
 
 ### Từ mới
 - cá ngựa
-- dáng cong
 - biển
-- con vật
+- đuôi cong
+- rong biển
 
 ### Câu hỏi cho bé
-Con cá ngựa có đặc điểm gì nổi bật?
+Cá ngựa sống ở đâu?
 
 ---
 
 ## 74. Con sứa
 
 ### Câu đố
-Con gì có thân mềm,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì trong suốt mềm êm,
+Trôi theo làn nước ngoài biển.
+Có tua dài nên đứng xa,
+Bé đoán tên bạn là gì?
 
 ### Đáp án
 Con sứa
 
 ### Kiến thức nhỏ
-Con sứa có thân mềm và thường được bé nhận ra ở biển.
+Sứa có thân mềm và thường trôi trong nước biển. Một số loài sứa có tua có thể làm đau da nếu chạm vào.
 
 ### Từ mới
 - sứa
-- thân mềm
+- trong suốt
+- tua mềm
 - biển
-- con vật
 
 ### Câu hỏi cho bé
-Con sứa có đặc điểm gì nổi bật?
+Khi thấy sứa ở biển, bé nên làm gì?
 
 ---
 
 ## 75. San hô
 
 ### Câu đố
-Con gì có nhiều nhánh,
-Sống ở đáy biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Sinh vật gì dưới đáy biển,
+Nhiều nhánh nhỏ đứng bên nhau.
+Tạo nơi cá con ẩn nấp,
+Bé đoán tên bạn là đâu?
 
 ### Đáp án
 San hô
 
 ### Kiến thức nhỏ
-San hô có nhiều nhánh và thường được bé nhận ra ở đáy biển.
+San hô là sinh vật biển tạo thành rạn san hô. Rạn san hô là nơi nhiều loài cá nhỏ có thể trú ẩn.
 
 ### Từ mới
 - san hô
-- nhiều nhánh
 - đáy biển
-- con vật
+- rạn san hô
+- cá nhỏ
 
 ### Câu hỏi cho bé
-San hô có đặc điểm gì nổi bật?
+San hô sống ở đâu?
 
 ---
 
 ## 76. Con ốc biển
 
 ### Câu đố
-Con gì có vỏ xoắn,
-Sống ở bờ biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì vỏ xoắn trên lưng,
+Bò chậm bên cát ven rừng.
+Sống gần làn nước biển mát,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con ốc biển
 
 ### Kiến thức nhỏ
-Con ốc biển có vỏ xoắn và thường được bé nhận ra ở bờ biển.
+Ốc biển có vỏ cứng để bảo vệ thân mềm. Nhiều loài ốc biển sống ở vùng biển hoặc bờ đá.
 
 ### Từ mới
 - ốc biển
 - vỏ xoắn
 - bờ biển
-- con vật
+- thân mềm
 
 ### Câu hỏi cho bé
-Con ốc biển có đặc điểm gì nổi bật?
+Ốc biển có gì để bảo vệ thân mềm?
 
 ---
 
 ## 77. Con ngao
 
 ### Câu đố
-Con gì có hai mảnh vỏ,
-Sống ở bãi cát thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì hai mảnh vỏ xinh,
+Nằm trong cát biển yên bình.
+Mở ra khép lại khe khẽ,
+Bé đoán tên bạn của mình?
 
 ### Đáp án
 Con ngao
 
 ### Kiến thức nhỏ
-Con ngao có hai mảnh vỏ và thường được bé nhận ra ở bãi cát.
+Ngao có hai mảnh vỏ cứng để bảo vệ bên trong. Ngao thường sống trong cát ở vùng biển.
 
 ### Từ mới
 - ngao
 - hai mảnh vỏ
-- bãi cát
-- con vật
+- cát biển
+- vỏ cứng
 
 ### Câu hỏi cho bé
-Con ngao có đặc điểm gì nổi bật?
+Ngao có mấy mảnh vỏ?
 
 ---
 
 ## 78. Con sò
 
 ### Câu đố
-Con gì có vỏ cứng,
-Sống ở bờ biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì vỏ cứng xinh xinh,
+Nằm bên bờ cát lung linh.
+Khép mình trong hai mảnh nhỏ,
+Bé đoán tên bạn của mình?
 
 ### Đáp án
 Con sò
 
 ### Kiến thức nhỏ
-Con sò có vỏ cứng và thường được bé nhận ra ở bờ biển.
+Sò có vỏ cứng để bảo vệ phần thân mềm bên trong. Sò thường sống ở vùng biển hoặc bãi cát.
 
 ### Từ mới
 - sò
 - vỏ cứng
 - bờ biển
-- con vật
+- thân mềm
 
 ### Câu hỏi cho bé
-Con sò có đặc điểm gì nổi bật?
+Sò có lớp gì bên ngoài?
 
 ---
 
 ## 79. Con trâu
 
 ### Câu đố
-Con gì có sừng cong,
-Sống ở đồng ruộng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì sừng cong thật to,
+Đi trên đồng ruộng quanh co.
+Thân khỏe kéo cày ngày trước,
+Bé đoán tên bạn được chưa?
 
 ### Đáp án
 Con trâu
 
 ### Kiến thức nhỏ
-Con trâu có sừng cong và thường được bé nhận ra ở đồng ruộng.
+Trâu có thân khỏe và cặp sừng cong. Ở nhiều vùng quê, trâu từng giúp người nông dân làm việc trên đồng ruộng.
 
 ### Từ mới
 - trâu
 - sừng cong
 - đồng ruộng
-- con vật
+- thân khỏe
 
 ### Câu hỏi cho bé
-Con trâu có đặc điểm gì nổi bật?
+Trâu có gì cong trên đầu?
 
 ---
 
 ## 80. Con dê
 
 ### Câu đố
-Con gì có râu nhỏ,
-Sống ở sườn đồi thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì râu nhỏ dưới cằm,
+Leo lên sườn đồi chăm chăm.
+Thích ăn lá non xanh mướt,
+Bé đoán tên bạn được chăng?
 
 ### Đáp án
 Con dê
 
 ### Kiến thức nhỏ
-Con dê có râu nhỏ và thường được bé nhận ra ở sườn đồi.
+Dê có râu nhỏ dưới cằm và leo trèo khá giỏi. Dê thường ăn lá cây, cỏ non và sống ở nông trại hoặc sườn đồi.
 
 ### Từ mới
 - dê
 - râu nhỏ
-- sườn đồi
-- con vật
+- leo trèo
+- lá non
 
 ### Câu hỏi cho bé
-Con dê có đặc điểm gì nổi bật?
+Dê có gì nhỏ dưới cằm?
 
 ---
 

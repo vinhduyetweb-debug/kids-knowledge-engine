@@ -1146,18 +1146,18 @@ Nhắc bé: Mình nên che đậy đồ ăn và rửa tay sạch để giữ v�
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chuồn chuồn có đặc điểm nào dễ nhận ra?
+Hỏi bé: Chuồn chuồn bay trên trời hay bơi dưới nước?
 
 ### Từ mới
 
 - chuồn chuồn
 - cánh mỏng
 - bờ ao
-- con vật
+- bay
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1165,18 +1165,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con châu chấu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Châu chấu nhảy bằng chân trước hay chân sau?
 
 ### Từ mới
 
 - châu chấu
-- chân bật xa
+- chân sau
+- nhảy
 - bãi cỏ
-- con vật
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1184,18 +1184,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con bọ rùa có đặc điểm nào dễ nhận ra?
+Hỏi bé: Bọ rùa có những chấm nhỏ màu gì?
 
 ### Từ mới
 
 - bọ rùa
-- lưng có chấm
+- chấm đen
 - lá cây
-- con vật
+- nhỏ xinh
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1203,18 +1203,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con bọ ngựa có đặc điểm nào dễ nhận ra?
+Hỏi bé: Bọ ngựa thường có màu gì?
 
 ### Từ mới
 
 - bọ ngựa
-- chân trước gập
+- chân trước
+- màu xanh
 - bụi cây
-- con vật
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1222,18 +1222,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con giun đất có đặc điểm nào dễ nhận ra?
+Hỏi bé: Giun đất sống trong đất khô hay đất ẩm?
 
 ### Từ mới
 
 - giun đất
+- đất ẩm
 - thân mềm
-- trong đất
-- con vật
+- cây
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bốc giun đất khi chưa rửa tay hoặc không có người lớn hướng dẫn. Sau khi chơi với đất, bé cần rửa tay sạch.
 
 ---
 
@@ -1241,18 +1241,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sâu bướm có đặc điểm nào dễ nhận ra?
+Hỏi bé: Sâu bướm bò nhanh hay chậm?
 
 ### Từ mới
 
 - sâu bướm
-- thân nhiều đốt
 - lá cây
-- con vật
+- bò chậm
+- bướm
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1260,18 +1260,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con tằm có đặc điểm nào dễ nhận ra?
+Hỏi bé: Tằm ăn lá gì để lớn lên?
 
 ### Từ mới
 
 - tằm
-- thân nhỏ
 - lá dâu
-- con vật
+- kén
+- sợi tơ
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1279,18 +1279,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con nhện có đặc điểm nào dễ nhận ra?
+Hỏi bé: Nhện có mấy chân? Mình có nên tự chạm vào nhện lạ không?
 
 ### Từ mới
 
 - nhện
 - tám chân
+- tơ nhện
 - góc vườn
-- con vật
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ không tự chạm vào nhện lạ.
+- Bé không nên chạm vào nhện hoặc mạng nhện. Nếu thấy nhện trong nhà, hãy gọi người lớn.
 
 ---
 
@@ -1298,18 +1298,18 @@ Hỏi bé: Con nhện có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con bọ cánh cứng có đặc điểm nào dễ nhận ra?
+Hỏi bé: Bọ cánh cứng có vỏ mềm hay vỏ cứng?
 
 ### Từ mới
 
 - bọ cánh cứng
 - vỏ cứng
-- bụi cây
-- con vật
+- cánh
+- lá cây
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng.
 
 ---
 
@@ -1317,18 +1317,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con hải cẩu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Hải cẩu dùng vây để bơi hay để leo cây?
 
 ### Từ mới
 
 - hải cẩu
-- bơi giỏi
+- bơi
 - biển lạnh
-- con vật
+- vây
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé chỉ nên quan sát hải cẩu ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển.
 
 ---
 
@@ -1336,18 +1336,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sư tử biển có đặc điểm nào dễ nhận ra?
+Hỏi bé: Sư tử biển sống gần rừng hay gần biển?
 
 ### Từ mới
 
 - sư tử biển
 - râu dài
+- bơi
 - bờ biển
-- con vật
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé chỉ nên quan sát sư tử biển ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển.
 
 ---
 
@@ -1355,14 +1355,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con rái cá có đặc điểm nào dễ nhận ra?
+Hỏi bé: Rái cá sống gần nước hay trên cây cao?
 
 ### Từ mới
 
 - rái cá
 - thân dài
+- bơi
 - dòng sông
-- con vật
 
 ### Lưu ý an toàn
 
@@ -1374,18 +1374,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cá ngựa có đặc điểm nào dễ nhận ra?
+Hỏi bé: Cá ngựa là cá dưới biển hay ngựa trên cạn?
 
 ### Từ mới
 
 - cá ngựa
-- dáng cong
 - biển
-- con vật
+- đuôi cong
+- rong biển
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé chỉ nên quan sát cá ngựa và sinh vật biển cùng người lớn, không tự ý bắt hoặc mang về nhà.
 
 ---
 
@@ -1393,18 +1393,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sứa có đặc điểm nào dễ nhận ra?
+Nhắc bé: Khi thấy sứa ở biển, mình đứng xa và gọi người lớn.
 
 ### Từ mới
 
 - sứa
-- thân mềm
+- trong suốt
+- tua mềm
 - biển
-- con vật
 
 ### Lưu ý an toàn
 
-- Chỉ quan sát sứa qua hình ảnh hoặc ở nơi an toàn.
+- Bé không nên chạm vào sứa khi đi biển. Nếu thấy sứa, hãy đứng xa và gọi người lớn.
 
 ---
 
@@ -1412,18 +1412,18 @@ Hỏi bé: Con sứa có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: San hô có đặc điểm nào dễ nhận ra?
+Hỏi bé: San hô ở dưới biển hay trên cành cây?
 
 ### Từ mới
 
 - san hô
-- nhiều nhánh
 - đáy biển
-- con vật
+- rạn san hô
+- cá nhỏ
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên bẻ hoặc chạm vào san hô khi đi biển. Hãy quan sát san hô cùng người lớn ở nơi an toàn.
 
 ---
 
@@ -1431,18 +1431,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con ốc biển có đặc điểm nào dễ nhận ra?
+Hỏi bé: Vỏ ốc giúp bảo vệ phần nào của ốc?
 
 ### Từ mới
 
 - ốc biển
 - vỏ xoắn
 - bờ biển
-- con vật
+- thân mềm
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự nhặt sinh vật biển lạ. Nếu muốn quan sát vỏ ốc, hãy hỏi người lớn trước.
 
 ---
 
@@ -1450,18 +1450,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con ngao có đặc điểm nào dễ nhận ra?
+Hỏi bé: Ngao có một mảnh vỏ hay hai mảnh vỏ?
 
 ### Từ mới
 
 - ngao
 - hai mảnh vỏ
-- bãi cát
-- con vật
+- cát biển
+- vỏ cứng
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng.
 
 ---
 
@@ -1469,18 +1469,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sò có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con sò có vỏ cứng hay lông mềm?
 
 ### Từ mới
 
 - sò
 - vỏ cứng
 - bờ biển
-- con vật
+- thân mềm
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng.
 
 ---
 
@@ -1488,18 +1488,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con trâu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con trâu thường gắn với đồng ruộng hay biển xanh?
 
 ### Từ mới
 
 - trâu
 - sừng cong
 - đồng ruộng
-- con vật
+- thân khỏe
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé nên quan sát trâu cùng người lớn, không tự ý lại gần hoặc trêu chọc con vật lớn.
 
 ---
 
@@ -1507,18 +1507,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con dê có đặc điểm nào dễ nhận ra?
+Hỏi bé: Dê thích ăn lá non hay ăn cá dưới biển?
 
 ### Từ mới
 
 - dê
 - râu nhỏ
-- sườn đồi
-- con vật
+- leo trèo
+- lá non
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé nên quan sát dê cùng người lớn, không tự ý kéo sừng hoặc trêu chọc con vật.
 
 ---
 

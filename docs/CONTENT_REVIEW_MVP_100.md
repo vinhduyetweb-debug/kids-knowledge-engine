@@ -3,12 +3,12 @@
 ## Tổng quan
 
 - Tổng item: 100
-- Reviewed item hiện tại: 60
-- Draft item hiện tại: 40
-- Số item cần review kỹ: 40
+- Reviewed item hiện tại: 80
+- Draft item hiện tại: 20
+- Số item cần review kỹ: 20
 - Số item có rủi ro kiến thức: 12
 - Số item có rủi ro an toàn đã xử lý trong Batch 1: 2
-- Số item nên cải thiện câu đố còn lại: 40
+- Số item nên cải thiện câu đố còn lại: 20
 
 ## Danh sách item cần review kỹ
 
@@ -161,8 +161,65 @@ Sau Batch 2, còn 40 item `draft` chưa xử lý, từ `animal_dragonfly_vi_3_5`
 - Draft còn lại: 40
 - Ghi chú: Batch tiếp theo nên xử lý 20 item draft kế tiếp, từ `animal_dragonfly_vi_3_5` đến khoảng `animal_shellfish_vi_3_5`, ưu tiên câu đố còn template và safetyNotes cho sinh vật cần quan sát cùng người lớn.
 
+## Task 2E — Content Fix Batch 3
+
+### Item đã sửa
+
+| id | title | thay đổi chính | status sau sửa |
+|---|---|---|---|
+| `animal_dragonfly_vi_3_5` | Con chuồn chuồn | Viết lại riddle, fact, quiz, prompts, worksheet và parent guide quanh cánh mỏng và bờ ao. | reviewed |
+| `animal_grasshopper_vi_3_5` | Con châu chấu | Viết lại nội dung quanh chân sau và nhảy xa. | reviewed |
+| `animal_ladybug_vi_3_5` | Con bọ rùa | Viết lại nội dung quanh lưng đỏ, chấm đen và lá cây. | reviewed |
+| `animal_praying_mantis_vi_3_5` | Con bọ ngựa | Viết lại nội dung quanh hai chân trước gập và màu xanh. | reviewed |
+| `animal_earthworm_vi_3_5` | Con giun đất | Viết lại nội dung quanh đất ẩm, thân mềm và giúp đất tơi. | reviewed |
+| `animal_caterpillar_vi_3_5` | Con sâu bướm | Viết lại nội dung quanh bò trên lá và lớn lên thành bướm. | reviewed |
+| `animal_silkworm_vi_3_5` | Con tằm | Viết lại nội dung quanh lá dâu, kén và sợi tơ. | reviewed |
+| `animal_spider_vi_3_5` | Con nhện | Viết lại nội dung quanh tám chân, tơ nhện và không gây sợ. | reviewed |
+| `animal_beetle_vi_3_5` | Con bọ cánh cứng | Viết lại nội dung quanh vỏ cứng và cánh. | reviewed |
+| `animal_seal_vi_3_5` | Con hải cẩu | Viết lại nội dung quanh bơi giỏi, biển lạnh và vây. | reviewed |
+| `animal_sea_lion_vi_3_5` | Con sư tử biển | Viết lại nội dung quanh râu dài, bơi và bờ biển. | reviewed |
+| `animal_otter_vi_3_5` | Con rái cá | Viết lại nội dung quanh thân dài, bơi nhanh và dòng sông. | reviewed |
+| `animal_seahorse_vi_3_5` | Con cá ngựa | Viết lại nội dung quanh dáng cong, đuôi cong và rong biển. | reviewed |
+| `animal_jellyfish_vi_3_5` | Con sứa | Viết lại nội dung quanh thân trong suốt, tua mềm và an toàn khi đi biển. | reviewed |
+| `animal_coral_vi_3_5` | San hô | Sửa riddle sang "Sinh vật gì", viết lại fact về rạn san hô và nơi trú ẩn của cá nhỏ. | reviewed |
+| `animal_sea_snail_vi_3_5` | Con ốc biển | Viết lại nội dung quanh vỏ xoắn và thân mềm. | reviewed |
+| `animal_clam_vi_3_5` | Con ngao | Viết lại nội dung quanh hai mảnh vỏ và cát biển. | reviewed |
+| `animal_shellfish_vi_3_5` | Con sò | Viết lại nội dung quanh vỏ cứng và bờ biển. | reviewed |
+| `animal_buffalo_vi_3_5` | Con trâu | Viết lại nội dung quanh sừng cong, thân khỏe và đồng ruộng. | reviewed |
+| `animal_goat_vi_3_5` | Con dê | Viết lại nội dung quanh râu nhỏ, leo trèo và lá non. | reviewed |
+
+### SafetyNotes đã bổ sung
+
+| id | title | safetyNotes |
+|---|---|---|
+| `animal_dragonfly_vi_3_5` | Con chuồn chuồn | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_grasshopper_vi_3_5` | Con châu chấu | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_ladybug_vi_3_5` | Con bọ rùa | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_praying_mantis_vi_3_5` | Con bọ ngựa | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_earthworm_vi_3_5` | Con giun đất | Bé không nên tự bốc giun đất khi chưa rửa tay hoặc không có người lớn hướng dẫn. Sau khi chơi với đất, bé cần rửa tay sạch. |
+| `animal_caterpillar_vi_3_5` | Con sâu bướm | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_silkworm_vi_3_5` | Con tằm | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_spider_vi_3_5` | Con nhện | Bé không nên chạm vào nhện hoặc mạng nhện. Nếu thấy nhện trong nhà, hãy gọi người lớn. |
+| `animal_beetle_vi_3_5` | Con bọ cánh cứng | Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng. |
+| `animal_seal_vi_3_5` | Con hải cẩu | Bé chỉ nên quan sát hải cẩu ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển. |
+| `animal_sea_lion_vi_3_5` | Con sư tử biển | Bé chỉ nên quan sát sư tử biển ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển. |
+| `animal_seahorse_vi_3_5` | Con cá ngựa | Bé chỉ nên quan sát cá ngựa và sinh vật biển cùng người lớn, không tự ý bắt hoặc mang về nhà. |
+| `animal_jellyfish_vi_3_5` | Con sứa | Bé không nên chạm vào sứa khi đi biển. Nếu thấy sứa, hãy đứng xa và gọi người lớn. |
+| `animal_coral_vi_3_5` | San hô | Bé không nên bẻ hoặc chạm vào san hô khi đi biển. Hãy quan sát san hô cùng người lớn ở nơi an toàn. |
+| `animal_sea_snail_vi_3_5` | Con ốc biển | Bé không nên tự nhặt sinh vật biển lạ. Nếu muốn quan sát vỏ ốc, hãy hỏi người lớn trước. |
+| `animal_clam_vi_3_5` | Con ngao | Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng. |
+| `animal_shellfish_vi_3_5` | Con sò | Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng. |
+| `animal_buffalo_vi_3_5` | Con trâu | Bé nên quan sát trâu cùng người lớn, không tự ý lại gần hoặc trêu chọc con vật lớn. |
+| `animal_goat_vi_3_5` | Con dê | Bé nên quan sát dê cùng người lớn, không tự ý kéo sừng hoặc trêu chọc con vật. |
+
+### Trạng thái sau Batch 3
+
+- Reviewed: 80
+- Draft còn lại: 20
+- Ghi chú: Batch cuối nên xử lý 20 item draft còn lại, từ `animal_donkey_vi_3_5` đến `animal_manta_ray_vi_3_5`, chú ý các con vật xa lạ như alpaca, lạc đà không bướu, linh miêu và chim kiwi.
+
 ## Kết luận
 
-- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 60 item `reviewed`.
-- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 40 item `draft` cần rewrite/review thủ công, đặc biệt câu đố và fact.
-- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 3 với 20 item draft kế tiếp, từ `animal_dragonfly_vi_3_5` đến khoảng `animal_shellfish_vi_3_5`.
+- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 80 item `reviewed`.
+- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 20 item `draft` cần rewrite/review thủ công trước khi dùng thương mại.
+- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 4 để xử lý 20 item draft cuối cùng, từ `animal_donkey_vi_3_5` đến `animal_manta_ray_vi_3_5`.

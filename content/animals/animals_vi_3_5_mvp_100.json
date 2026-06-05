@@ -1968,644 +1968,678 @@
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con chuồn chuồn",
-    "riddle": "Con gì có cánh mỏng,\nSống ở bờ ao thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì cánh mỏng bay nhanh,\nLượn quanh bờ ao xanh xanh.\nĐậu trên nhành cỏ rất nhẹ,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con chuồn chuồn",
-    "fact": "Con chuồn chuồn có cánh mỏng và thường được bé nhận ra ở bờ ao.",
+    "fact": "Chuồn chuồn có đôi cánh mỏng và bay rất nhanh. Chuồn chuồn thường xuất hiện gần ao hồ hoặc vườn cây.",
     "vocabulary": [
       "chuồn chuồn",
       "cánh mỏng",
       "bờ ao",
-      "con vật"
+      "bay"
     ],
     "quiz": {
-      "question": "Con chuồn chuồn có đặc điểm gì nổi bật?",
+      "question": "Chuồn chuồn thường bay gần đâu?",
       "options": [
-        "Con chuồn chuồn",
-        "Con voi",
-        "Con mèo"
+        "Bờ ao",
+        "Trong hang",
+        "Dưới biển"
       ],
-      "correctAnswer": "Con chuồn chuồn"
+      "correctAnswer": "Bờ ao"
     },
-    "coloringPrompt": "Con chuồn chuồn dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con chuồn chuồn for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có cánh mỏng? 3...2...1... Đáp án là Con chuồn chuồn!",
-    "worksheetInstruction": "Tô màu con chuồn chuồn và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con chuồn chuồn có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con chuồn chuồn cánh mỏng đậu trên ngọn cỏ gần ao, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute dragonfly with transparent wings resting on grass near a pond, preschool illustration.",
+    "shortVideoScript": "Con gì cánh mỏng, bay nhanh quanh bờ ao? Đáp án là con chuồn chuồn!",
+    "worksheetInstruction": "Tô màu chuồn chuồn và khoanh tròn đôi cánh mỏng.",
+    "parentGuide": "Hỏi bé: Chuồn chuồn bay trên trời hay bơi dưới nước?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_grasshopper_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con châu chấu",
-    "riddle": "Con gì có chân bật xa,\nSống ở bãi cỏ thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì chân sau thật dài,\nBật một cái đã đi xa.\nẨn trong bãi cỏ xanh mát,\nBé đoán tên bạn là gì?",
     "answer": "Con châu chấu",
-    "fact": "Con châu chấu có chân bật xa và thường được bé nhận ra ở bãi cỏ.",
+    "fact": "Châu chấu có đôi chân sau khỏe để nhảy xa. Châu chấu thường sống ở bãi cỏ hoặc ruộng cây.",
     "vocabulary": [
       "châu chấu",
-      "chân bật xa",
-      "bãi cỏ",
-      "con vật"
+      "chân sau",
+      "nhảy",
+      "bãi cỏ"
     ],
     "quiz": {
-      "question": "Con châu chấu có đặc điểm gì nổi bật?",
+      "question": "Châu chấu dùng gì để nhảy xa?",
       "options": [
-        "Con châu chấu",
-        "Con mèo",
-        "Con chó"
+        "Chân sau",
+        "Cánh vây",
+        "Cái vòi"
       ],
-      "correctAnswer": "Con châu chấu"
+      "correctAnswer": "Chân sau"
     },
-    "coloringPrompt": "Con châu chấu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con châu chấu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có chân bật xa? 3...2...1... Đáp án là Con châu chấu!",
-    "worksheetInstruction": "Tô màu con châu chấu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con châu chấu có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con châu chấu xanh có chân sau dài trên bãi cỏ, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute green grasshopper with long back legs on grass, preschool educational illustration.",
+    "shortVideoScript": "Con gì chân sau dài, bật nhảy thật xa trong bãi cỏ? Đáp án là con châu chấu!",
+    "worksheetInstruction": "Tô màu châu chấu và khoanh tròn đôi chân sau.",
+    "parentGuide": "Hỏi bé: Châu chấu nhảy bằng chân trước hay chân sau?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_ladybug_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con bọ rùa",
-    "riddle": "Con gì có lưng có chấm,\nSống ở lá cây thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì lưng đỏ chấm tròn,\nBò trên chiếc lá xanh non.\nNhỏ xinh như hạt đậu bé,\nBé đoán tên bạn được không?",
     "answer": "Con bọ rùa",
-    "fact": "Con bọ rùa có lưng có chấm và thường được bé nhận ra ở lá cây.",
+    "fact": "Bọ rùa là côn trùng nhỏ, thường có lưng đỏ với nhiều chấm đen. Bọ rùa hay bò trên lá cây.",
     "vocabulary": [
       "bọ rùa",
-      "lưng có chấm",
+      "chấm đen",
       "lá cây",
-      "con vật"
+      "nhỏ xinh"
     ],
     "quiz": {
-      "question": "Con bọ rùa có đặc điểm gì nổi bật?",
+      "question": "Bọ rùa thường có gì trên lưng?",
       "options": [
-        "Con bọ rùa",
-        "Con chó",
-        "Con vịt"
+        "Chấm đen",
+        "Cái vòi",
+        "Mai rùa lớn"
       ],
-      "correctAnswer": "Con bọ rùa"
+      "correctAnswer": "Chấm đen"
     },
-    "coloringPrompt": "Con bọ rùa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con bọ rùa for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có lưng có chấm? 3...2...1... Đáp án là Con bọ rùa!",
-    "worksheetInstruction": "Tô màu con bọ rùa và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con bọ rùa có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con bọ rùa đỏ có chấm đen trên chiếc lá, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute red ladybug with black spots on a green leaf, preschool illustration.",
+    "shortVideoScript": "Con gì lưng đỏ có chấm đen, bò trên lá cây? Đáp án là con bọ rùa!",
+    "worksheetInstruction": "Tô màu bọ rùa và chấm thêm các chấm đen trên lưng.",
+    "parentGuide": "Hỏi bé: Bọ rùa có những chấm nhỏ màu gì?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_praying_mantis_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con bọ ngựa",
-    "riddle": "Con gì có chân trước gập,\nSống ở bụi cây thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì màu xanh trong vườn,\nHai chân trước gập thật thương.\nĐứng yên như đang chào bé,\nBé đoán tên bạn trên đường?",
     "answer": "Con bọ ngựa",
-    "fact": "Con bọ ngựa có chân trước gập và thường được bé nhận ra ở bụi cây.",
+    "fact": "Bọ ngựa có hai chân trước gập lại rất đặc biệt. Bọ ngựa thường sống trong bụi cây hoặc vườn xanh.",
     "vocabulary": [
       "bọ ngựa",
-      "chân trước gập",
-      "bụi cây",
-      "con vật"
+      "chân trước",
+      "màu xanh",
+      "bụi cây"
     ],
     "quiz": {
-      "question": "Con bọ ngựa có đặc điểm gì nổi bật?",
+      "question": "Bọ ngựa có bộ phận nào rất đặc biệt?",
       "options": [
-        "Con bọ ngựa",
-        "Con vịt",
-        "Con voi"
+        "Chân trước",
+        "Vòi dài",
+        "Mai cứng"
       ],
-      "correctAnswer": "Con bọ ngựa"
+      "correctAnswer": "Chân trước"
     },
-    "coloringPrompt": "Con bọ ngựa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con bọ ngựa for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có chân trước gập? 3...2...1... Đáp án là Con bọ ngựa!",
-    "worksheetInstruction": "Tô màu con bọ ngựa và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con bọ ngựa có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con bọ ngựa màu xanh đứng trên cành cây, nét rõ và thân thiện cho trẻ tô màu.",
+    "imagePrompt": "Cute green praying mantis on a branch, friendly preschool educational illustration.",
+    "shortVideoScript": "Con gì màu xanh, có hai chân trước gập lại rất lạ? Đáp án là con bọ ngựa!",
+    "worksheetInstruction": "Tô màu bọ ngựa và khoanh tròn hai chân trước.",
+    "parentGuide": "Hỏi bé: Bọ ngựa thường có màu gì?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_earthworm_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con giun đất",
-    "riddle": "Con gì có thân mềm,\nSống ở trong đất thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân mềm trong đất,\nBò chậm sau cơn mưa rơi.\nGiúp đất tơi cho cây lớn,\nBé đoán tên bạn được rồi?",
     "answer": "Con giun đất",
-    "fact": "Con giun đất có thân mềm và thường được bé nhận ra ở trong đất.",
+    "fact": "Giun đất sống trong đất ẩm. Khi giun đất bò trong đất, đất có thể tơi hơn và tốt hơn cho cây.",
     "vocabulary": [
       "giun đất",
+      "đất ẩm",
       "thân mềm",
-      "trong đất",
-      "con vật"
+      "cây"
     ],
     "quiz": {
-      "question": "Con giun đất có đặc điểm gì nổi bật?",
+      "question": "Giun đất thường sống ở đâu?",
       "options": [
-        "Con giun đất",
-        "Con voi",
-        "Con mèo"
+        "Trong đất",
+        "Trên mây",
+        "Dưới biển sâu"
       ],
-      "correctAnswer": "Con giun đất"
+      "correctAnswer": "Trong đất"
     },
-    "coloringPrompt": "Con giun đất dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con giun đất for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân mềm? 3...2...1... Đáp án là Con giun đất!",
-    "worksheetInstruction": "Tô màu con giun đất và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con giun đất có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con giun đất thân mềm bò trong lớp đất cạnh mầm cây, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute earthworm in soil near a small sprout, preschool nature illustration.",
+    "shortVideoScript": "Con gì thân mềm sống trong đất và giúp đất tơi hơn? Đáp án là con giun đất!",
+    "worksheetInstruction": "Tô màu giun đất và vẽ thêm mầm cây nhỏ.",
+    "parentGuide": "Hỏi bé: Giun đất sống trong đất khô hay đất ẩm?",
+    "safetyNotes": [
+      "Bé không nên tự bốc giun đất khi chưa rửa tay hoặc không có người lớn hướng dẫn. Sau khi chơi với đất, bé cần rửa tay sạch."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_caterpillar_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sâu bướm",
-    "riddle": "Con gì có thân nhiều đốt,\nSống ở lá cây thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì mềm mềm trên lá,\nBò chậm từng bước nhỏ thôi.\nLớn lên có ngày thành bướm,\nBé đoán tên bạn đi rồi?",
     "answer": "Con sâu bướm",
-    "fact": "Con sâu bướm có thân nhiều đốt và thường được bé nhận ra ở lá cây.",
+    "fact": "Sâu bướm thường ăn lá cây. Một số sâu bướm lớn lên sẽ hóa thành bướm.",
     "vocabulary": [
       "sâu bướm",
-      "thân nhiều đốt",
       "lá cây",
-      "con vật"
+      "bò chậm",
+      "bướm"
     ],
     "quiz": {
-      "question": "Con sâu bướm có đặc điểm gì nổi bật?",
+      "question": "Sâu bướm thường bò ở đâu?",
       "options": [
-        "Con sâu bướm",
-        "Con mèo",
-        "Con chó"
+        "Trên lá",
+        "Trong ly nước",
+        "Trên mây"
       ],
-      "correctAnswer": "Con sâu bướm"
+      "correctAnswer": "Trên lá"
     },
-    "coloringPrompt": "Con sâu bướm dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sâu bướm for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân nhiều đốt? 3...2...1... Đáp án là Con sâu bướm!",
-    "worksheetInstruction": "Tô màu con sâu bướm và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sâu bướm có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con sâu bướm mềm bò trên chiếc lá lớn, nét đơn giản và dễ thương cho trẻ tô màu.",
+    "imagePrompt": "Cute caterpillar crawling on a green leaf, preschool educational illustration.",
+    "shortVideoScript": "Con gì mềm mềm bò trên lá và có thể lớn lên thành bướm? Đáp án là con sâu bướm!",
+    "worksheetInstruction": "Tô màu sâu bướm và vẽ thêm chiếc lá xanh.",
+    "parentGuide": "Hỏi bé: Sâu bướm bò nhanh hay chậm?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_silkworm_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con tằm",
-    "riddle": "Con gì có thân nhỏ,\nSống ở lá dâu thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì trắng nhỏ ăn dâu,\nLớn lên nhả kén thật lâu.\nSợi tơ mềm trong chiếc kén,\nBé đoán tên bạn ở đâu?",
     "answer": "Con tằm",
-    "fact": "Con tằm có thân nhỏ và thường được bé nhận ra ở lá dâu.",
+    "fact": "Tằm ăn lá dâu và có thể tạo kén. Từ kén tằm, người lớn có thể lấy sợi tơ để làm vải lụa.",
     "vocabulary": [
       "tằm",
-      "thân nhỏ",
       "lá dâu",
-      "con vật"
+      "kén",
+      "sợi tơ"
     ],
     "quiz": {
-      "question": "Con tằm có đặc điểm gì nổi bật?",
+      "question": "Tằm thường ăn lá gì?",
       "options": [
-        "Con tằm",
-        "Con chó",
-        "Con vịt"
+        "Lá dâu",
+        "Lá thông",
+        "Lá chuối khô"
       ],
-      "correctAnswer": "Con tằm"
+      "correctAnswer": "Lá dâu"
     },
-    "coloringPrompt": "Con tằm dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con tằm for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân nhỏ? 3...2...1... Đáp án là Con tằm!",
-    "worksheetInstruction": "Tô màu con tằm và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con tằm có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con tằm trắng nhỏ trên lá dâu cạnh chiếc kén, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute silkworm on mulberry leaf with a small cocoon, preschool illustration.",
+    "shortVideoScript": "Con gì ăn lá dâu và tạo chiếc kén nhỏ? Đáp án là con tằm!",
+    "worksheetInstruction": "Tô màu con tằm và khoanh tròn chiếc kén.",
+    "parentGuide": "Hỏi bé: Tằm ăn lá gì để lớn lên?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_spider_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con nhện",
-    "riddle": "Con gì có tám chân,\nSống ở góc vườn thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì tám chân bé xinh,\nChăng tơ góc vườn lấp lánh.\nBò nhẹ trên sợi tơ nhỏ,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con nhện",
-    "fact": "Con nhện có tám chân và thường được bé nhận ra ở góc vườn.",
+    "fact": "Nhện có tám chân và biết chăng tơ. Một số loài nhện giúp bắt côn trùng nhỏ.",
     "vocabulary": [
       "nhện",
       "tám chân",
-      "góc vườn",
-      "con vật"
+      "tơ nhện",
+      "góc vườn"
     ],
     "quiz": {
-      "question": "Con nhện có đặc điểm gì nổi bật?",
+      "question": "Nhện có mấy chân?",
       "options": [
-        "Con nhện",
-        "Con vịt",
-        "Con voi"
+        "Tám",
+        "Hai",
+        "Bốn"
       ],
-      "correctAnswer": "Con nhện"
+      "correctAnswer": "Tám"
     },
-    "coloringPrompt": "Con nhện dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con nhện for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có tám chân? 3...2...1... Đáp án là Con nhện!",
-    "worksheetInstruction": "Tô màu con nhện và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con nhện có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con nhện nhỏ thân thiện trên mạng nhện đơn giản, không đáng sợ, cho trẻ tô màu.",
+    "imagePrompt": "Friendly cute spider on a simple web, non-scary preschool illustration.",
+    "shortVideoScript": "Con gì có tám chân và biết chăng tơ? Đáp án là con nhện!",
+    "worksheetInstruction": "Tô màu con nhện và vẽ thêm mạng nhện đơn giản.",
+    "parentGuide": "Hỏi bé: Nhện có mấy chân? Mình có nên tự chạm vào nhện lạ không?",
     "safetyNotes": [
-      "Nhắc trẻ không tự chạm vào nhện lạ."
+      "Bé không nên chạm vào nhện hoặc mạng nhện. Nếu thấy nhện trong nhà, hãy gọi người lớn."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_beetle_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con bọ cánh cứng",
-    "riddle": "Con gì có vỏ cứng,\nSống ở bụi cây thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì vỏ cứng bóng xinh,\nBò trên lá nhỏ rung rinh.\nCó đôi cánh giấu bên dưới,\nBé đoán tên bạn của mình?",
     "answer": "Con bọ cánh cứng",
-    "fact": "Con bọ cánh cứng có vỏ cứng và thường được bé nhận ra ở bụi cây.",
+    "fact": "Bọ cánh cứng có lớp vỏ ngoài khá cứng. Nhiều loài bọ cánh cứng có cánh nằm dưới lớp vỏ bảo vệ.",
     "vocabulary": [
       "bọ cánh cứng",
       "vỏ cứng",
-      "bụi cây",
-      "con vật"
+      "cánh",
+      "lá cây"
     ],
     "quiz": {
-      "question": "Con bọ cánh cứng có đặc điểm gì nổi bật?",
+      "question": "Bọ cánh cứng có lớp gì bên ngoài?",
       "options": [
-        "Con bọ cánh cứng",
-        "Con voi",
-        "Con mèo"
+        "Vỏ cứng",
+        "Lông len",
+        "Vây cá"
       ],
-      "correctAnswer": "Con bọ cánh cứng"
+      "correctAnswer": "Vỏ cứng"
     },
-    "coloringPrompt": "Con bọ cánh cứng dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con bọ cánh cứng for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có vỏ cứng? 3...2...1... Đáp án là Con bọ cánh cứng!",
-    "worksheetInstruction": "Tô màu con bọ cánh cứng và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con bọ cánh cứng có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con bọ cánh cứng bóng trên chiếc lá, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute beetle with shiny hard shell on a leaf, preschool educational illustration.",
+    "shortVideoScript": "Con gì có lớp vỏ cứng bóng và bò trên lá cây? Đáp án là con bọ cánh cứng!",
+    "worksheetInstruction": "Tô màu bọ cánh cứng và khoanh tròn lớp vỏ cứng.",
+    "parentGuide": "Hỏi bé: Bọ cánh cứng có vỏ mềm hay vỏ cứng?",
+    "safetyNotes": [
+      "Bé không nên tự bắt hoặc chạm vào côn trùng lạ. Nếu muốn quan sát, hãy nhờ người lớn đi cùng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_seal_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con hải cẩu",
-    "riddle": "Con gì có bơi giỏi,\nSống ở biển lạnh thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân tròn bơi nhanh,\nNằm phơi nắng giữa biển xanh.\nVỗ vây nghe vui lách tách,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con hải cẩu",
-    "fact": "Con hải cẩu có bơi giỏi và thường được bé nhận ra ở biển lạnh.",
+    "fact": "Hải cẩu bơi rất giỏi và thường nghỉ trên bờ đá hoặc băng. Hải cẩu có lớp mỡ giúp giữ ấm trong nước lạnh.",
     "vocabulary": [
       "hải cẩu",
-      "bơi giỏi",
+      "bơi",
       "biển lạnh",
-      "con vật"
+      "vây"
     ],
     "quiz": {
-      "question": "Con hải cẩu có đặc điểm gì nổi bật?",
+      "question": "Hải cẩu bơi ở đâu?",
       "options": [
-        "Con hải cẩu",
-        "Con mèo",
-        "Con chó"
+        "Dưới biển",
+        "Trên cây",
+        "Trong tổ kiến"
       ],
-      "correctAnswer": "Con hải cẩu"
+      "correctAnswer": "Dưới biển"
     },
-    "coloringPrompt": "Con hải cẩu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con hải cẩu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có bơi giỏi? 3...2...1... Đáp án là Con hải cẩu!",
-    "worksheetInstruction": "Tô màu con hải cẩu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con hải cẩu có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con hải cẩu thân tròn nằm trên bờ biển, nét dễ thương cho trẻ tô màu.",
+    "imagePrompt": "Cute seal resting near the sea, simple preschool illustration.",
+    "shortVideoScript": "Con gì thân tròn, bơi giỏi và nằm nghỉ bên biển? Đáp án là con hải cẩu!",
+    "worksheetInstruction": "Tô màu hải cẩu và vẽ thêm sóng biển.",
+    "parentGuide": "Hỏi bé: Hải cẩu dùng vây để bơi hay để leo cây?",
+    "safetyNotes": [
+      "Bé chỉ nên quan sát hải cẩu ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_sea_lion_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sư tử biển",
-    "riddle": "Con gì có râu dài,\nSống ở bờ biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì râu dài bên mép,\nBơi nhanh rồi nghỉ trên bờ.\nKêu vang nghe thật vui tai,\nBé đoán tên bạn là ai?",
     "answer": "Con sư tử biển",
-    "fact": "Con sư tử biển có râu dài và thường được bé nhận ra ở bờ biển.",
+    "fact": "Sư tử biển bơi giỏi và có râu dài quanh mép. Sư tử biển thường nghỉ trên bờ biển hoặc bãi đá.",
     "vocabulary": [
       "sư tử biển",
       "râu dài",
-      "bờ biển",
-      "con vật"
+      "bơi",
+      "bờ biển"
     ],
     "quiz": {
-      "question": "Con sư tử biển có đặc điểm gì nổi bật?",
+      "question": "Sư tử biển có gì quanh mép?",
       "options": [
-        "Con sư tử biển",
-        "Con chó",
-        "Con vịt"
+        "Râu dài",
+        "Sừng cong",
+        "Cánh mỏng"
       ],
-      "correctAnswer": "Con sư tử biển"
+      "correctAnswer": "Râu dài"
     },
-    "coloringPrompt": "Con sư tử biển dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sư tử biển for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có râu dài? 3...2...1... Đáp án là Con sư tử biển!",
-    "worksheetInstruction": "Tô màu con sư tử biển và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sư tử biển có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con sư tử biển có râu dài nằm trên bờ đá, nét thân thiện cho trẻ tô màu.",
+    "imagePrompt": "Cute sea lion with whiskers resting on rocks by the sea, preschool illustration.",
+    "shortVideoScript": "Con gì có râu dài, bơi giỏi và nghỉ trên bờ biển? Đáp án là con sư tử biển!",
+    "worksheetInstruction": "Tô màu sư tử biển và khoanh tròn bộ râu dài.",
+    "parentGuide": "Hỏi bé: Sư tử biển sống gần rừng hay gần biển?",
+    "safetyNotes": [
+      "Bé chỉ nên quan sát sư tử biển ở nơi an toàn cùng người lớn, không tự ý lại gần động vật biển."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_otter_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con rái cá",
-    "riddle": "Con gì có thân dài,\nSống ở dòng sông thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì thân dài bơi nhanh,\nLặn trong dòng nước trong lành.\nHai tay ôm thức ăn nhỏ,\nBé đoán tên bạn thật nhanh?",
     "answer": "Con rái cá",
-    "fact": "Con rái cá có thân dài và thường được bé nhận ra ở dòng sông.",
+    "fact": "Rái cá có thân dài và bơi rất giỏi. Rái cá thường sống gần sông, suối hoặc vùng nước sạch.",
     "vocabulary": [
       "rái cá",
       "thân dài",
-      "dòng sông",
-      "con vật"
+      "bơi",
+      "dòng sông"
     ],
     "quiz": {
-      "question": "Con rái cá có đặc điểm gì nổi bật?",
+      "question": "Rái cá bơi có giỏi không?",
       "options": [
-        "Con rái cá",
-        "Con vịt",
-        "Con voi"
+        "Có",
+        "Không biết bơi",
+        "Chỉ biết bay"
       ],
-      "correctAnswer": "Con rái cá"
+      "correctAnswer": "Có"
     },
-    "coloringPrompt": "Con rái cá dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con rái cá for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân dài? 3...2...1... Đáp án là Con rái cá!",
-    "worksheetInstruction": "Tô màu con rái cá và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con rái cá có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con rái cá thân dài đang bơi trên dòng sông, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute otter swimming in a river, simple preschool educational illustration.",
+    "shortVideoScript": "Con gì thân dài, bơi nhanh trong dòng sông? Đáp án là con rái cá!",
+    "worksheetInstruction": "Tô màu rái cá và vẽ thêm dòng nước.",
+    "parentGuide": "Hỏi bé: Rái cá sống gần nước hay trên cây cao?",
     "safetyNotes": [],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_seahorse_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con cá ngựa",
-    "riddle": "Con gì có dáng cong,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì dáng giống ngựa con,\nBơi trong biển nhỏ xinh tròn.\nĐuôi cong bám vào rong biển,\nBé đoán tên bạn lon ton?",
     "answer": "Con cá ngựa",
-    "fact": "Con cá ngựa có dáng cong và thường được bé nhận ra ở biển.",
+    "fact": "Cá ngựa là loài cá nhỏ sống dưới biển. Cá ngựa có dáng cong và chiếc đuôi có thể bám vào rong biển.",
     "vocabulary": [
       "cá ngựa",
-      "dáng cong",
       "biển",
-      "con vật"
+      "đuôi cong",
+      "rong biển"
     ],
     "quiz": {
-      "question": "Con cá ngựa có đặc điểm gì nổi bật?",
+      "question": "Cá ngựa sống ở đâu?",
       "options": [
-        "Con cá ngựa",
-        "Con voi",
-        "Con mèo"
+        "Dưới biển",
+        "Trong chuồng ngựa",
+        "Trên mái nhà"
       ],
-      "correctAnswer": "Con cá ngựa"
+      "correctAnswer": "Dưới biển"
     },
-    "coloringPrompt": "Con cá ngựa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con cá ngựa for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có dáng cong? 3...2...1... Đáp án là Con cá ngựa!",
-    "worksheetInstruction": "Tô màu con cá ngựa và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con cá ngựa có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con cá ngựa nhỏ có đuôi cong gần rong biển, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute seahorse with curled tail near seaweed, preschool illustration.",
+    "shortVideoScript": "Con gì dáng giống ngựa nhỏ nhưng sống dưới biển? Đáp án là con cá ngựa!",
+    "worksheetInstruction": "Tô màu cá ngựa và vẽ thêm rong biển.",
+    "parentGuide": "Hỏi bé: Cá ngựa là cá dưới biển hay ngựa trên cạn?",
+    "safetyNotes": [
+      "Bé chỉ nên quan sát cá ngựa và sinh vật biển cùng người lớn, không tự ý bắt hoặc mang về nhà."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_jellyfish_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sứa",
-    "riddle": "Con gì có thân mềm,\nSống ở biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì trong suốt mềm êm,\nTrôi theo làn nước ngoài biển.\nCó tua dài nên đứng xa,\nBé đoán tên bạn là gì?",
     "answer": "Con sứa",
-    "fact": "Con sứa có thân mềm và thường được bé nhận ra ở biển.",
+    "fact": "Sứa có thân mềm và thường trôi trong nước biển. Một số loài sứa có tua có thể làm đau da nếu chạm vào.",
     "vocabulary": [
       "sứa",
-      "thân mềm",
-      "biển",
-      "con vật"
+      "trong suốt",
+      "tua mềm",
+      "biển"
     ],
     "quiz": {
-      "question": "Con sứa có đặc điểm gì nổi bật?",
+      "question": "Khi thấy sứa ở biển, bé nên làm gì?",
       "options": [
-        "Con sứa",
-        "Con mèo",
-        "Con chó"
+        "Đứng xa gọi người lớn",
+        "Chạm vào sứa",
+        "Bỏ vào túi áo"
       ],
-      "correctAnswer": "Con sứa"
+      "correctAnswer": "Đứng xa gọi người lớn"
     },
-    "coloringPrompt": "Con sứa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sứa for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có thân mềm? 3...2...1... Đáp án là Con sứa!",
-    "worksheetInstruction": "Tô màu con sứa và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sứa có đặc điểm nào dễ nhận ra?",
+    "coloringPrompt": "Một con sứa trong suốt có tua mềm dưới biển, nét đơn giản và không đáng sợ cho trẻ tô màu.",
+    "imagePrompt": "Simple non-scary jellyfish with soft tentacles underwater, preschool safety illustration.",
+    "shortVideoScript": "Con gì thân mềm trong suốt, trôi trong biển? Đáp án là con sứa! Bé nhớ không chạm vào sứa nhé.",
+    "worksheetInstruction": "Tô màu con sứa và khoanh tròn các tua mềm.",
+    "parentGuide": "Nhắc bé: Khi thấy sứa ở biển, mình đứng xa và gọi người lớn.",
     "safetyNotes": [
-      "Chỉ quan sát sứa qua hình ảnh hoặc ở nơi an toàn."
+      "Bé không nên chạm vào sứa khi đi biển. Nếu thấy sứa, hãy đứng xa và gọi người lớn."
     ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_coral_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "San hô",
-    "riddle": "Con gì có nhiều nhánh,\nSống ở đáy biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Sinh vật gì dưới đáy biển,\nNhiều nhánh nhỏ đứng bên nhau.\nTạo nơi cá con ẩn nấp,\nBé đoán tên bạn là đâu?",
     "answer": "San hô",
-    "fact": "San hô có nhiều nhánh và thường được bé nhận ra ở đáy biển.",
+    "fact": "San hô là sinh vật biển tạo thành rạn san hô. Rạn san hô là nơi nhiều loài cá nhỏ có thể trú ẩn.",
     "vocabulary": [
       "san hô",
-      "nhiều nhánh",
       "đáy biển",
-      "con vật"
+      "rạn san hô",
+      "cá nhỏ"
     ],
     "quiz": {
-      "question": "San hô có đặc điểm gì nổi bật?",
+      "question": "San hô sống ở đâu?",
       "options": [
-        "San hô",
-        "Con chó",
-        "Con vịt"
+        "Dưới biển",
+        "Trên mái nhà",
+        "Trong tổ chim"
       ],
-      "correctAnswer": "San hô"
+      "correctAnswer": "Dưới biển"
     },
-    "coloringPrompt": "San hô dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute san hô for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có nhiều nhánh? 3...2...1... Đáp án là San hô!",
-    "worksheetInstruction": "Tô màu san hô và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: San hô có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một cụm san hô nhiều nhánh dưới đáy biển với vài con cá nhỏ, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Colorful coral reef with small fish, simple preschool ocean illustration.",
+    "shortVideoScript": "Sinh vật gì có nhiều nhánh dưới đáy biển và tạo nơi cho cá nhỏ trú ẩn? Đáp án là san hô!",
+    "worksheetInstruction": "Tô màu san hô và vẽ thêm vài con cá nhỏ xung quanh.",
+    "parentGuide": "Hỏi bé: San hô ở dưới biển hay trên cành cây?",
+    "safetyNotes": [
+      "Bé không nên bẻ hoặc chạm vào san hô khi đi biển. Hãy quan sát san hô cùng người lớn ở nơi an toàn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_sea_snail_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con ốc biển",
-    "riddle": "Con gì có vỏ xoắn,\nSống ở bờ biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì vỏ xoắn trên lưng,\nBò chậm bên cát ven rừng.\nSống gần làn nước biển mát,\nBé đoán tên bạn được không?",
     "answer": "Con ốc biển",
-    "fact": "Con ốc biển có vỏ xoắn và thường được bé nhận ra ở bờ biển.",
+    "fact": "Ốc biển có vỏ cứng để bảo vệ thân mềm. Nhiều loài ốc biển sống ở vùng biển hoặc bờ đá.",
     "vocabulary": [
       "ốc biển",
       "vỏ xoắn",
       "bờ biển",
-      "con vật"
+      "thân mềm"
     ],
     "quiz": {
-      "question": "Con ốc biển có đặc điểm gì nổi bật?",
+      "question": "Ốc biển có gì để bảo vệ thân mềm?",
       "options": [
-        "Con ốc biển",
-        "Con vịt",
-        "Con voi"
+        "Vỏ cứng",
+        "Cánh rộng",
+        "Lông dày"
       ],
-      "correctAnswer": "Con ốc biển"
+      "correctAnswer": "Vỏ cứng"
     },
-    "coloringPrompt": "Con ốc biển dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con ốc biển for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có vỏ xoắn? 3...2...1... Đáp án là Con ốc biển!",
-    "worksheetInstruction": "Tô màu con ốc biển và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con ốc biển có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con ốc biển có vỏ xoắn trên bãi cát, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute sea snail with spiral shell on sandy beach, preschool illustration.",
+    "shortVideoScript": "Con gì có vỏ xoắn, bò chậm bên bờ biển? Đáp án là con ốc biển!",
+    "worksheetInstruction": "Tô màu ốc biển và trang trí chiếc vỏ xoắn.",
+    "parentGuide": "Hỏi bé: Vỏ ốc giúp bảo vệ phần nào của ốc?",
+    "safetyNotes": [
+      "Bé không nên tự nhặt sinh vật biển lạ. Nếu muốn quan sát vỏ ốc, hãy hỏi người lớn trước."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_clam_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con ngao",
-    "riddle": "Con gì có hai mảnh vỏ,\nSống ở bãi cát thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì hai mảnh vỏ xinh,\nNằm trong cát biển yên bình.\nMở ra khép lại khe khẽ,\nBé đoán tên bạn của mình?",
     "answer": "Con ngao",
-    "fact": "Con ngao có hai mảnh vỏ và thường được bé nhận ra ở bãi cát.",
+    "fact": "Ngao có hai mảnh vỏ cứng để bảo vệ bên trong. Ngao thường sống trong cát ở vùng biển.",
     "vocabulary": [
       "ngao",
       "hai mảnh vỏ",
-      "bãi cát",
-      "con vật"
+      "cát biển",
+      "vỏ cứng"
     ],
     "quiz": {
-      "question": "Con ngao có đặc điểm gì nổi bật?",
+      "question": "Ngao có mấy mảnh vỏ?",
       "options": [
-        "Con ngao",
-        "Con voi",
-        "Con mèo"
+        "Hai",
+        "Một trăm",
+        "Không có vỏ"
       ],
-      "correctAnswer": "Con ngao"
+      "correctAnswer": "Hai"
     },
-    "coloringPrompt": "Con ngao dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con ngao for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có hai mảnh vỏ? 3...2...1... Đáp án là Con ngao!",
-    "worksheetInstruction": "Tô màu con ngao và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con ngao có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con ngao có hai mảnh vỏ nằm trong cát biển, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute clam with two shells in beach sand, preschool illustration.",
+    "shortVideoScript": "Con gì có hai mảnh vỏ và nằm trong cát biển? Đáp án là con ngao!",
+    "worksheetInstruction": "Tô màu con ngao và khoanh tròn hai mảnh vỏ.",
+    "parentGuide": "Hỏi bé: Ngao có một mảnh vỏ hay hai mảnh vỏ?",
+    "safetyNotes": [
+      "Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_shellfish_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con sò",
-    "riddle": "Con gì có vỏ cứng,\nSống ở bờ biển thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì vỏ cứng xinh xinh,\nNằm bên bờ cát lung linh.\nKhép mình trong hai mảnh nhỏ,\nBé đoán tên bạn của mình?",
     "answer": "Con sò",
-    "fact": "Con sò có vỏ cứng và thường được bé nhận ra ở bờ biển.",
+    "fact": "Sò có vỏ cứng để bảo vệ phần thân mềm bên trong. Sò thường sống ở vùng biển hoặc bãi cát.",
     "vocabulary": [
       "sò",
       "vỏ cứng",
       "bờ biển",
-      "con vật"
+      "thân mềm"
     ],
     "quiz": {
-      "question": "Con sò có đặc điểm gì nổi bật?",
+      "question": "Sò có lớp gì bên ngoài?",
       "options": [
-        "Con sò",
-        "Con mèo",
-        "Con chó"
+        "Vỏ cứng",
+        "Lông mềm",
+        "Cánh mỏng"
       ],
-      "correctAnswer": "Con sò"
+      "correctAnswer": "Vỏ cứng"
     },
-    "coloringPrompt": "Con sò dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con sò for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có vỏ cứng? 3...2...1... Đáp án là Con sò!",
-    "worksheetInstruction": "Tô màu con sò và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con sò có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con sò có vỏ cứng trên bờ cát biển, nét rõ và đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute seashell clam on sandy beach, simple preschool ocean illustration.",
+    "shortVideoScript": "Con gì có vỏ cứng nằm bên bờ cát biển? Đáp án là con sò!",
+    "worksheetInstruction": "Tô màu con sò và trang trí chiếc vỏ.",
+    "parentGuide": "Hỏi bé: Con sò có vỏ cứng hay lông mềm?",
+    "safetyNotes": [
+      "Bé không nên tự nhặt hoặc ăn sinh vật biển lạ. Hãy hỏi người lớn trước khi chạm vào chúng."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_buffalo_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con trâu",
-    "riddle": "Con gì có sừng cong,\nSống ở đồng ruộng thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì sừng cong thật to,\nĐi trên đồng ruộng quanh co.\nThân khỏe kéo cày ngày trước,\nBé đoán tên bạn được chưa?",
     "answer": "Con trâu",
-    "fact": "Con trâu có sừng cong và thường được bé nhận ra ở đồng ruộng.",
+    "fact": "Trâu có thân khỏe và cặp sừng cong. Ở nhiều vùng quê, trâu từng giúp người nông dân làm việc trên đồng ruộng.",
     "vocabulary": [
       "trâu",
       "sừng cong",
       "đồng ruộng",
-      "con vật"
+      "thân khỏe"
     ],
     "quiz": {
-      "question": "Con trâu có đặc điểm gì nổi bật?",
+      "question": "Trâu có gì cong trên đầu?",
       "options": [
-        "Con trâu",
-        "Con chó",
-        "Con vịt"
+        "Sừng",
+        "Cánh",
+        "Vây"
       ],
-      "correctAnswer": "Con trâu"
+      "correctAnswer": "Sừng"
     },
-    "coloringPrompt": "Con trâu dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con trâu for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có sừng cong? 3...2...1... Đáp án là Con trâu!",
-    "worksheetInstruction": "Tô màu con trâu và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con trâu có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con trâu có sừng cong đứng trên đồng ruộng, nét rõ cho trẻ tô màu.",
+    "imagePrompt": "Cute buffalo with curved horns standing in a rice field, preschool rural illustration.",
+    "shortVideoScript": "Con gì thân khỏe, có sừng cong và sống gần đồng ruộng? Đáp án là con trâu!",
+    "worksheetInstruction": "Tô màu con trâu và khoanh tròn cặp sừng cong.",
+    "parentGuide": "Hỏi bé: Con trâu thường gắn với đồng ruộng hay biển xanh?",
+    "safetyNotes": [
+      "Bé nên quan sát trâu cùng người lớn, không tự ý lại gần hoặc trêu chọc con vật lớn."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_goat_vi_3_5",
     "topic": "animals",
     "ageGroup": "3-5",
     "title": "Con dê",
-    "riddle": "Con gì có râu nhỏ,\nSống ở sườn đồi thật vui.\nBé nhìn xem và đoán nhé,\nTên bạn nhỏ là gì?",
+    "riddle": "Con gì râu nhỏ dưới cằm,\nLeo lên sườn đồi chăm chăm.\nThích ăn lá non xanh mướt,\nBé đoán tên bạn được chăng?",
     "answer": "Con dê",
-    "fact": "Con dê có râu nhỏ và thường được bé nhận ra ở sườn đồi.",
+    "fact": "Dê có râu nhỏ dưới cằm và leo trèo khá giỏi. Dê thường ăn lá cây, cỏ non và sống ở nông trại hoặc sườn đồi.",
     "vocabulary": [
       "dê",
       "râu nhỏ",
-      "sườn đồi",
-      "con vật"
+      "leo trèo",
+      "lá non"
     ],
     "quiz": {
-      "question": "Con dê có đặc điểm gì nổi bật?",
+      "question": "Dê có gì nhỏ dưới cằm?",
       "options": [
-        "Con dê",
-        "Con vịt",
-        "Con voi"
+        "Râu",
+        "Vây",
+        "Mai"
       ],
-      "correctAnswer": "Con dê"
+      "correctAnswer": "Râu"
     },
-    "coloringPrompt": "Con dê dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.",
-    "imagePrompt": "Cute con dê for preschool educational content, simple children's book illustration.",
-    "shortVideoScript": "Đố bé biết: Con gì có râu nhỏ? 3...2...1... Đáp án là Con dê!",
-    "worksheetInstruction": "Tô màu con dê và khoanh tròn đặc điểm đúng.",
-    "parentGuide": "Hỏi bé: Con dê có đặc điểm nào dễ nhận ra?",
-    "safetyNotes": [],
+    "coloringPrompt": "Một con dê có râu nhỏ đứng trên sườn đồi, nét đơn giản cho trẻ tô màu.",
+    "imagePrompt": "Cute goat with small beard standing on a hillside, preschool illustration.",
+    "shortVideoScript": "Con gì có râu nhỏ dưới cằm và thích leo trên sườn đồi? Đáp án là con dê!",
+    "worksheetInstruction": "Tô màu con dê và vẽ thêm vài chiếc lá non.",
+    "parentGuide": "Hỏi bé: Dê thích ăn lá non hay ăn cá dưới biển?",
+    "safetyNotes": [
+      "Bé nên quan sát dê cùng người lớn, không tự ý kéo sừng hoặc trêu chọc con vật."
+    ],
     "difficulty": 1,
-    "status": "draft"
+    "status": "reviewed"
   },
   {
     "id": "animal_donkey_vi_3_5",
