@@ -2009,499 +2009,499 @@ Dê có gì nhỏ dưới cằm?
 ## 81. Con lừa
 
 ### Câu đố
-Con gì có tai dài,
-Sống ở nông trại thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì tai dài thật dài,
+Bước đi chậm rãi đường dài.
+Chở đồ giúp người chăm chỉ,
+Bé đoán tên bạn là ai?
 
 ### Đáp án
 Con lừa
 
 ### Kiến thức nhỏ
-Con lừa có tai dài và thường được bé nhận ra ở nông trại.
+Lừa có đôi tai dài và bước đi chắc chắn. Ở một số nơi, lừa giúp con người chở đồ nhẹ.
 
 ### Từ mới
 - lừa
 - tai dài
+- chở đồ
 - nông trại
-- con vật
 
 ### Câu hỏi cho bé
-Con lừa có đặc điểm gì nổi bật?
+Con lừa có đôi tai như thế nào?
 
 ---
 
 ## 82. Con alpaca
 
 ### Câu đố
-Con gì có lông mềm,
-Sống ở trang trại thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì lông mềm xù xù,
+Cổ dài nhìn rất hiền từ.
+Giống lạc đà nhỏ đáng mến,
+Bé đoán tên bạn được chứ?
 
 ### Đáp án
 Con alpaca
 
 ### Kiến thức nhỏ
-Con alpaca có lông mềm và thường được bé nhận ra ở trang trại.
+Alpaca có bộ lông mềm và cổ khá dài. Alpaca giống lạc đà nhỏ nhưng không có bướu lớn.
 
 ### Từ mới
 - alpaca
 - lông mềm
+- cổ dài
 - trang trại
-- con vật
 
 ### Câu hỏi cho bé
-Con alpaca có đặc điểm gì nổi bật?
+Alpaca có bộ lông như thế nào?
 
 ---
 
 ## 83. Con lạc đà không bướu
 
 ### Câu đố
-Con gì có cổ dài,
-Sống ở vùng núi thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cổ dài hiền hiền,
+Không có bướu như lạc đà.
+Lông dày đi trên vùng núi,
+Bé đoán tên bạn đó nha?
 
 ### Đáp án
 Con lạc đà không bướu
 
 ### Kiến thức nhỏ
-Con lạc đà không bướu có cổ dài và thường được bé nhận ra ở vùng núi.
+Lạc đà không bướu có cổ dài và lông dày. Con vật này sống ở một số vùng núi và trang trại.
 
 ### Từ mới
 - lạc đà không bướu
 - cổ dài
+- lông dày
 - vùng núi
-- con vật
 
 ### Câu hỏi cho bé
-Con lạc đà không bướu có đặc điểm gì nổi bật?
+Lạc đà không bướu có bướu lớn không?
 
 ---
 
 ## 84. Con tuần lộc
 
 ### Câu đố
-Con gì có sừng phân nhánh,
-Sống ở vùng lạnh thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì sừng nhánh trên đầu,
+Sống nơi lạnh trắng một màu.
+Kéo xe trong chuyện mùa đông,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con tuần lộc
 
 ### Kiến thức nhỏ
-Con tuần lộc có sừng phân nhánh và thường được bé nhận ra ở vùng lạnh.
+Tuần lộc có bộ sừng phân nhánh rất đẹp. Tuần lộc sống ở những vùng lạnh và có bộ lông giúp giữ ấm.
 
 ### Từ mới
 - tuần lộc
-- sừng phân nhánh
+- sừng
 - vùng lạnh
-- con vật
+- lông ấm
 
 ### Câu hỏi cho bé
-Con tuần lộc có đặc điểm gì nổi bật?
+Tuần lộc có gì trên đầu?
 
 ---
 
 ## 85. Con gấu bắc cực
 
 ### Câu đố
-Con gì có lông trắng,
-Sống ở vùng băng tuyết thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì lông trắng như mây,
+Đi trên băng lạnh mỗi ngày.
+Thân to giữa vùng tuyết phủ,
+Bé đoán tên bạn nào đây?
 
 ### Đáp án
 Con gấu bắc cực
 
 ### Kiến thức nhỏ
-Con gấu bắc cực có lông trắng và thường được bé nhận ra ở vùng băng tuyết.
+Gấu bắc cực có bộ lông trắng và sống ở vùng rất lạnh. Gấu bắc cực là động vật hoang dã lớn.
 
 ### Từ mới
 - gấu bắc cực
 - lông trắng
-- vùng băng tuyết
-- con vật
+- băng tuyết
+- vùng lạnh
 
 ### Câu hỏi cho bé
-Con gấu bắc cực có đặc điểm gì nổi bật?
+Gấu bắc cực có bộ lông màu gì?
 
 ---
 
 ## 86. Con cáo
 
 ### Câu đố
-Con gì có đuôi xù,
-Sống ở rừng cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi bông thật xinh,
+Chạy nhanh qua bụi cỏ xanh.
+Tai nhọn, mắt nhìn lanh lợi,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con cáo
 
 ### Kiến thức nhỏ
-Con cáo có đuôi xù và thường được bé nhận ra ở rừng cây.
+Cáo có chiếc đuôi xù và đôi tai nhọn. Cáo là động vật hoang dã nên bé chỉ nên quan sát từ xa.
 
 ### Từ mới
 - cáo
 - đuôi xù
-- rừng cây
-- con vật
+- tai nhọn
+- rừng
 
 ### Câu hỏi cho bé
-Con cáo có đặc điểm gì nổi bật?
+Cáo có chiếc đuôi như thế nào?
 
 ---
 
 ## 87. Con gấu mèo
 
 ### Câu đố
-Con gì có đuôi khoang,
-Sống ở rừng cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì mặt có vệt đen,
+Đuôi khoang trông rất thân quen.
+Tay nhỏ cầm đồ khéo léo,
+Bé đoán tên bạn xem nào?
 
 ### Đáp án
 Con gấu mèo
 
 ### Kiến thức nhỏ
-Con gấu mèo có đuôi khoang và thường được bé nhận ra ở rừng cây.
+Gấu mèo có đuôi khoang và vệt đen quanh mắt. Gấu mèo là động vật hoang dã, không phải vật nuôi để bé tự chạm vào.
 
 ### Từ mới
 - gấu mèo
 - đuôi khoang
-- rừng cây
-- con vật
+- mặt đen
+- rừng
 
 ### Câu hỏi cho bé
-Con gấu mèo có đặc điểm gì nổi bật?
+Gấu mèo có gì trên đuôi?
 
 ---
 
 ## 88. Con chồn
 
 ### Câu đố
-Con gì có thân dài,
-Sống ở bụi cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân dài nhỏ nhanh,
+Luồn qua bụi cỏ màu xanh.
+Mũi xinh ngửi tìm đường mới,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con chồn
 
 ### Kiến thức nhỏ
-Con chồn có thân dài và thường được bé nhận ra ở bụi cây.
+Chồn có thân dài và chạy khá nhanh. Chồn là động vật nhỏ, nhanh nhẹn và thường sống ở nơi có bụi cây hoặc hang hốc.
 
 ### Từ mới
 - chồn
 - thân dài
+- nhanh nhẹn
 - bụi cây
-- con vật
 
 ### Câu hỏi cho bé
-Con chồn có đặc điểm gì nổi bật?
+Con chồn có thân như thế nào?
 
 ---
 
 ## 89. Con hải ly
 
 ### Câu đố
-Con gì có đuôi bẹt,
-Sống ở dòng suối thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi bẹt rất hay,
+Gặm cành bên suối mỗi ngày.
+Xếp gỗ làm nhà gần nước,
+Bé đoán tên bạn nào đây?
 
 ### Đáp án
 Con hải ly
 
 ### Kiến thức nhỏ
-Con hải ly có đuôi bẹt và thường được bé nhận ra ở dòng suối.
+Hải ly có chiếc đuôi bẹt và răng khỏe. Hải ly thường dùng cành cây để làm nhà gần nước.
 
 ### Từ mới
 - hải ly
 - đuôi bẹt
+- cành cây
 - dòng suối
-- con vật
 
 ### Câu hỏi cho bé
-Con hải ly có đặc điểm gì nổi bật?
+Hải ly thường dùng gì để làm nhà?
 
 ---
 
 ## 90. Con linh dương
 
 ### Câu đố
-Con gì có chân dài,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì chân dài chạy nhanh,
+Băng qua đồng cỏ màu xanh.
+Dáng nhẹ như làn gió nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con linh dương
 
 ### Kiến thức nhỏ
-Con linh dương có chân dài và thường được bé nhận ra ở đồng cỏ.
+Linh dương có đôi chân dài và chạy nhanh trên đồng cỏ. Linh dương thường sống theo đàn ở những vùng rộng.
 
 ### Từ mới
 - linh dương
 - chân dài
 - đồng cỏ
-- con vật
+- chạy nhanh
 
 ### Câu hỏi cho bé
-Con linh dương có đặc điểm gì nổi bật?
+Linh dương chạy ở đâu?
 
 ---
 
 ## 91. Con linh miêu
 
 ### Câu đố
-Con gì có tai nhọn,
-Sống ở rừng lạnh thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì giống mèo trong rừng,
+Tai nhọn có chùm lông xinh.
+Bước đi nhẹ trên nền tuyết,
+Bé đoán tên bạn của mình?
 
 ### Đáp án
 Con linh miêu
 
 ### Kiến thức nhỏ
-Con linh miêu có tai nhọn và thường được bé nhận ra ở rừng lạnh.
+Linh miêu giống mèo rừng và có tai nhọn với chùm lông nhỏ. Linh miêu là động vật hoang dã.
 
 ### Từ mới
 - linh miêu
+- mèo rừng
 - tai nhọn
-- rừng lạnh
-- con vật
+- lông
 
 ### Câu hỏi cho bé
-Con linh miêu có đặc điểm gì nổi bật?
+Linh miêu giống con vật quen thuộc nào?
 
 ---
 
 ## 92. Con đà điểu
 
 ### Câu đố
-Con gì có chân dài,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì chân dài chạy nhanh,
+Cổ cao nhìn khắp đồng xanh.
+Là chim nhưng không bay giỏi,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con đà điểu
 
 ### Kiến thức nhỏ
-Con đà điểu có chân dài và thường được bé nhận ra ở đồng cỏ.
+Đà điểu là loài chim lớn có chân dài. Đà điểu không bay giỏi nhưng chạy rất nhanh.
 
 ### Từ mới
 - đà điểu
 - chân dài
-- đồng cỏ
-- con vật
+- chim lớn
+- chạy nhanh
 
 ### Câu hỏi cho bé
-Con đà điểu có đặc điểm gì nổi bật?
+Đà điểu nổi bật vì điều gì?
 
 ---
 
 ## 93. Con chim kiwi
 
 ### Câu đố
-Con gì có mỏ dài,
-Sống ở bụi cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì là chim nhỏ tròn,
+Mỏ dài tìm thức ăn ngon.
+Tên nghe giống một loại quả,
+Bé đoán bạn chim tí hon?
 
 ### Đáp án
 Con chim kiwi
 
 ### Kiến thức nhỏ
-Con chim kiwi có mỏ dài và thường được bé nhận ra ở bụi cây.
+Chim kiwi là một loài chim nhỏ, không phải quả kiwi. Chim kiwi có mỏ dài và thường sống ở nơi có bụi cây.
 
 ### Từ mới
 - chim kiwi
 - mỏ dài
+- chim nhỏ
 - bụi cây
-- con vật
 
 ### Câu hỏi cho bé
-Con chim kiwi có đặc điểm gì nổi bật?
+Chim kiwi là gì?
 
 ---
 
 ## 94. Con chim cánh cụt hoàng đế
 
 ### Câu đố
-Con gì có dáng cao,
-Sống ở vùng băng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì áo trắng áo đen,
+Dáng cao đi giữa băng mềm.
+Không bay nhưng bơi rất giỏi,
+Bé đoán tên bạn thân quen?
 
 ### Đáp án
 Con chim cánh cụt hoàng đế
 
 ### Kiến thức nhỏ
-Con chim cánh cụt hoàng đế có dáng cao và thường được bé nhận ra ở vùng băng.
+Chim cánh cụt hoàng đế là loài chim cánh cụt lớn sống ở vùng lạnh. Chúng không bay nhưng bơi rất giỏi.
 
 ### Từ mới
 - chim cánh cụt hoàng đế
-- dáng cao
-- vùng băng
-- con vật
+- băng
+- trắng đen
+- bơi
 
 ### Câu hỏi cho bé
-Con chim cánh cụt hoàng đế có đặc điểm gì nổi bật?
+Chim cánh cụt hoàng đế có bay giỏi không?
 
 ---
 
 ## 95. Con rắn
 
 ### Câu đố
-Con gì có thân dài,
-Sống ở bụi cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân dài không chân,
+Bò qua bụi cỏ rất gần.
+Thấy rồi bé đừng lại chạm,
+Gọi người lớn đến giúp mình.
 
 ### Đáp án
 Con rắn
 
 ### Kiến thức nhỏ
-Con rắn có thân dài và thường được bé nhận ra ở bụi cỏ.
+Rắn là bò sát có thân dài và không có chân. Một số loài rắn có thể nguy hiểm nên bé cần đứng xa.
 
 ### Từ mới
 - rắn
 - thân dài
-- bụi cỏ
-- con vật
+- bò sát
+- đứng xa
 
 ### Câu hỏi cho bé
-Con rắn có đặc điểm gì nổi bật?
+Khi thấy rắn, bé nên làm gì?
 
 ---
 
 ## 96. Con thằn lằn
 
 ### Câu đố
-Con gì có đuôi dài,
-Sống ở bờ tường thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi dài chạy nhanh,
+Men theo bờ tường màu xanh.
+Thân nhỏ phơi mình trong nắng,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con thằn lằn
 
 ### Kiến thức nhỏ
-Con thằn lằn có đuôi dài và thường được bé nhận ra ở bờ tường.
+Thằn lằn là bò sát nhỏ có đuôi dài. Thằn lằn thường chạy nhanh trên tường hoặc mặt đất.
 
 ### Từ mới
 - thằn lằn
 - đuôi dài
+- bò sát
 - bờ tường
-- con vật
 
 ### Câu hỏi cho bé
-Con thằn lằn có đặc điểm gì nổi bật?
+Thằn lằn thường chạy ở đâu?
 
 ---
 
 ## 97. Con tắc kè
 
 ### Câu đố
-Con gì có bám tường,
-Sống ở góc nhà thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì bám tường rất hay,
+Kêu tắc kè lúc đêm ngày.
+Chân nhỏ giữ mình thật chắc,
+Bé đoán tên bạn nào đây?
 
 ### Đáp án
 Con tắc kè
 
 ### Kiến thức nhỏ
-Con tắc kè có bám tường và thường được bé nhận ra ở góc nhà.
+Tắc kè có bàn chân bám rất giỏi trên tường hoặc cành cây. Tắc kè là bò sát nhỏ.
 
 ### Từ mới
 - tắc kè
 - bám tường
-- góc nhà
-- con vật
+- bàn chân
+- bò sát
 
 ### Câu hỏi cho bé
-Con tắc kè có đặc điểm gì nổi bật?
+Tắc kè bám ở đâu rất giỏi?
 
 ---
 
 ## 98. Con kỳ nhông
 
 ### Câu đố
-Con gì có mào nhỏ,
-Sống ở cành cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì có mào trên lưng,
+Nằm trên cành lá ung dung.
+Màu xanh nhìn như chiếc lá,
+Bé đoán tên bạn trong rừng?
 
 ### Đáp án
 Con kỳ nhông
 
 ### Kiến thức nhỏ
-Con kỳ nhông có mào nhỏ và thường được bé nhận ra ở cành cây.
+Kỳ nhông là bò sát có thân dài và thường có màu xanh hoặc nâu. Một số loài có mào nhỏ trên lưng.
 
 ### Từ mới
 - kỳ nhông
 - mào nhỏ
+- bò sát
 - cành cây
-- con vật
 
 ### Câu hỏi cho bé
-Con kỳ nhông có đặc điểm gì nổi bật?
+Kỳ nhông là nhóm con vật nào?
 
 ---
 
 ## 99. Con kỳ đà
 
 ### Câu đố
-Con gì có đuôi khỏe,
-Sống ở ven rừng thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì thân dài đuôi khỏe,
+Đi ven rừng thật lặng lẽ.
+Giống thằn lằn nhưng to hơn,
+Bé đoán tên bạn được chưa?
 
 ### Đáp án
 Con kỳ đà
 
 ### Kiến thức nhỏ
-Con kỳ đà có đuôi khỏe và thường được bé nhận ra ở ven rừng.
+Kỳ đà là bò sát có thân dài và đuôi khỏe. Kỳ đà lớn hơn thằn lằn nên bé chỉ nên quan sát từ xa.
 
 ### Từ mới
 - kỳ đà
 - đuôi khỏe
+- bò sát
 - ven rừng
-- con vật
 
 ### Câu hỏi cho bé
-Con kỳ đà có đặc điểm gì nổi bật?
+Kỳ đà giống con nào nhưng thường to hơn?
 
 ---
 
 ## 100. Con cá đuối
 
 ### Câu đố
-Con gì có vây rộng,
-Sống ở biển thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì vây rộng như quạt,
+Bơi êm dưới biển xanh mát.
+Thân bè lượn như cánh diều,
+Bé đoán tên bạn đáng yêu?
 
 ### Đáp án
 Con cá đuối
 
 ### Kiến thức nhỏ
-Con cá đuối có vây rộng và thường được bé nhận ra ở biển.
+Cá đuối có thân dẹt và vây rộng giúp bơi nhẹ nhàng dưới biển. Bé nên quan sát cá đuối ở nơi an toàn.
 
 ### Từ mới
 - cá đuối
 - vây rộng
+- thân dẹt
 - biển
-- con vật
 
 ### Câu hỏi cho bé
-Con cá đuối có đặc điểm gì nổi bật?
+Cá đuối có vây như thế nào?
 
 ---

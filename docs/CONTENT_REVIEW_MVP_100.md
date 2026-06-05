@@ -3,12 +3,12 @@
 ## Tổng quan
 
 - Tổng item: 100
-- Reviewed item hiện tại: 80
-- Draft item hiện tại: 20
-- Số item cần review kỹ: 20
+- Reviewed item hiện tại: 100
+- Draft item hiện tại: 0
+- Số item cần review kỹ: 0
 - Số item có rủi ro kiến thức: 12
 - Số item có rủi ro an toàn đã xử lý trong Batch 1: 2
-- Số item nên cải thiện câu đố còn lại: 20
+- Số item nên cải thiện câu đố còn lại: 0
 
 ## Danh sách item cần review kỹ
 
@@ -218,8 +218,74 @@ Sau Batch 2, còn 40 item `draft` chưa xử lý, từ `animal_dragonfly_vi_3_5`
 - Draft còn lại: 20
 - Ghi chú: Batch cuối nên xử lý 20 item draft còn lại, từ `animal_donkey_vi_3_5` đến `animal_manta_ray_vi_3_5`, chú ý các con vật xa lạ như alpaca, lạc đà không bướu, linh miêu và chim kiwi.
 
+## Task 2F — Content Fix Batch 4
+
+### Item đã sửa
+
+| id | title | thay đổi chính | status sau sửa |
+|---|---|---|---|
+| `animal_donkey_vi_3_5` | Con lừa | Viết lại riddle, fact, quiz, prompts, worksheet và parent guide quanh tai dài và nông trại. | reviewed |
+| `animal_alpaca_vi_3_5` | Con alpaca | Viết lại nội dung giải thích alpaca là con vật lông mềm, giống lạc đà nhỏ. | reviewed |
+| `animal_llama_vi_3_5` | Con lạc đà không bướu | Viết lại nội dung quanh cổ dài, lông dày và không có bướu. | reviewed |
+| `animal_reindeer_vi_3_5` | Con tuần lộc | Viết lại nội dung quanh sừng phân nhánh và vùng lạnh. | reviewed |
+| `animal_polar_bear_vi_3_5` | Con gấu bắc cực | Viết lại nội dung quanh lông trắng, băng tuyết và quan sát an toàn. | reviewed |
+| `animal_fox_vi_3_5` | Con cáo | Viết lại nội dung quanh đuôi xù, tai nhọn và rừng. | reviewed |
+| `animal_raccoon_vi_3_5` | Con gấu mèo | Viết lại nội dung quanh đuôi khoang và vệt đen quanh mắt. | reviewed |
+| `animal_ferret_vi_3_5` | Con chồn | Viết lại nội dung quanh thân dài, chạy nhanh và bụi cây. | reviewed |
+| `animal_beaver_vi_3_5` | Con hải ly | Viết lại nội dung quanh đuôi bẹt, răng khỏe và làm nhà gần nước. | reviewed |
+| `animal_antelope_vi_3_5` | Con linh dương | Viết lại nội dung quanh chân dài và chạy nhanh trên đồng cỏ. | reviewed |
+| `animal_lynx_vi_3_5` | Con linh miêu | Viết lại nội dung giải thích linh miêu giống mèo rừng, tai nhọn có chùm lông. | reviewed |
+| `animal_ostrich_vi_3_5` | Con đà điểu | Viết lại nội dung quanh chim lớn, chân dài và chạy nhanh. | reviewed |
+| `animal_kiwi_vi_3_5` | Con chim kiwi | Viết lại nội dung để tránh nhầm với quả kiwi, nhấn mạnh đây là loài chim nhỏ. | reviewed |
+| `animal_emperor_penguin_vi_3_5` | Con chim cánh cụt hoàng đế | Viết lại nội dung quanh dáng cao, vùng băng và bơi giỏi. | reviewed |
+| `animal_snake_vi_3_5` | Con rắn | Viết lại nội dung an toàn quanh thân dài, không chân và đứng xa gọi người lớn. | reviewed |
+| `animal_lizard_vi_3_5` | Con thằn lằn | Viết lại nội dung quanh đuôi dài, bờ tường và bò sát nhỏ. | reviewed |
+| `animal_gecko_vi_3_5` | Con tắc kè | Viết lại nội dung quanh bám tường và bàn chân bám giỏi. | reviewed |
+| `animal_iguana_vi_3_5` | Con kỳ nhông | Viết lại nội dung quanh mào nhỏ, bò sát và cành cây. | reviewed |
+| `animal_monitor_lizard_vi_3_5` | Con kỳ đà | Viết lại nội dung quanh thân dài, đuôi khỏe và quan sát bò sát từ xa. | reviewed |
+| `animal_manta_ray_vi_3_5` | Con cá đuối | Viết lại nội dung quanh thân dẹt, vây rộng và quan sát sinh vật biển an toàn. | reviewed |
+
+### SafetyNotes đã bổ sung
+
+| id | title | safetyNotes |
+|---|---|---|
+| `animal_donkey_vi_3_5` | Con lừa | Bé chỉ nên đến gần khi có người lớn đi cùng và không trêu chọc con vật. |
+| `animal_alpaca_vi_3_5` | Con alpaca | Bé chỉ nên đến gần khi có người lớn đi cùng và không trêu chọc con vật. |
+| `animal_llama_vi_3_5` | Con lạc đà không bướu | Bé chỉ nên đến gần khi có người lớn đi cùng và không trêu chọc con vật. |
+| `animal_reindeer_vi_3_5` | Con tuần lộc | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_polar_bear_vi_3_5` | Con gấu bắc cực | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_fox_vi_3_5` | Con cáo | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_raccoon_vi_3_5` | Con gấu mèo | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_ferret_vi_3_5` | Con chồn | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_beaver_vi_3_5` | Con hải ly | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_antelope_vi_3_5` | Con linh dương | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_lynx_vi_3_5` | Con linh miêu | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_ostrich_vi_3_5` | Con đà điểu | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_kiwi_vi_3_5` | Con chim kiwi | Đây là động vật hoang dã. Bé chỉ nên quan sát qua sách, video hoặc khi đi cùng người lớn ở nơi an toàn. |
+| `animal_snake_vi_3_5` | Con rắn | Bé không nên tự chạm vào bò sát lạ. Nếu thấy chúng, hãy đứng xa và gọi người lớn. |
+| `animal_lizard_vi_3_5` | Con thằn lằn | Bé không nên tự chạm vào bò sát lạ. Nếu thấy chúng, hãy đứng xa và gọi người lớn. |
+| `animal_gecko_vi_3_5` | Con tắc kè | Bé không nên tự chạm vào bò sát lạ. Nếu thấy chúng, hãy đứng xa và gọi người lớn. |
+| `animal_iguana_vi_3_5` | Con kỳ nhông | Bé không nên tự chạm vào bò sát lạ. Nếu thấy chúng, hãy đứng xa và gọi người lớn. |
+| `animal_monitor_lizard_vi_3_5` | Con kỳ đà | Bé không nên tự chạm vào bò sát lạ. Nếu thấy chúng, hãy đứng xa và gọi người lớn. |
+| `animal_manta_ray_vi_3_5` | Con cá đuối | Bé chỉ nên quan sát cá đuối ở thủy cung hoặc nơi an toàn cùng người lớn, không tự ý chạm vào sinh vật biển. |
+
+### Trạng thái sau Batch 4
+
+- Reviewed: 100
+- Draft còn lại: 0
+- Ghi chú: 100 item đã qua 4 batch content fix và đều ở trạng thái `reviewed`. Vẫn nên có một vòng đọc thủ công cuối trước khi dùng thương mại.
+
+## Kết luận sau 4 batch content fix
+
+- Tổng item: 100
+- Reviewed: 100
+- Draft: 0
+- Có thể dùng cho app demo chưa? Có.
+- Có thể dùng cho sản phẩm bán chưa? Có thể dùng làm bản ứng viên, nhưng nên có một vòng biên tập/thẩm định thủ công cuối trước khi bán.
+- Việc cần review thủ công tiếp theo: đọc toàn bộ 100 item trong ngữ cảnh sản phẩm, kiểm tra giọng văn, tính nhất quán thuật ngữ, độ đúng fact và chất lượng prompt hình ảnh.
+
 ## Kết luận
 
-- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 80 item `reviewed`.
-- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 20 item `draft` cần rewrite/review thủ công trước khi dùng thương mại.
-- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 4 để xử lý 20 item draft cuối cùng, từ `animal_donkey_vi_3_5` đến `animal_manta_ray_vi_3_5`.
+- Có nên dùng file 100 item cho app demo không? Có.
+- Có nên dùng cho sản phẩm bán chưa? Có thể dùng làm bản ứng viên sau khi có một vòng đọc thủ công cuối.
+- Bước tiếp theo đề xuất: chuyển sang Mini App Product Upgrade hoặc làm vòng editorial QA cuối cho 100 item.
