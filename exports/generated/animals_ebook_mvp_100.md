@@ -1009,500 +1009,500 @@ Tê giác có gì trên mũi?
 ## 41. Con lạc đà
 
 ### Câu đố
-Con gì có bướu trên lưng,
-Sống ở sa mạc thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đi giữa cát vàng,
+Trên lưng có bướu rõ ràng.
+Bước chậm qua miền nắng nóng,
+Bé đoán tên bạn nhẹ nhàng?
 
 ### Đáp án
 Con lạc đà
 
 ### Kiến thức nhỏ
-Con lạc đà có bướu trên lưng và thường được bé nhận ra ở sa mạc.
+Lạc đà có bướu trên lưng và chịu được thời tiết khô nóng. Lạc đà thường được gọi là bạn của sa mạc.
 
 ### Từ mới
 - lạc đà
-- bướu trên lưng
+- bướu
 - sa mạc
-- con vật
+- khô nóng
 
 ### Câu hỏi cho bé
-Con lạc đà có đặc điểm gì nổi bật?
+Lạc đà có gì trên lưng?
 
 ---
 
 ## 42. Con chuột túi
 
 ### Câu đố
-Con gì có nhảy xa,
-Sống ở đồng cỏ thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì nhảy thật là xa,
+Có túi ôm bé trước nhà.
+Chân sau khỏe ơi là khỏe,
+Bé đoán tên bạn đó nha?
 
 ### Đáp án
 Con chuột túi
 
 ### Kiến thức nhỏ
-Con chuột túi có nhảy xa và thường được bé nhận ra ở đồng cỏ.
+Chuột túi có hai chân sau rất khỏe để nhảy xa. Chuột túi mẹ có chiếc túi trước bụng để giữ con non.
 
 ### Từ mới
 - chuột túi
-- nhảy xa
-- đồng cỏ
-- con vật
+- nhảy
+- túi
+- chân sau
 
 ### Câu hỏi cho bé
-Con chuột túi có đặc điểm gì nổi bật?
+Chuột túi dùng gì để nhảy xa?
 
 ---
 
 ## 43. Con gấu túi
 
 ### Câu đố
-Con gì có ôm cành cây,
-Sống ở rừng cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì ôm cành cây cao,
+Lông mềm trông rất hiền sao.
+Ngủ ngoan giữa rừng lá xanh,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con gấu túi
 
 ### Kiến thức nhỏ
-Con gấu túi có ôm cành cây và thường được bé nhận ra ở rừng cây.
+Gấu túi thường bám trên cây và ăn lá bạch đàn. Gấu túi có bộ lông mềm và dáng rất dễ thương.
 
 ### Từ mới
 - gấu túi
-- ôm cành cây
-- rừng cây
-- con vật
+- cây
+- lá
+- lông mềm
 
 ### Câu hỏi cho bé
-Con gấu túi có đặc điểm gì nổi bật?
+Gấu túi thường ở đâu?
 
 ---
 
 ## 44. Con sóc
 
 ### Câu đố
-Con gì có đuôi xù,
-Sống ở trên cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi xù thật xinh,
+Leo cây nhanh dưới nắng bình minh.
+Ôm hạt nhỏ chạy lon ton,
+Bé đoán tên bạn tí hon?
 
 ### Đáp án
 Con sóc
 
 ### Kiến thức nhỏ
-Con sóc có đuôi xù và thường được bé nhận ra ở trên cây.
+Sóc leo cây rất nhanh và có chiếc đuôi xù. Sóc thường ăn hạt, quả và một số thức ăn nhỏ trong tự nhiên.
 
 ### Từ mới
 - sóc
 - đuôi xù
-- trên cây
-- con vật
+- leo cây
+- hạt
 
 ### Câu hỏi cho bé
-Con sóc có đặc điểm gì nổi bật?
+Sóc có chiếc đuôi như thế nào?
 
 ---
 
 ## 45. Con chuột
 
 ### Câu đố
-Con gì có thân nhỏ,
-Sống ở góc nhà thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì nhỏ xíu chạy nhanh,
+Có ria dài cạnh mũi xinh.
+Chui qua khe nhỏ rất khéo,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con chuột
 
 ### Kiến thức nhỏ
-Con chuột có thân nhỏ và thường được bé nhận ra ở góc nhà.
+Chuột là con vật nhỏ, chạy nhanh và có ria. Chuột thường sống ở nơi kín nên bé không nên tự bắt chuột.
 
 ### Từ mới
 - chuột
-- thân nhỏ
-- góc nhà
-- con vật
+- nhỏ
+- ria
+- chạy nhanh
 
 ### Câu hỏi cho bé
-Con chuột có đặc điểm gì nổi bật?
+Chuột có gì cạnh mũi?
 
 ---
 
 ## 46. Con nhím
 
 ### Câu đố
-Con gì có lông gai,
-Sống ở bụi cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì lưng có gai dài,
+Đi chậm dưới bụi lá mai.
+Gai nhọn giúp mình tự vệ,
+Bé đoán tên bạn là ai?
 
 ### Đáp án
 Con nhím
 
 ### Kiến thức nhỏ
-Con nhím có lông gai và thường được bé nhận ra ở bụi cây.
+Nhím có nhiều gai trên lưng để tự bảo vệ. Bé chỉ nên quan sát nhím, không nên chạm vào gai nhọn.
 
 ### Từ mới
 - nhím
-- lông gai
+- gai
 - bụi cây
-- con vật
+- bảo vệ
 
 ### Câu hỏi cho bé
-Con nhím có đặc điểm gì nổi bật?
+Nhím có gì trên lưng?
 
 ---
 
 ## 47. Con dơi
 
 ### Câu đố
-Con gì có cánh mỏng,
-Sống ở hang thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cánh mỏng bay đêm,
+Treo mình ngủ ngược thật êm.
+Ra ngoài khi trời đã tối,
+Bé đoán tên bạn xem nào?
 
 ### Đáp án
 Con dơi
 
 ### Kiến thức nhỏ
-Con dơi có cánh mỏng và thường được bé nhận ra ở hang.
+Dơi là loài thú biết bay và thường hoạt động vào ban đêm. Nhiều loài dơi giúp bắt côn trùng nhỏ.
 
 ### Từ mới
 - dơi
-- cánh mỏng
-- hang
-- con vật
+- cánh
+- ban đêm
+- ngủ ngược
 
 ### Câu hỏi cho bé
-Con dơi có đặc điểm gì nổi bật?
+Dơi thường bay vào lúc nào?
 
 ---
 
 ## 48. Con cú mèo
 
 ### Câu đố
-Con gì có mắt tròn,
-Sống ở cành cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì mắt tròn thật to,
+Đậu trên cành lúc đêm mờ.
+Kêu cú cú nghe rất lạ,
+Bé đoán tên bạn được chưa?
 
 ### Đáp án
 Con cú mèo
 
 ### Kiến thức nhỏ
-Con cú mèo có mắt tròn và thường được bé nhận ra ở cành cây.
+Cú mèo có đôi mắt to và thường hoạt động vào ban đêm. Cú mèo dùng mắt và tai để tìm thức ăn.
 
 ### Từ mới
 - cú mèo
 - mắt tròn
+- ban đêm
 - cành cây
-- con vật
 
 ### Câu hỏi cho bé
-Con cú mèo có đặc điểm gì nổi bật?
+Cú mèo có đôi mắt như thế nào?
 
 ---
 
 ## 49. Con đại bàng
 
 ### Câu đố
-Con gì có cánh rộng,
-Sống ở bầu trời thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cánh rộng bay cao,
+Lượn trên trời xanh biết bao.
+Mắt tinh nhìn xa rất giỏi,
+Bé đoán tên bạn nào?
 
 ### Đáp án
 Con đại bàng
 
 ### Kiến thức nhỏ
-Con đại bàng có cánh rộng và thường được bé nhận ra ở bầu trời.
+Đại bàng có đôi cánh rộng và bay rất cao. Đại bàng có đôi mắt tinh để nhìn xa.
 
 ### Từ mới
 - đại bàng
 - cánh rộng
-- bầu trời
-- con vật
+- bay cao
+- mắt tinh
 
 ### Câu hỏi cho bé
-Con đại bàng có đặc điểm gì nổi bật?
+Đại bàng dùng gì để bay cao?
 
 ---
 
 ## 50. Con chim công
 
 ### Câu đố
-Con gì có đuôi xòe,
-Sống ở vườn cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi xòe nhiều màu,
+Đi trong vườn nhỏ trước sau.
+Lông xanh lấp lánh thật đẹp,
+Bé đoán tên bạn mau mau?
 
 ### Đáp án
 Con chim công
 
 ### Kiến thức nhỏ
-Con chim công có đuôi xòe và thường được bé nhận ra ở vườn cây.
+Chim công có bộ lông nhiều màu rất đẹp. Khi xòe đuôi, chim công trông như chiếc quạt lớn.
 
 ### Từ mới
 - chim công
 - đuôi xòe
-- vườn cây
-- con vật
+- màu sắc
+- lông
 
 ### Câu hỏi cho bé
-Con chim công có đặc điểm gì nổi bật?
+Chim công nổi bật nhất ở phần nào?
 
 ---
 
 ## 51. Con chim sẻ
 
 ### Câu đố
-Con gì có thân nhỏ,
-Sống ở mái nhà thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì nhỏ bé chuyền cành,
+Bay qua mái ngói rất nhanh.
+Líu lo trong nắng buổi sáng,
+Bé đoán tên bạn hiền lành?
 
 ### Đáp án
 Con chim sẻ
 
 ### Kiến thức nhỏ
-Con chim sẻ có thân nhỏ và thường được bé nhận ra ở mái nhà.
+Chim sẻ là loài chim nhỏ thường sống gần nhà và vườn cây. Chim sẻ bay nhanh và hay nhảy trên cành.
 
 ### Từ mới
 - chim sẻ
-- thân nhỏ
-- mái nhà
-- con vật
+- nhỏ
+- bay
+- líu lo
 
 ### Câu hỏi cho bé
-Con chim sẻ có đặc điểm gì nổi bật?
+Chim sẻ là loài chim như thế nào?
 
 ---
 
 ## 52. Con chim bồ câu
 
 ### Câu đố
-Con gì có hiền lành,
-Sống ở sân nhà thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì gật gù trên sân,
+Bay về mái nhà rất gần.
+Lông xám, chân hồng nho nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con chim bồ câu
 
 ### Kiến thức nhỏ
-Con chim bồ câu có hiền lành và thường được bé nhận ra ở sân nhà.
+Chim bồ câu thường sống gần con người. Chim bồ câu biết bay và hay đi gật gù trên sân.
 
 ### Từ mới
 - chim bồ câu
-- hiền lành
+- bay
+- gật gù
 - sân nhà
-- con vật
 
 ### Câu hỏi cho bé
-Con chim bồ câu có đặc điểm gì nổi bật?
+Chim bồ câu di chuyển trên trời bằng gì?
 
 ---
 
 ## 53. Con chim hồng hạc
 
 ### Câu đố
-Con gì có chân dài,
-Sống ở hồ nước thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì chân dài màu hồng,
+Đứng bên hồ nước mênh mông.
+Cổ cong dáng đi mềm mại,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con chim hồng hạc
 
 ### Kiến thức nhỏ
-Con chim hồng hạc có chân dài và thường được bé nhận ra ở hồ nước.
+Chim hồng hạc có chân dài và bộ lông màu hồng. Chim hồng hạc thường sống gần hồ nước.
 
 ### Từ mới
-- chim hồng hạc
+- hồng hạc
 - chân dài
+- màu hồng
 - hồ nước
-- con vật
 
 ### Câu hỏi cho bé
-Con chim hồng hạc có đặc điểm gì nổi bật?
+Chim hồng hạc thường có màu gì?
 
 ---
 
 ## 54. Con vẹt
 
 ### Câu đố
-Con gì có lông nhiều màu,
-Sống ở cành cây thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì lông đẹp nhiều màu,
+Đậu trên cành nhỏ thật lâu.
+Có thể bắt chước tiếng nói,
+Bé đoán tên bạn mau mau?
 
 ### Đáp án
 Con vẹt
 
 ### Kiến thức nhỏ
-Con vẹt có lông nhiều màu và thường được bé nhận ra ở cành cây.
+Vẹt có bộ lông nhiều màu và chiếc mỏ cong. Một số loài vẹt có thể bắt chước âm thanh.
 
 ### Từ mới
 - vẹt
-- lông nhiều màu
-- cành cây
-- con vật
+- lông màu
+- mỏ cong
+- âm thanh
 
 ### Câu hỏi cho bé
-Con vẹt có đặc điểm gì nổi bật?
+Vẹt có bộ lông như thế nào?
 
 ---
 
 ## 55. Con thiên nga
 
 ### Câu đố
-Con gì có cổ dài,
-Sống ở hồ nước thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cổ dài trắng xinh,
+Bơi trên hồ nước lung linh.
+Dáng đi nhẹ như đang múa,
+Bé đoán tên bạn của mình?
 
 ### Đáp án
 Con thiên nga
 
 ### Kiến thức nhỏ
-Con thiên nga có cổ dài và thường được bé nhận ra ở hồ nước.
+Thiên nga có chiếc cổ dài và thường bơi trên hồ. Bộ lông trắng giúp thiên nga trông rất nổi bật.
 
 ### Từ mới
 - thiên nga
 - cổ dài
 - hồ nước
-- con vật
+- bơi
 
 ### Câu hỏi cho bé
-Con thiên nga có đặc điểm gì nổi bật?
+Thiên nga thường làm gì trên hồ?
 
 ---
 
 ## 56. Con ngỗng
 
 ### Câu đố
-Con gì có cổ dài,
-Sống ở sân vườn thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì cổ dài kêu vang,
+Đi trong sân bước nhẹ nhàng.
+Biết bơi nơi ao nước nhỏ,
+Bé đoán tên bạn rõ ràng?
 
 ### Đáp án
 Con ngỗng
 
 ### Kiến thức nhỏ
-Con ngỗng có cổ dài và thường được bé nhận ra ở sân vườn.
+Ngỗng có cổ dài và biết bơi. Ngỗng thường sống ở sân vườn hoặc gần ao hồ.
 
 ### Từ mới
 - ngỗng
 - cổ dài
+- bơi
 - sân vườn
-- con vật
 
 ### Câu hỏi cho bé
-Con ngỗng có đặc điểm gì nổi bật?
+Ngỗng có biết bơi không?
 
 ---
 
 ## 57. Con gà tây
 
 ### Câu đố
-Con gì có đuôi xòe,
-Sống ở nông trại thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì đuôi xòe tròn to,
+Đi trong nông trại quanh co.
+Lông dày nhìn thật lạ mắt,
+Bé đoán tên bạn được không?
 
 ### Đáp án
 Con gà tây
 
 ### Kiến thức nhỏ
-Con gà tây có đuôi xòe và thường được bé nhận ra ở nông trại.
+Gà tây là loài chim nuôi ở nông trại. Gà tây có chiếc đuôi xòe tròn rất dễ nhận ra.
 
 ### Từ mới
 - gà tây
 - đuôi xòe
 - nông trại
-- con vật
+- lông
 
 ### Câu hỏi cho bé
-Con gà tây có đặc điểm gì nổi bật?
+Gà tây có phần nào xòe tròn?
 
 ---
 
 ## 58. Con kiến
 
 ### Câu đố
-Con gì có thân nhỏ,
-Sống ở dưới đất thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì bé xíu chăm ngoan,
+Đi thành hàng rất thẳng hàng.
+Mang mẩu bánh về tổ nhỏ,
+Bé đoán tên bạn thật nhanh?
 
 ### Đáp án
 Con kiến
 
 ### Kiến thức nhỏ
-Con kiến có thân nhỏ và thường được bé nhận ra ở dưới đất.
+Kiến là côn trùng nhỏ thường đi thành hàng. Kiến sống trong tổ và cùng nhau tìm thức ăn.
 
 ### Từ mới
 - kiến
-- thân nhỏ
-- dưới đất
-- con vật
+- nhỏ
+- đi hàng
+- tổ
 
 ### Câu hỏi cho bé
-Con kiến có đặc điểm gì nổi bật?
+Kiến thường đi như thế nào?
 
 ---
 
 ## 59. Con muỗi
 
 ### Câu đố
-Con gì có cánh nhỏ,
-Sống ở gần nước thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì nhỏ xíu vo ve,
+Bay quanh tai lúc chiều hè.
+Bé nghe tiếng thì tránh nhé,
+Đố bé biết tên gì nè?
 
 ### Đáp án
 Con muỗi
 
 ### Kiến thức nhỏ
-Con muỗi có cánh nhỏ và thường được bé nhận ra ở gần nước.
+Muỗi là côn trùng nhỏ biết bay. Muỗi có thể đốt làm da bị ngứa nên bé cần tránh để muỗi đốt.
 
 ### Từ mới
 - muỗi
+- vo ve
 - cánh nhỏ
-- gần nước
-- con vật
+- tránh muỗi
 
 ### Câu hỏi cho bé
-Con muỗi có đặc điểm gì nổi bật?
+Khi có nhiều muỗi, bé nên làm gì?
 
 ---
 
 ## 60. Con ruồi
 
 ### Câu đố
-Con gì có bay nhanh,
-Sống ở góc bếp thật vui.
-Bé nhìn xem và đoán nhé,
-Tên bạn nhỏ là gì?
+Con gì bay vù quanh nhà,
+Đậu lên đồ bẩn ngoài xa.
+Bé nhớ rửa tay sạch sẽ,
+Đố bé tên bạn là gì?
 
 ### Đáp án
 Con ruồi
 
 ### Kiến thức nhỏ
-Con ruồi có bay nhanh và thường được bé nhận ra ở góc bếp.
+Ruồi là côn trùng nhỏ biết bay. Ruồi hay đậu ở nơi bẩn nên bé cần giữ vệ sinh và rửa tay sạch.
 
 ### Từ mới
 - ruồi
-- bay nhanh
-- góc bếp
-- con vật
+- bay
+- vệ sinh
+- rửa tay
 
 ### Câu hỏi cho bé
-Con ruồi có đặc điểm gì nổi bật?
+Sau khi thấy ruồi ở nơi bẩn, bé nên làm gì?
 
 ---
 

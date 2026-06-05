@@ -3,12 +3,12 @@
 ## Tổng quan
 
 - Tổng item: 100
-- Reviewed item hiện tại: 40
-- Draft item hiện tại: 60
-- Số item cần review kỹ: 60
+- Reviewed item hiện tại: 60
+- Draft item hiện tại: 40
+- Số item cần review kỹ: 40
 - Số item có rủi ro kiến thức: 12
 - Số item có rủi ro an toàn đã xử lý trong Batch 1: 2
-- Số item nên cải thiện câu đố còn lại: 60
+- Số item nên cải thiện câu đố còn lại: 40
 
 ## Danh sách item cần review kỹ
 
@@ -114,10 +114,55 @@ Không sửa content trong task này.
 
 ### Item còn cần sửa ở batch sau
 
-Còn 60 item `draft` chưa xử lý, từ `animal_camel_vi_3_5` đến `animal_manta_ray_vi_3_5`. Batch sau nên tiếp tục sửa theo nhóm 20 item, ưu tiên câu đố còn template, fact còn mơ hồ và safetyNotes cho các con vật có rủi ro.
+Sau Batch 2, còn 40 item `draft` chưa xử lý, từ `animal_dragonfly_vi_3_5` đến `animal_manta_ray_vi_3_5`. Batch sau nên tiếp tục sửa theo nhóm 20 item, ưu tiên câu đố còn template, fact còn mơ hồ và safetyNotes cho các con vật có rủi ro.
+
+## Task 2D — Content Fix Batch 2
+
+### Item đã sửa
+
+| id | title | thay đổi chính | status sau sửa |
+|---|---|---|---|
+| `animal_camel_vi_3_5` | Con lạc đà | Viết lại riddle, fact, quiz, prompts, worksheet và parent guide quanh bướu và sa mạc. | reviewed |
+| `animal_kangaroo_vi_3_5` | Con chuột túi | Viết lại nội dung quanh nhảy xa, chân sau và túi trước bụng. | reviewed |
+| `animal_koala_vi_3_5` | Con gấu túi | Viết lại nội dung quanh ôm cành cây, lông mềm và sống trên cây. | reviewed |
+| `animal_squirrel_vi_3_5` | Con sóc | Viết lại nội dung quanh đuôi xù, leo cây và ôm hạt. | reviewed |
+| `animal_mouse_vi_3_5` | Con chuột | Viết lại nội dung quanh thân nhỏ, ria và chạy nhanh; thêm hướng dẫn an toàn. | reviewed |
+| `animal_porcupine_vi_3_5` | Con nhím | Viết lại nội dung quanh gai lưng và quan sát an toàn. | reviewed |
+| `animal_bat_vi_3_5` | Con dơi | Viết lại nội dung không gây sợ quanh cánh mỏng, bay đêm và ngủ ngược. | reviewed |
+| `animal_owl_vi_3_5` | Con cú mèo | Viết lại nội dung quanh mắt tròn, ban đêm và tiếng kêu. | reviewed |
+| `animal_eagle_vi_3_5` | Con đại bàng | Viết lại nội dung quanh cánh rộng, bay cao và mắt tinh. | reviewed |
+| `animal_peacock_vi_3_5` | Con chim công | Viết lại nội dung quanh đuôi xòe nhiều màu. | reviewed |
+| `animal_sparrow_vi_3_5` | Con chim sẻ | Viết lại nội dung quanh thân nhỏ, bay nhanh và líu lo. | reviewed |
+| `animal_pigeon_vi_3_5` | Con chim bồ câu | Viết lại nội dung quanh gật gù, bay về mái nhà và sống gần người. | reviewed |
+| `animal_flamingo_vi_3_5` | Con chim hồng hạc | Viết lại nội dung quanh chân dài, màu hồng và hồ nước. | reviewed |
+| `animal_parrot_vi_3_5` | Con vẹt | Viết lại nội dung quanh lông nhiều màu, mỏ cong và bắt chước âm thanh. | reviewed |
+| `animal_swan_vi_3_5` | Con thiên nga | Viết lại nội dung quanh cổ dài, lông trắng và bơi trên hồ. | reviewed |
+| `animal_goose_vi_3_5` | Con ngỗng | Viết lại nội dung quanh cổ dài, kêu vang và bơi; thêm hướng dẫn an toàn. | reviewed |
+| `animal_turkey_vi_3_5` | Con gà tây | Viết lại nội dung quanh đuôi xòe tròn và nông trại. | reviewed |
+| `animal_ant_vi_3_5` | Con kiến | Viết lại nội dung quanh thân nhỏ, đi thành hàng và tổ kiến. | reviewed |
+| `animal_mosquito_vi_3_5` | Con muỗi | Viết lại nội dung quanh vo ve, tránh muỗi đốt và phòng muỗi an toàn. | reviewed |
+| `animal_fly_vi_3_5` | Con ruồi | Viết lại nội dung quanh vệ sinh, rửa tay và che đậy đồ ăn. | reviewed |
+
+### SafetyNotes đã bổ sung
+
+| id | title | safetyNotes |
+|---|---|---|
+| `animal_mouse_vi_3_5` | Con chuột | Bé không nên tự bắt hoặc chạm vào chuột. Nếu thấy chuột trong nhà, hãy gọi người lớn. |
+| `animal_porcupine_vi_3_5` | Con nhím | Gai nhím có thể nhọn. Bé chỉ nên quan sát nhím từ xa cùng người lớn. |
+| `animal_bat_vi_3_5` | Con dơi | Bé không nên chạm vào dơi lạ. Nếu thấy dơi trong nhà, hãy gọi người lớn. |
+| `animal_goose_vi_3_5` | Con ngỗng | Bé nên quan sát ngỗng cùng người lớn, không tự ý trêu chọc hoặc lại quá gần con vật lạ. |
+| `animal_ant_vi_3_5` | Con kiến | Bé không nên chạm vào tổ kiến. Nếu thấy nhiều kiến, hãy gọi người lớn giúp xử lý. |
+| `animal_mosquito_vi_3_5` | Con muỗi | Bé nên tránh để muỗi đốt. Khi có nhiều muỗi, hãy nhờ người lớn mắc màn hoặc dùng cách phòng muỗi an toàn. |
+| `animal_fly_vi_3_5` | Con ruồi | Bé không nên chạm vào ruồi. Hãy giữ đồ ăn sạch và rửa tay sau khi chơi. |
+
+### Trạng thái sau Batch 2
+
+- Reviewed: 60
+- Draft còn lại: 40
+- Ghi chú: Batch tiếp theo nên xử lý 20 item draft kế tiếp, từ `animal_dragonfly_vi_3_5` đến khoảng `animal_shellfish_vi_3_5`, ưu tiên câu đố còn template và safetyNotes cho sinh vật cần quan sát cùng người lớn.
 
 ## Kết luận
 
-- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 40 item `reviewed`.
-- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 60 item `draft` cần rewrite/review thủ công, đặc biệt câu đố và fact.
-- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 2 với 20 item draft kế tiếp, từ `animal_camel_vi_3_5` đến khoảng `animal_fly_vi_3_5`.
+- Có nên dùng file 100 item cho app demo không? Có thể dùng cho demo nội bộ hoặc prototype, vì validation kỹ thuật ổn và hiện có 60 item `reviewed`.
+- Có nên dùng cho sản phẩm bán chưa? Chưa nên. Vẫn còn 40 item `draft` cần rewrite/review thủ công, đặc biệt câu đố và fact.
+- Bước tiếp theo đề xuất: tiếp tục Content Fix Batch 3 với 20 item draft kế tiếp, từ `animal_dragonfly_vi_3_5` đến khoảng `animal_shellfish_vi_3_5`.

@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 2D — Content Fix Batch 2
+
+- Improved the second batch of draft animal items in `animals_vi_3_5_mvp_100.json`.
+- Added safety notes for animal items that require adult guidance.
+- Re-exported the 100-item generated outputs.
+- Updated content review report with Batch 2 progress.
+
 ## Task 2C — Content Fix Batch 1
 
 - Improved the first batch of draft animal items in `animals_vi_3_5_mvp_100.json`.

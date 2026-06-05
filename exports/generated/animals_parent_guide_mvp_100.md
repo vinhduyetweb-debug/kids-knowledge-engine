@@ -766,14 +766,14 @@ Hỏi bé: Tê giác có chiếc sừng ở đâu?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con lạc đà có đặc điểm nào dễ nhận ra?
+Hỏi bé: Lạc đà có chiếc bướu nằm ở đâu?
 
 ### Từ mới
 
 - lạc đà
-- bướu trên lưng
+- bướu
 - sa mạc
-- con vật
+- khô nóng
 
 ### Lưu ý an toàn
 
@@ -785,14 +785,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chuột túi có đặc điểm nào dễ nhận ra?
+Hỏi bé: Chuột túi nhảy bằng chân trước hay chân sau?
 
 ### Từ mới
 
 - chuột túi
-- nhảy xa
-- đồng cỏ
-- con vật
+- nhảy
+- túi
+- chân sau
 
 ### Lưu ý an toàn
 
@@ -804,14 +804,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con gấu túi có đặc điểm nào dễ nhận ra?
+Hỏi bé: Gấu túi thường bám ở đâu?
 
 ### Từ mới
 
 - gấu túi
-- ôm cành cây
-- rừng cây
-- con vật
+- cây
+- lá
+- lông mềm
 
 ### Lưu ý an toàn
 
@@ -823,14 +823,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con sóc có đặc điểm nào dễ nhận ra?
+Hỏi bé: Sóc leo cây nhanh hay chậm?
 
 ### Từ mới
 
 - sóc
 - đuôi xù
-- trên cây
-- con vật
+- leo cây
+- hạt
 
 ### Lưu ý an toàn
 
@@ -842,18 +842,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chuột có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con chuột to hay nhỏ? Chuột có ria không?
 
 ### Từ mới
 
 - chuột
-- thân nhỏ
-- góc nhà
-- con vật
+- nhỏ
+- ria
+- chạy nhanh
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên tự bắt hoặc chạm vào chuột. Nếu thấy chuột trong nhà, hãy gọi người lớn.
 
 ---
 
@@ -861,18 +861,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con nhím có đặc điểm nào dễ nhận ra?
+Hỏi bé: Vì sao mình không nên chạm vào gai nhím?
 
 ### Từ mới
 
 - nhím
-- lông gai
+- gai
 - bụi cây
-- con vật
+- bảo vệ
 
 ### Lưu ý an toàn
 
-Không có.
+- Gai nhím có thể nhọn. Bé chỉ nên quan sát nhím từ xa cùng người lớn.
 
 ---
 
@@ -880,18 +880,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con dơi có đặc điểm nào dễ nhận ra?
+Hỏi bé: Dơi bay vào ban ngày hay ban đêm?
 
 ### Từ mới
 
 - dơi
-- cánh mỏng
-- hang
-- con vật
+- cánh
+- ban đêm
+- ngủ ngược
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên chạm vào dơi lạ. Nếu thấy dơi trong nhà, hãy gọi người lớn.
 
 ---
 
@@ -899,14 +899,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con cú mèo có đặc điểm nào dễ nhận ra?
+Hỏi bé: Cú mèo thường thức vào ban ngày hay ban đêm?
 
 ### Từ mới
 
 - cú mèo
 - mắt tròn
+- ban đêm
 - cành cây
-- con vật
 
 ### Lưu ý an toàn
 
@@ -918,14 +918,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con đại bàng có đặc điểm nào dễ nhận ra?
+Hỏi bé: Đại bàng bay thấp hay bay cao?
 
 ### Từ mới
 
 - đại bàng
 - cánh rộng
-- bầu trời
-- con vật
+- bay cao
+- mắt tinh
 
 ### Lưu ý an toàn
 
@@ -937,14 +937,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chim công có đặc điểm nào dễ nhận ra?
+Hỏi bé: Đuôi chim công giống chiếc gì khi xòe ra?
 
 ### Từ mới
 
 - chim công
 - đuôi xòe
-- vườn cây
-- con vật
+- màu sắc
+- lông
 
 ### Lưu ý an toàn
 
@@ -956,14 +956,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chim sẻ có đặc điểm nào dễ nhận ra?
+Hỏi bé: Bé đã từng thấy chim sẻ ở sân hay trên cây chưa?
 
 ### Từ mới
 
 - chim sẻ
-- thân nhỏ
-- mái nhà
-- con vật
+- nhỏ
+- bay
+- líu lo
 
 ### Lưu ý an toàn
 
@@ -975,14 +975,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chim bồ câu có đặc điểm nào dễ nhận ra?
+Hỏi bé: Chim bồ câu đi trên sân hay bơi dưới ao?
 
 ### Từ mới
 
 - chim bồ câu
-- hiền lành
+- bay
+- gật gù
 - sân nhà
-- con vật
 
 ### Lưu ý an toàn
 
@@ -994,14 +994,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con chim hồng hạc có đặc điểm nào dễ nhận ra?
+Hỏi bé: Chim hồng hạc có màu gì nổi bật?
 
 ### Từ mới
 
-- chim hồng hạc
+- hồng hạc
 - chân dài
+- màu hồng
 - hồ nước
-- con vật
 
 ### Lưu ý an toàn
 
@@ -1013,14 +1013,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con vẹt có đặc điểm nào dễ nhận ra?
+Hỏi bé: Con vẹt có lông một màu hay nhiều màu?
 
 ### Từ mới
 
 - vẹt
-- lông nhiều màu
-- cành cây
-- con vật
+- lông màu
+- mỏ cong
+- âm thanh
 
 ### Lưu ý an toàn
 
@@ -1032,14 +1032,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con thiên nga có đặc điểm nào dễ nhận ra?
+Hỏi bé: Thiên nga bơi ở đâu?
 
 ### Từ mới
 
 - thiên nga
 - cổ dài
 - hồ nước
-- con vật
+- bơi
 
 ### Lưu ý an toàn
 
@@ -1051,18 +1051,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con ngỗng có đặc điểm nào dễ nhận ra?
+Hỏi bé: Ngỗng đi trên sân và còn biết làm gì dưới nước?
 
 ### Từ mới
 
 - ngỗng
 - cổ dài
+- bơi
 - sân vườn
-- con vật
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé nên quan sát ngỗng cùng người lớn, không tự ý trêu chọc hoặc lại quá gần con vật lạ.
 
 ---
 
@@ -1070,14 +1070,14 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con gà tây có đặc điểm nào dễ nhận ra?
+Hỏi bé: Gà tây có chiếc đuôi nhỏ hay xòe to?
 
 ### Từ mới
 
 - gà tây
 - đuôi xòe
 - nông trại
-- con vật
+- lông
 
 ### Lưu ý an toàn
 
@@ -1089,18 +1089,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con kiến có đặc điểm nào dễ nhận ra?
+Hỏi bé: Kiến đi một mình hay đi thành hàng?
 
 ### Từ mới
 
 - kiến
-- thân nhỏ
-- dưới đất
-- con vật
+- nhỏ
+- đi hàng
+- tổ
 
 ### Lưu ý an toàn
 
-Không có.
+- Bé không nên chạm vào tổ kiến. Nếu thấy nhiều kiến, hãy gọi người lớn giúp xử lý.
 
 ---
 
@@ -1108,18 +1108,18 @@ Không có.
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con muỗi có đặc điểm nào dễ nhận ra?
+Nhắc bé: Khi có nhiều muỗi, bé nên gọi người lớn để mắc màn hoặc dùng cách phòng muỗi an toàn.
 
 ### Từ mới
 
 - muỗi
+- vo ve
 - cánh nhỏ
-- gần nước
-- con vật
+- tránh muỗi
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ tránh để muỗi đốt và nhờ người lớn hỗ trợ.
+- Bé nên tránh để muỗi đốt. Khi có nhiều muỗi, hãy nhờ người lớn mắc màn hoặc dùng cách phòng muỗi an toàn.
 
 ---
 
@@ -1127,18 +1127,18 @@ Hỏi bé: Con muỗi có đặc điểm nào dễ nhận ra?
 
 ### Câu hỏi gợi mở
 
-Hỏi bé: Con ruồi có đặc điểm nào dễ nhận ra?
+Nhắc bé: Mình nên che đậy đồ ăn và rửa tay sạch để giữ vệ sinh.
 
 ### Từ mới
 
 - ruồi
-- bay nhanh
-- góc bếp
-- con vật
+- bay
+- vệ sinh
+- rửa tay
 
 ### Lưu ý an toàn
 
-- Nhắc trẻ giữ vệ sinh và không chạm vào ruồi.
+- Bé không nên chạm vào ruồi. Hãy giữ đồ ăn sạch và rửa tay sau khi chơi.
 
 ---
 
