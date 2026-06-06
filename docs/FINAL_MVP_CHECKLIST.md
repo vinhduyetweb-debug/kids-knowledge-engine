@@ -66,3 +66,8 @@
 - [x] Sound files replaceable
 - [x] Wrong-answer vibration added with safe fallback
 - [x] User-facing age display updated to 3 - 7 tuổi
+- [x] Real asset replacement path ready
+- [x] Real thumbnail fallback chain ready
+- [x] Real mascot fallback chain ready
+- [x] Real sound fallback chain ready
+- [x] Copyright-safe asset guidance added

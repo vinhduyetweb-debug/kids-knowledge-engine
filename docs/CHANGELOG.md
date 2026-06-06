@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Task 9 — Real Asset Replacement Pack
+
+- Added real asset priority paths for animal thumbnails, mascot and sounds.
+- Kept SVG/emoji/Web Audio fallback behavior.
+- Added real asset documentation and replacement rules.
+- Preserved wrong-answer vibration feedback.
+- Kept static architecture with no backend/framework/package/CDN/storage.
+
 ## Task 8 — Asset Replacement Pack
 
 - Added local asset structure for thumbnails, mascot and sounds.

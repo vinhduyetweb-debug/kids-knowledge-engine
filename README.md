@@ -87,6 +87,16 @@ You can replace:
 The app keeps fallback emoji/Web Audio behavior if assets are missing.
 Wrong answers can trigger device vibration on supported mobile browsers.
 
+## Real Asset Replacement
+
+Real production assets can be placed in:
+
+- `apps/guess-animal/assets/real/thumbnails/`
+- `apps/guess-animal/assets/real/mascot/`
+- `apps/guess-animal/assets/real/sounds/`
+
+The app will prefer real assets first, then fallback to starter SVG/emoji/Web Audio.
+
 ## Chạy landing page
 
 Mở file:

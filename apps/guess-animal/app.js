@@ -3,9 +3,32 @@ console.log("Guess Animal App build: 20260606-fix2");
 let DATA = [];
 
 const SOUND_PATHS = {
-  correct: "/apps/guess-animal/assets/sounds/correct.mp3",
-  wrong: "/apps/guess-animal/assets/sounds/wrong.mp3"
+  correct: "/apps/guess-animal/assets/real/sounds/correct.mp3",
+  wrong: "/apps/guess-animal/assets/real/sounds/wrong.mp3"
 };
+
+const REAL_THUMBNAIL_ASSETS = [
+  { keywords: ["meo"], src: "/apps/guess-animal/assets/real/thumbnails/cat.webp" },
+  { keywords: ["cho"], src: "/apps/guess-animal/assets/real/thumbnails/dog.webp" },
+  { keywords: ["ca heo"], src: "/apps/guess-animal/assets/real/thumbnails/dolphin.webp" },
+  { keywords: ["ca voi"], src: "/apps/guess-animal/assets/real/thumbnails/whale.webp" },
+  { keywords: ["ca map"], src: "/apps/guess-animal/assets/real/thumbnails/shark.webp" },
+  { keywords: ["ca"], src: "/apps/guess-animal/assets/real/thumbnails/fish.webp" },
+  { keywords: ["voi"], src: "/apps/guess-animal/assets/real/thumbnails/elephant.webp" },
+  { keywords: ["su tu"], src: "/apps/guess-animal/assets/real/thumbnails/lion.webp" },
+  { keywords: ["chim", "vet", "dai bang"], src: "/apps/guess-animal/assets/real/thumbnails/bird.webp" },
+  { keywords: ["ong"], src: "/apps/guess-animal/assets/real/thumbnails/bee.webp" },
+  { keywords: ["buom"], src: "/apps/guess-animal/assets/real/thumbnails/butterfly.webp" },
+  { keywords: ["rua"], src: "/apps/guess-animal/assets/real/thumbnails/turtle.webp" },
+  { keywords: ["cuu"], src: "/apps/guess-animal/assets/real/thumbnails/sheep.webp" },
+  { keywords: ["bo"], src: "/apps/guess-animal/assets/real/thumbnails/cow.webp" },
+  { keywords: ["ga"], src: "/apps/guess-animal/assets/real/thumbnails/chicken.webp" },
+  { keywords: ["tho"], src: "/apps/guess-animal/assets/real/thumbnails/rabbit.webp" },
+  { keywords: ["khi"], src: "/apps/guess-animal/assets/real/thumbnails/monkey.webp" },
+  { keywords: ["cua"], src: "/apps/guess-animal/assets/real/thumbnails/crab.webp" },
+  { keywords: ["vit"], src: "/apps/guess-animal/assets/real/thumbnails/duck.webp" },
+  { keywords: ["ngua"], src: "/apps/guess-animal/assets/real/thumbnails/horse.webp" }
+];
 
 const THUMBNAIL_ASSETS = [
   { keywords: ["mèo"], src: "/apps/guess-animal/assets/thumbnails/cat.svg" },
@@ -235,12 +258,35 @@ function getThumbnailAsset(value) {
   return match ? match.src : DEFAULT_THUMBNAIL_ASSET;
 }
 
+function getRealThumbnailAsset(value) {
+  const normalized = normalizeText(value);
+  const match = REAL_THUMBNAIL_ASSETS.find((entry) =>
+    entry.keywords.some((keyword) => normalized.includes(keyword))
+  );
+  return match ? match.src : "";
+}
+
+function escapeAttribute(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
 function makeThumbnailHtml(value) {
-  const asset = getThumbnailAsset(value);
+  const realAsset = getRealThumbnailAsset(value);
+  const svgAsset = getThumbnailAsset(value);
   const emoji = getThumbnail(value);
+  const alt = escapeAttribute(`Hình minh họa ${String(value || "động vật").trim()}`);
+  const realImage = realAsset
+    ? `<img class="thumb-img thumb-img-real" src="${realAsset}" alt="${alt}" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">`
+    : "";
+  const svgHidden = realAsset ? " hidden" : "";
   return `
-    <span class="thumb-frame" aria-hidden="true">
-      <img class="thumb-img" src="${asset}" alt="" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+    <span class="thumb-frame">
+      ${realImage}
+      <img class="thumb-img thumb-img-svg" src="${svgAsset}" alt="${alt}" loading="lazy"${svgHidden} onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
       <span class="thumb-emoji" hidden>${emoji}</span>
     </span>
   `;
