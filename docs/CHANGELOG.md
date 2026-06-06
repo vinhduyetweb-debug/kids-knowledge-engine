@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Fix — Public Mini App Route Assets
+
+- Switched guess-animal CSS, data and app script tags to absolute public paths.
+- Switched JSON fallback fetch to an absolute public path.
+- Added build log `20260606-fix2` for public cache verification.
+- Updated landing CTA to `/apps/guess-animal/`.
+- Updated Vercel config to keep trailing slashes for folder routes.
+
 ## Fix — Public Mini App Data Loading
 
 - Added JSON data fallback for public static deploy.

@@ -1,3 +1,5 @@
+console.log("Guess Animal App build: 20260606-fix2");
+
 let DATA = [];
 
 const CATEGORY_IDS = {
@@ -166,7 +168,7 @@ async function loadAnimalsData() {
 
   if (location.protocol === "http:" || location.protocol === "https:") {
     try {
-      const response = await fetch("./data/animals_vi_3_5_mvp_100.json", { cache: "no-store" });
+      const response = await fetch("/apps/guess-animal/data/animals_vi_3_5_mvp_100.json", { cache: "no-store" });
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}`);
       }
@@ -227,7 +229,7 @@ function showDetails(item) {
 function renderCompletion() {
   counter.textContent = `Đã chơi hết ${state.queue.length} câu`;
   title.textContent = "Hoàn thành lượt chơi";
-  riddle.textContent = "Bé đã trả lời hết các câu trong bộ lọc này. Bấm Chơi lại để bắt đầu một lượt mới.";
+ riddle.textContent = "Bé đã trả lời hết các câu trong bộ lọc này. Bấm Chơi lại để bắt đầu một lượt mới.";
   options.innerHTML = "";
   feedback.className = "feedback success";
   feedback.textContent = `Kết quả: ${state.correct} câu đúng trên ${state.answered} câu.`;
@@ -291,8 +293,8 @@ function answerQuestion(selectedOption, item) {
 
   feedback.className = `feedback ${isCorrect ? "success" : "gentle"}`;
   feedback.textContent = isCorrect
-    ? "Đúng rồi! Bé giỏi lắm."
-    : `Chưa đúng rồi. Đáp án là ${correctAnswer}.`;
+  ? "Đúng rồi! Bé giỏi lắm."
+  : `Chưa đúng rồi. Đáp án là ${correctAnswer}.`;
 
   showDetails(item);
   updateScore();

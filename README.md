@@ -38,6 +38,7 @@ apps/guess-animal/index.html
 
 App chạy static, không cần backend.
 Mini app dùng `animals_vi_3_5_mvp_100.js` cho local file mode và có JSON fallback cho public static deploy.
+Trên public deploy, mini app dùng absolute asset path `/apps/guess-animal/...` để tránh lỗi route khi URL có hoặc không có dấu `/` cuối.
 
 ## Chạy landing page
 
