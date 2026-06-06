@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Task 6 — Final MVP Polish + Share Pack
+
+- Added MVP handover document.
+- Added parent testing guide.
+- Added feedback form template.
+- Added share copy for testers.
+- Updated final MVP checklist with public PASS status.
+- Updated landing page with parent testing note.
+
 ## Fix — Public Mini App Route Assets
 
 - Switched guess-animal CSS, data and app script tags to absolute public paths.

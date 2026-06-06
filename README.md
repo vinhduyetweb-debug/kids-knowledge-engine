@@ -40,6 +40,21 @@ App chạy static, không cần backend.
 Mini app dùng `animals_vi_3_5_mvp_100.js` cho local file mode và có JSON fallback cho public static deploy.
 Trên public deploy, mini app dùng absolute asset path `/apps/guess-animal/...` để tránh lỗi route khi URL có hoặc không có dấu `/` cuối.
 
+## MVP Status
+
+- Landing page: PASS
+- Mini app public: PASS
+- Dataset: 100 reviewed / 0 draft
+- Printable pack: ready for manual PDF export
+- Next step: parent testing
+
+## Parent Testing
+
+See:
+- `docs/PARENT_TESTING_GUIDE.md`
+- `docs/FEEDBACK_FORM_TEMPLATE.md`
+- `docs/SHARE_COPY.md`
+
 ## Chạy landing page
 
 Mở file:

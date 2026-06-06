@@ -1,5 +1,26 @@
 # Final MVP Checklist
 
+## Public Test Result
+
+- Landing page public: PASS
+- Mini app public `/apps/guess-animal/`: PASS
+- Dataset loads: PASS
+- 100 reviewed / 0 draft: PASS
+- Quiz works: PASS
+- Score works: PASS
+- Filter works: PASS
+- Vercel deploy: PASS
+- Printable pack exists: PASS
+
+## Remaining Before Selling
+
+- [ ] Final human editorial QA.
+- [ ] Print preview ebook.
+- [ ] Print preview flashcards.
+- [ ] Test with 3-5 parents.
+- [ ] Collect feedback.
+- [ ] Decide first paid/free product format.
+
 ## Content
 
 - [ ] 100 item reviewed.
