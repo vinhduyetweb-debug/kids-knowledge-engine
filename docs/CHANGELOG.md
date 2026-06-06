@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## Task 7 — Kids Experience Upgrade Pack
+
+- Improved Vietnamese font consistency and overall typography.
+- Upgraded answer buttons into large mobile-friendly cards.
+- Added animal thumbnails for answer choices.
+- Added mascot guide with lightweight motion.
+- Added correct/wrong reward sounds with swappable local sound files.
+- Added reward feedback, badge milestones and child-friendly UI polish.
+- Increased visual emphasis on animal imagery for better pre-reader usability.
+
 ## Task 6 — Final MVP Polish + Share Pack
 
 - Added MVP handover document.

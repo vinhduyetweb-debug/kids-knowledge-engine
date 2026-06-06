@@ -55,6 +55,21 @@ See:
 - `docs/FEEDBACK_FORM_TEMPLATE.md`
 - `docs/SHARE_COPY.md`
 
+## Kids Experience Upgrade
+
+Mini app hiện có:
+- answer cards with thumbnails
+- mascot guide
+- reward sounds
+- badge milestones
+- mobile-first larger UI
+
+Sound files can be replaced later in:
+- `apps/guess-animal/assets/sounds/correct.mp3`
+- `apps/guess-animal/assets/sounds/wrong.mp3`
+
+Current build uses a lightweight Web Audio fallback, so the app still works if those files are not present yet.
+
 ## Chạy landing page
 
 Mở file:

@@ -32,15 +32,35 @@
         <p id="score" class="score">Đúng: 0 / 0</p>
       </div>
 
+      <div class="badge-row" aria-label="Huy hiệu">
+        <div id="badge5" class="badge">🏅<span>5 đúng</span></div>
+        <div id="badge10" class="badge">🥈<span>10 đúng</span></div>
+        <div id="badge20" class="badge">👑<span>20 đúng</span></div>
+      </div>
+
+      <div class="mascot-panel">
+        <div class="mascot" aria-hidden="true">
+          <div class="mascot-face">🦉</div>
+        </div>
+        <p id="mascotBubble" class="mascot-bubble">Bé đoán xem là con gì nhé!</p>
+      </div>
+
+      <div id="visualStage" class="visual-stage" aria-hidden="true">
+        <div id="visualEmoji" class="visual-emoji">❔</div>
+        <p id="visualHint">Nhìn hình, nghe câu đố, rồi chọn đáp án nhé.</p>
+      </div>
+
       <h2 id="title">Đố bé biết</h2>
       <pre id="riddle" class="riddle"></pre>
 
       <div id="options" class="options"></div>
 
       <div id="feedback" class="feedback hidden"></div>
+      <div id="rewardToast" class="reward-toast hidden"></div>
 
       <div id="answerBox" class="answer hidden">
         <h3 id="answer"></h3>
+        <p id="quickFact" class="quick-fact"></p>
         <p id="fact"></p>
 
         <div>

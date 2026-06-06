@@ -9,6 +9,12 @@
 - Quiz works: PASS
 - Score works: PASS
 - Filter works: PASS
+- [x] Mini app public PASS
+- [x] Mobile-first quiz usable
+- [x] Large answer cards
+- [x] Badge milestone system
+- [x] Sound feedback ready
+- [x] Thumbnail-assisted answers
 - Vercel deploy: PASS
 - Printable pack exists: PASS
 
