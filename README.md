@@ -37,6 +37,7 @@ apps/guess-animal/index.html
 ```
 
 App chạy static, không cần backend.
+Mini app dùng `animals_vi_3_5_mvp_100.js` cho local file mode và có JSON fallback cho public static deploy.
 
 ## Chạy landing page
 

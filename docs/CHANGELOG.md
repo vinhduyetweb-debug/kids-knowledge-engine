@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Fix — Public Mini App Data Loading
+
+- Added JSON data fallback for public static deploy.
+- Updated mini app initialization to wait for DOMContentLoaded.
+- Added explicit data load error state.
+- Updated landing CTA to use `/apps/guess-animal/`.
+
 ## Task 5B — Deploy Vercel Ready Pack
 
 - Added Vercel deployment guide.

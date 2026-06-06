@@ -1,4 +1,4 @@
-const DATA = Array.isArray(window.ANIMALS_DATA) ? window.ANIMALS_DATA : [];
+let DATA = [];
 
 const CATEGORY_IDS = {
   familiar: new Set([
@@ -159,6 +159,52 @@ function updateStatus() {
   contentStatus.textContent = `Bộ dữ liệu: ${DATA.length} câu đố động vật · ${reviewed} reviewed · ${draft} draft`;
 }
 
+async function loadAnimalsData() {
+  if (Array.isArray(window.ANIMALS_DATA) && window.ANIMALS_DATA.length > 0) {
+    return window.ANIMALS_DATA;
+  }
+
+  if (location.protocol === "http:" || location.protocol === "https:") {
+    try {
+      const response = await fetch("./data/animals_vi_3_5_mvp_100.json", { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      return await response.json();
+    } catch (error) {
+      console.error("Failed to fetch animals JSON fallback", error);
+    }
+  }
+
+  return [];
+}
+
+function showDataLoadError() {
+  contentStatus.textContent = "Không tải được bộ dữ liệu. Vui lòng kiểm tra file data.";
+  counter.textContent = "";
+  score.textContent = "Đúng: 0 / 0";
+  title.textContent = "Chưa tải được câu đố";
+  riddle.textContent = "Mini app chưa đọc được dữ liệu 100 câu đố.";
+  options.innerHTML = "";
+  feedback.className = "feedback gentle";
+  feedback.textContent = "Hãy kiểm tra file data hoặc đường dẫn deploy.";
+  answerBox.classList.add("hidden");
+  nextBtn.disabled = true;
+  replayBtn.disabled = false;
+}
+
+async function initApp() {
+  DATA = await loadAnimalsData();
+
+  if (!Array.isArray(DATA) || DATA.length === 0) {
+    showDataLoadError();
+    return;
+  }
+
+  updateStatus();
+  startSession();
+}
+
 function updateScore() {
   const rate = state.answered > 0 ? Math.round((state.correct / state.answered) * 100) : 0;
   score.textContent = state.answered > 0
@@ -254,6 +300,11 @@ function answerQuestion(selectedOption, item) {
 }
 
 function startSession() {
+  if (!Array.isArray(DATA) || DATA.length === 0) {
+    showDataLoadError();
+    return;
+  }
+
   const filtered = getFilteredData(state.category);
   state.queue = shuffle(filtered);
   state.index = 0;
@@ -281,5 +332,8 @@ categoryFilter.addEventListener("change", () => {
 nextBtn.addEventListener("click", goNext);
 replayBtn.addEventListener("click", startSession);
 
-updateStatus();
-startSession();
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initApp);
+} else {
+  initApp();
+}
