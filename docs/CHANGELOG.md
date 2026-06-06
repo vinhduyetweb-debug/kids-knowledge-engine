@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 5B — Deploy Vercel Ready Pack
+
+- Added Vercel deployment guide.
+- Added final MVP checklist.
+- Verified static deploy readiness.
+- Confirmed no backend/framework/package/API/fetch/storage was added.
+
 ## Task 5A — Product Export Printable Pack
 
 - Added printable ebook HTML export.

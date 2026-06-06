@@ -60,6 +60,22 @@ Có thể deploy trực tiếp thư mục dự án lên Vercel dưới dạng st
 Không cần build command.
 Không cần install command.
 
+## Deploy lên Vercel
+
+Dự án là static project.
+
+Thiết lập gợi ý:
+- Framework Preset: Other
+- Build Command: để trống
+- Output Directory: để trống hoặc `.`
+- Install Command: để trống
+
+Sau khi deploy, kiểm tra:
+- Landing page mở được.
+- Link mini app mở được.
+- Mini app quiz chạy được.
+- Printable HTML mở được.
+
 ## Export nội dung
 
 Chạy lệnh:
