@@ -10,6 +10,7 @@ const STAGING_NEEDS_CONVERSION_DIR = path.join(ROOT, "asset-intake", "processed-
 const FINAL_THUMBNAIL_DIR = path.join(ROOT, "apps", "guess-animal", "assets", "real", "thumbnails");
 const MAPPING_PATH = path.join(OUTPUT_DIR, "asset_mapping_template.csv");
 const VALID_TARGET_RE = /^[a-z0-9][a-z0-9_-]*\.webp$/;
+const WINDOWS_IMAGEMAGICK_PATH = "C:\\Program Files\\ImageMagick-7.1.2-Q16-HDRI\\magick.exe";
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });
@@ -77,6 +78,7 @@ function writeReport(summary, records) {
     `- Target duplicates/existing: ${summary.targetExists}`,
     `- Errors: ${summary.errors}`,
     `- Converter: ${summary.converter || "none"}`,
+    `- Converter path: ${summary.converterPath || "none"}`,
     ""
   ];
 
@@ -84,7 +86,8 @@ function writeReport(summary, records) {
     lines.push(
       "## Conversion Notice",
       "",
-      "No WebP converter was found. Install ImageMagick `magick` or `cwebp`, then rerun this script.",
+      "No converter found. Tried: cwebp, magick, magick.exe, ImageMagick absolute path, ffmpeg.",
+      "Install ImageMagick `magick`, `cwebp`, or `ffmpeg`, then rerun this script.",
       "Non-WebP sources are copied only to `asset-intake/processed-needs-conversion/` for manual conversion and are not copied into the app as fake `.webp` files.",
       ""
     );
@@ -101,15 +104,34 @@ function writeReport(summary, records) {
 }
 
 function findConverter() {
-  const magick = spawnSync("magick", ["-version"], { encoding: "utf8" });
-  if (magick.status === 0) {
-    return "magick";
+  const candidates = [
+    { name: "cwebp", command: "cwebp", args: ["-version"] },
+    { name: "magick", command: "magick", args: ["-version"] },
+    { name: "magick", command: "magick.exe", args: ["-version"] },
+    { name: "magick", command: WINDOWS_IMAGEMAGICK_PATH, args: ["-version"], mustExist: true },
+    { name: "ffmpeg", command: "ffmpeg", args: ["-version"] }
+  ];
+
+  for (const candidate of candidates) {
+    if (candidate.mustExist && !fs.existsSync(candidate.command)) {
+      continue;
+    }
+
+    const result = spawnSync(candidate.command, candidate.args, { encoding: "utf8", shell: false });
+    if (result.status === 0) {
+      return {
+        name: candidate.name,
+        command: candidate.command,
+        tried: candidates.map((item) => item.command)
+      };
+    }
   }
-  const cwebp = spawnSync("cwebp", ["-version"], { encoding: "utf8" });
-  if (cwebp.status === 0) {
-    return "cwebp";
-  }
-  return "";
+
+  return {
+    name: "",
+    command: "",
+    tried: candidates.map((item) => item.command)
+  };
 }
 
 function convertToWebp(sourcePath, targetPath, converter) {
@@ -118,18 +140,42 @@ function convertToWebp(sourcePath, targetPath, converter) {
     return;
   }
 
-  if (converter === "magick") {
-    const result = spawnSync("magick", [sourcePath, "-quality", "82", targetPath], { encoding: "utf8" });
+  if (converter.name === "magick") {
+    const result = spawnSync(converter.command, [
+      sourcePath,
+      "-resize",
+      "1024x1024",
+      "-quality",
+      "82",
+      targetPath
+    ], { encoding: "utf8", shell: false });
     if (result.status !== 0) {
       throw new Error((result.stderr || result.stdout || "ImageMagick conversion failed.").trim());
     }
     return;
   }
 
-  if (converter === "cwebp") {
-    const result = spawnSync("cwebp", ["-q", "82", sourcePath, "-o", targetPath], { encoding: "utf8" });
+  if (converter.name === "cwebp") {
+    const result = spawnSync(converter.command, ["-q", "82", sourcePath, "-o", targetPath], { encoding: "utf8", shell: false });
     if (result.status !== 0) {
       throw new Error((result.stderr || result.stdout || "cwebp conversion failed.").trim());
+    }
+    return;
+  }
+
+  if (converter.name === "ffmpeg") {
+    const result = spawnSync(converter.command, [
+      "-y",
+      "-i",
+      sourcePath,
+      "-vf",
+      "scale=1024:1024:force_original_aspect_ratio=decrease",
+      "-q:v",
+      "82",
+      targetPath
+    ], { encoding: "utf8", shell: false });
+    if (result.status !== 0) {
+      throw new Error((result.stderr || result.stdout || "ffmpeg conversion failed.").trim());
     }
     return;
   }
@@ -161,7 +207,9 @@ function main() {
     needsReview: 0,
     targetExists: 0,
     errors: 0,
-    converter
+    converter: converter.name,
+    converterPath: converter.command,
+    converterTried: converter.tried
   };
   const records = [];
 
@@ -202,7 +250,7 @@ function main() {
         summary.targetExists += 1;
         record.status = "target_exists";
         record.note = "Skipped to avoid overwrite. Move or back up existing target first.";
-      } else if (!converter && path.extname(sourcePath).toLowerCase() !== ".webp") {
+      } else if (!converter.name && path.extname(sourcePath).toLowerCase() !== ".webp") {
         const stagingPath = path.join(STAGING_NEEDS_CONVERSION_DIR, currentFilename);
         if (!fs.existsSync(stagingPath)) {
           fs.copyFileSync(sourcePath, stagingPath);
@@ -237,6 +285,11 @@ function main() {
   console.log(`Target exists: ${summary.targetExists}`);
   console.log(`Errors: ${summary.errors}`);
   console.log(`Converter: ${summary.converter || "none"}`);
+  console.log(`Detected converter: ${summary.converter || "none"}`);
+  console.log(`Converter path: ${summary.converterPath || "none"}`);
+  if (!summary.converter) {
+    console.log(`No converter found. Tried: ${summary.converterTried.join(", ")}`);
+  }
   console.log("Report: asset-intake/output/rename_report.md");
   console.log("Raw source files were not renamed, deleted, or overwritten.");
 }
