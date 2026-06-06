@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Task 10B — Safe Asset Intake Workflow
+
+- Added safe asset inventory and mapping scripts.
+- Added contact sheet and expected filename generation for animal thumbnails.
+- Added guarded mapping apply flow that does not rename or delete raw files.
+- Kept dataset/schema/app logic unchanged.
+
 ## Task 9.1 — Fix Broken Asset Fallback UI
 
 - Fixed broken image fallback rendering when real assets are missing.

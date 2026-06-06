@@ -1,0 +1,101 @@
+id,title,answer,expected_filename
+animal_sheep_vi_3_5,Con cừu,Con cừu,sheep.webp
+animal_elephant_vi_3_5,Con voi,Con voi,elephant.webp
+animal_cat_vi_3_5,Con mèo,Con mèo,cat.webp
+animal_dog_vi_3_5,Con chó,Con chó,dog.webp
+animal_duck_vi_3_5,Con vịt,Con vịt,duck.webp
+animal_cow_vi_3_5,Con bò,Con bò,cow.webp
+animal_chicken_vi_3_5,Con gà,Con gà,chicken.webp
+animal_rabbit_vi_3_5,Con thỏ,Con thỏ,rabbit.webp
+animal_frog_vi_3_5,Con ếch,Con ếch,frog.webp
+animal_fish_vi_3_5,Con cá,Con cá,fish.webp
+animal_bird_vi_3_5,Con chim,Con chim,bird.webp
+animal_horse_vi_3_5,Con ngựa,Con ngựa,horse.webp
+animal_pig_vi_3_5,Con heo,Con heo,pig.webp
+animal_bee_vi_3_5,Con ong,Con ong,bee.webp
+animal_butterfly_vi_3_5,Con bướm,Con bướm,butterfly.webp
+animal_turtle_vi_3_5,Con rùa,Con rùa,turtle.webp
+animal_monkey_vi_3_5,Con khỉ,Con khỉ,monkey.webp
+animal_lion_vi_3_5,Con sư tử,Con sư tử,lion.webp
+animal_penguin_vi_3_5,Con chim cánh cụt,Con chim cánh cụt,penguin.webp
+animal_snail_vi_3_5,Con ốc sên,Con ốc sên,snail.webp
+animal_giraffe_vi_3_5,Con hươu cao cổ,Con hươu cao cổ,giraffe.webp
+animal_dolphin_vi_3_5,Con cá heo,Con cá heo,dolphin.webp
+animal_whale_vi_3_5,Con cá voi,Con cá voi,whale.webp
+animal_shark_vi_3_5,Con cá mập,Con cá mập,shark.webp
+animal_starfish_vi_3_5,Con sao biển,Con sao biển,starfish.webp
+animal_crab_vi_3_5,Con cua,Con cua,crab.webp
+animal_shrimp_vi_3_5,Con tôm,Con tôm,shrimp.webp
+animal_squid_vi_3_5,Con mực,Con mực,squid.webp
+animal_octopus_vi_3_5,Con bạch tuộc,Con bạch tuộc,octopus.webp
+animal_zebra_vi_3_5,Con ngựa vằn,Con ngựa vằn,zebra.webp
+animal_deer_vi_3_5,Con hươu,Con hươu,deer.webp
+animal_stag_vi_3_5,Con nai,Con nai,stag.webp
+animal_bear_vi_3_5,Con gấu,Con gấu,bear.webp
+animal_panda_vi_3_5,Con gấu trúc,Con gấu trúc,panda.webp
+animal_tiger_vi_3_5,Con hổ,Con hổ,tiger.webp
+animal_leopard_vi_3_5,Con báo,Con báo,leopard.webp
+animal_wolf_vi_3_5,Con sói,Con sói,wolf.webp
+animal_crocodile_vi_3_5,Con cá sấu,Con cá sấu,crocodile.webp
+animal_hippo_vi_3_5,Con hà mã,Con hà mã,hippo.webp
+animal_rhino_vi_3_5,Con tê giác,Con tê giác,rhino.webp
+animal_camel_vi_3_5,Con lạc đà,Con lạc đà,camel.webp
+animal_kangaroo_vi_3_5,Con chuột túi,Con chuột túi,kangaroo.webp
+animal_koala_vi_3_5,Con gấu túi,Con gấu túi,koala.webp
+animal_squirrel_vi_3_5,Con sóc,Con sóc,squirrel.webp
+animal_mouse_vi_3_5,Con chuột,Con chuột,mouse.webp
+animal_porcupine_vi_3_5,Con nhím,Con nhím,porcupine.webp
+animal_bat_vi_3_5,Con dơi,Con dơi,bat.webp
+animal_owl_vi_3_5,Con cú mèo,Con cú mèo,owl.webp
+animal_eagle_vi_3_5,Con đại bàng,Con đại bàng,eagle.webp
+animal_peacock_vi_3_5,Con chim công,Con chim công,peacock.webp
+animal_sparrow_vi_3_5,Con chim sẻ,Con chim sẻ,sparrow.webp
+animal_pigeon_vi_3_5,Con chim bồ câu,Con chim bồ câu,pigeon.webp
+animal_flamingo_vi_3_5,Con chim hồng hạc,Con chim hồng hạc,flamingo.webp
+animal_parrot_vi_3_5,Con vẹt,Con vẹt,parrot.webp
+animal_swan_vi_3_5,Con thiên nga,Con thiên nga,swan.webp
+animal_goose_vi_3_5,Con ngỗng,Con ngỗng,goose.webp
+animal_turkey_vi_3_5,Con gà tây,Con gà tây,turkey.webp
+animal_ant_vi_3_5,Con kiến,Con kiến,ant.webp
+animal_mosquito_vi_3_5,Con muỗi,Con muỗi,mosquito.webp
+animal_fly_vi_3_5,Con ruồi,Con ruồi,fly.webp
+animal_dragonfly_vi_3_5,Con chuồn chuồn,Con chuồn chuồn,dragonfly.webp
+animal_grasshopper_vi_3_5,Con châu chấu,Con châu chấu,grasshopper.webp
+animal_ladybug_vi_3_5,Con bọ rùa,Con bọ rùa,ladybug.webp
+animal_praying_mantis_vi_3_5,Con bọ ngựa,Con bọ ngựa,praying_mantis.webp
+animal_earthworm_vi_3_5,Con giun đất,Con giun đất,earthworm.webp
+animal_caterpillar_vi_3_5,Con sâu bướm,Con sâu bướm,caterpillar.webp
+animal_silkworm_vi_3_5,Con tằm,Con tằm,silkworm.webp
+animal_spider_vi_3_5,Con nhện,Con nhện,spider.webp
+animal_beetle_vi_3_5,Con bọ cánh cứng,Con bọ cánh cứng,beetle.webp
+animal_seal_vi_3_5,Con hải cẩu,Con hải cẩu,seal.webp
+animal_sea_lion_vi_3_5,Con sư tử biển,Con sư tử biển,sea_lion.webp
+animal_otter_vi_3_5,Con rái cá,Con rái cá,otter.webp
+animal_seahorse_vi_3_5,Con cá ngựa,Con cá ngựa,seahorse.webp
+animal_jellyfish_vi_3_5,Con sứa,Con sứa,jellyfish.webp
+animal_coral_vi_3_5,San hô,San hô,coral.webp
+animal_sea_snail_vi_3_5,Con ốc biển,Con ốc biển,sea_snail.webp
+animal_clam_vi_3_5,Con ngao,Con ngao,clam.webp
+animal_shellfish_vi_3_5,Con sò,Con sò,shellfish.webp
+animal_buffalo_vi_3_5,Con trâu,Con trâu,buffalo.webp
+animal_goat_vi_3_5,Con dê,Con dê,goat.webp
+animal_donkey_vi_3_5,Con lừa,Con lừa,donkey.webp
+animal_alpaca_vi_3_5,Con alpaca,Con alpaca,alpaca.webp
+animal_llama_vi_3_5,Con lạc đà không bướu,Con lạc đà không bướu,llama.webp
+animal_reindeer_vi_3_5,Con tuần lộc,Con tuần lộc,reindeer.webp
+animal_polar_bear_vi_3_5,Con gấu bắc cực,Con gấu bắc cực,polar_bear.webp
+animal_fox_vi_3_5,Con cáo,Con cáo,fox.webp
+animal_raccoon_vi_3_5,Con gấu mèo,Con gấu mèo,raccoon.webp
+animal_ferret_vi_3_5,Con chồn,Con chồn,ferret.webp
+animal_beaver_vi_3_5,Con hải ly,Con hải ly,beaver.webp
+animal_antelope_vi_3_5,Con linh dương,Con linh dương,antelope.webp
+animal_lynx_vi_3_5,Con linh miêu,Con linh miêu,lynx.webp
+animal_ostrich_vi_3_5,Con đà điểu,Con đà điểu,ostrich.webp
+animal_kiwi_vi_3_5,Con chim kiwi,Con chim kiwi,kiwi.webp
+animal_emperor_penguin_vi_3_5,Con chim cánh cụt hoàng đế,Con chim cánh cụt hoàng đế,emperor_penguin.webp
+animal_snake_vi_3_5,Con rắn,Con rắn,snake.webp
+animal_lizard_vi_3_5,Con thằn lằn,Con thằn lằn,lizard.webp
+animal_gecko_vi_3_5,Con tắc kè,Con tắc kè,gecko.webp
+animal_iguana_vi_3_5,Con kỳ nhông,Con kỳ nhông,iguana.webp
+animal_monitor_lizard_vi_3_5,Con kỳ đà,Con kỳ đà,monitor_lizard.webp
+animal_manta_ray_vi_3_5,Con cá đuối,Con cá đuối,manta_ray.webp

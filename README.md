@@ -97,6 +97,34 @@ Real production assets can be placed in:
 
 The app will prefer real assets first, then fallback to starter SVG/emoji/Web Audio.
 
+## Asset Intake Workflow
+
+Place AI-generated animal images in:
+
+```txt
+asset-intake/raw/
+```
+
+Create inventory, mapping template, expected filenames and contact sheets:
+
+```bat
+node tools\asset-intake-inventory.js
+```
+
+Review `asset-intake/output/contact_sheet_*.jpg`, fill:
+
+```txt
+asset-intake/output/asset_mapping_template.csv
+```
+
+Only after reviewing the mapping, apply safe copy/convert:
+
+```bat
+node tools\asset-apply-mapping.js
+```
+
+The scripts do not rename or delete raw source files. Rows left blank or marked `NEEDS_REVIEW` are skipped.
+
 ## Chạy landing page
 
 Mở file:
