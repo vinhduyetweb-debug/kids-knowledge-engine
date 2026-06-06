@@ -19,6 +19,11 @@
   box-sizing: border-box;
 }
 
+[hidden],
+.asset-hidden {
+  display: none !important;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", Arial, Tahoma, sans-serif;
@@ -331,7 +336,7 @@ button:disabled {
 
 .answer-card {
   display: grid;
-  grid-template-columns: 92px 1fr;
+  grid-template-columns: 92px minmax(0, 1fr);
   gap: 14px;
   align-items: center;
   min-height: 124px;
@@ -352,9 +357,11 @@ button:disabled {
   place-items: center;
   width: 92px;
   height: 92px;
+  min-width: 92px;
   border-radius: 8px;
   background: #fff7df;
   line-height: 1;
+  overflow: hidden;
 }
 
 .thumb-frame {
@@ -362,6 +369,7 @@ button:disabled {
   place-items: center;
   width: 100%;
   height: 100%;
+  overflow: hidden;
 }
 
 .thumb-img {
@@ -382,14 +390,20 @@ button:disabled {
 }
 
 .thumb-emoji {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
   font-size: 56px;
   line-height: 1;
 }
 
 .answer-name {
+  display: block;
   color: inherit;
   font-size: 22px;
   line-height: 1.25;
+  overflow-wrap: anywhere;
 }
 
 .feedback {

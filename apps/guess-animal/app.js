@@ -274,19 +274,28 @@ function escapeAttribute(value) {
     .replace(/>/g, "&gt;");
 }
 
-function makeThumbnailHtml(value) {
+function handleThumbnailError(img) {
+  img.hidden = true;
+  const fallbackElement = img.nextElementSibling;
+  if (fallbackElement) {
+    fallbackElement.hidden = false;
+  }
+}
+
+function makeThumbnailHtml(value, label) {
+  const labelText = String(label || value || "động vật").trim();
   const realAsset = getRealThumbnailAsset(value);
   const svgAsset = getThumbnailAsset(value);
   const emoji = getThumbnail(value);
-  const alt = escapeAttribute(`Hình minh họa ${String(value || "động vật").trim()}`);
+  const ariaLabel = escapeAttribute(`Minh họa ${labelText}`);
   const realImage = realAsset
-    ? `<img class="thumb-img thumb-img-real" src="${realAsset}" alt="${alt}" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">`
+    ? `<img class="thumb-img thumb-img-real" src="${realAsset}" alt="" loading="lazy" onerror="handleThumbnailError(this);">`
     : "";
   const svgHidden = realAsset ? " hidden" : "";
   return `
-    <span class="thumb-frame">
+    <span class="thumb-frame" role="img" aria-label="${ariaLabel}">
       ${realImage}
-      <img class="thumb-img thumb-img-svg" src="${svgAsset}" alt="${alt}" loading="lazy"${svgHidden} onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+      <img class="thumb-img thumb-img-svg" src="${svgAsset}" alt="" loading="lazy"${svgHidden} onerror="handleThumbnailError(this);">
       <span class="thumb-emoji" hidden>${emoji}</span>
     </span>
   `;
@@ -307,7 +316,8 @@ function setMascotMessage(message) {
 
 function setVisual(item, message) {
   const value = item ? `${item.answer} ${item.title} ${item.fact}` : "";
-  visualEmoji.innerHTML = item ? makeThumbnailHtml(value) : `<span class="thumb-emoji">❔</span>`;
+  const label = item ? item.answer || item.title : "";
+  visualEmoji.innerHTML = item ? makeThumbnailHtml(value, label) : `<span class="thumb-emoji">❔</span>`;
   visualHint.textContent = message;
   visualStage.classList.remove("pop");
   window.setTimeout(() => visualStage.classList.add("pop"), 0);
@@ -486,7 +496,7 @@ function renderQuestion() {
     button.type = "button";
     button.className = "option-button answer-card";
     button.innerHTML = `
-      <span class="answer-thumb">${makeThumbnailHtml(option)}</span>
+      <span class="answer-thumb">${makeThumbnailHtml(option, option)}</span>
       <span class="answer-name">${option}</span>
     `;
     button.dataset.answer = option;

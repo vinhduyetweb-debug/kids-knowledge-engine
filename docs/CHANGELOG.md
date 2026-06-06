@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Task 9.1 — Fix Broken Asset Fallback UI
+
+- Fixed broken image fallback rendering when real assets are missing.
+- Prevented raw alt text from appearing in answer cards and hero image area.
+- Kept SVG/emoji fallback behavior without duplicate thumbnail rendering.
+
 ## Task 9 — Real Asset Replacement Pack
 
 - Added real asset priority paths for animal thumbnails, mascot and sounds.
