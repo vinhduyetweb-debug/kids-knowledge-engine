@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Dog">
+  <rect width="160" height="160" rx="28" fill="#eef8ff"/>
+  <path d="M46 63c0-24 68-24 68 0v35c0 24-15 42-34 42S46 122 46 98z" fill="#d99a55"/>
+  <path d="M45 66c-20 5-24 37-7 47 8-8 12-28 7-47zM115 66c20 5 24 37 7 47-8-8-12-28-7-47z" fill="#8e5a32"/>
+  <circle cx="66" cy="84" r="7" fill="#2d1b12"/>
+  <circle cx="94" cy="84" r="7" fill="#2d1b12"/>
+  <path d="M80 92l-10 9h20z" fill="#3b2418"/>
+  <path d="M62 114c12 10 24 10 36 0" fill="none" stroke="#3b2418" stroke-width="6" stroke-linecap="round"/>
+</svg>

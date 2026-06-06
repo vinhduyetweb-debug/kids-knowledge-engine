@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Owl mascot">
+  <rect width="180" height="180" rx="34" fill="#fff4c8"/>
+  <path d="M46 70c0-34 88-34 88 0v42c0 36-20 56-44 56s-44-20-44-56z" fill="#8b5a2b"/>
+  <path d="M52 66L38 32l38 24M128 66l14-34-38 24" fill="#8b5a2b"/>
+  <circle cx="70" cy="82" r="24" fill="#fff8e8"/>
+  <circle cx="110" cy="82" r="24" fill="#fff8e8"/>
+  <circle cx="70" cy="82" r="9" fill="#22304a"/>
+  <circle cx="110" cy="82" r="9" fill="#22304a"/>
+  <path d="M90 91l-12 16h24z" fill="#ffb238"/>
+  <path d="M62 126c16 16 40 16 56 0" fill="none" stroke="#4d2f18" stroke-width="7" stroke-linecap="round"/>
+  <path d="M60 150h60" stroke="#4d2f18" stroke-width="8" stroke-linecap="round"/>
+</svg>

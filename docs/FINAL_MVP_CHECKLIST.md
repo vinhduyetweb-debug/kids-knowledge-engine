@@ -23,7 +23,7 @@
 - [ ] Final human editorial QA.
 - [ ] Print preview ebook.
 - [ ] Print preview flashcards.
-- [ ] Test with 3-5 parents.
+- [ ] Test with parents of kids 3 - 7 tuổi.
 - [ ] Collect feedback.
 - [ ] Decide first paid/free product format.
 
@@ -60,3 +60,9 @@
 - [ ] Không absolute path.
 - [ ] Không file nhạy cảm.
 - [ ] Deploy URL mở được.
+- [x] Local asset structure ready
+- [x] Mascot asset replaceable
+- [x] Thumbnail assets replaceable
+- [x] Sound files replaceable
+- [x] Wrong-answer vibration added with safe fallback
+- [x] User-facing age display updated to 3 - 7 tuổi

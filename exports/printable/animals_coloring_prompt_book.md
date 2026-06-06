@@ -16,7 +16,7 @@ Cute fluffy sheep standing in a green meadow, warm children's book illustration 
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cừu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -30,7 +30,7 @@ Adorable baby elephant with big ears and long trunk, friendly children's illustr
 
 ### Gợi ý trang tô màu
 Tên tranh: Con voi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -44,7 +44,7 @@ Cute kitten curled up sleeping, soft children's book style.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con mèo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -58,7 +58,7 @@ Happy puppy wagging tail, cute preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chó
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -72,231 +72,231 @@ Cute yellow duckling swimming in a pond, simple cheerful children's illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con vịt
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 6. Con bò
 
 ### Coloring Prompt
-Một con bò dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con bò dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con bò for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bò
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 7. Con gà
 
 ### Coloring Prompt
-Một con gà dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con gà dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con gà for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gà
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 8. Con thỏ
 
 ### Coloring Prompt
-Một con thỏ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con thỏ dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con thỏ for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con thỏ
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 9. Con ếch
 
 ### Coloring Prompt
-Một con ếch dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con ếch dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con ếch for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ếch
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 10. Con cá
 
 ### Coloring Prompt
-Một con cá dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con cá dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con cá for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 11. Con chim
 
 ### Coloring Prompt
-Một con chim dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con chim dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con chim for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 12. Con ngựa
 
 ### Coloring Prompt
-Một con ngựa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con ngựa dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con ngựa for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ngựa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 13. Con heo
 
 ### Coloring Prompt
-Một con heo dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con heo dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con heo for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con heo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 14. Con ong
 
 ### Coloring Prompt
-Một con ong dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con ong dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con ong for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ong
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 15. Con bướm
 
 ### Coloring Prompt
-Một con bướm dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con bướm dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con bướm for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bướm
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 16. Con rùa
 
 ### Coloring Prompt
-Một con rùa dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con rùa dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con rùa for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con rùa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 17. Con khỉ
 
 ### Coloring Prompt
-Một con khỉ dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con khỉ dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con khỉ for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con khỉ
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 18. Con sư tử
 
 ### Coloring Prompt
-Một con sư tử dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con sư tử dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con sư tử for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sư tử
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 19. Con chim cánh cụt
 
 ### Coloring Prompt
-Một con chim cánh cụt dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con chim cánh cụt dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con chim cánh cụt for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim cánh cụt
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 20. Con ốc sên
 
 ### Coloring Prompt
-Một con ốc sên dễ thương, nét đơn giản, rõ ràng cho trẻ 3-5 tuổi tô màu.
+Một con ốc sên dễ thương, nét đơn giản, rõ ràng cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute con ốc sên for preschool educational content, simple children's book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ốc sên
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 21. Con hươu cao cổ
 
 ### Coloring Prompt
-Một chú hươu cao cổ cổ dài đứng trên đồng cỏ, nét rõ và ít chi tiết cho trẻ 3-5 tuổi tô màu.
+Một chú hươu cao cổ cổ dài đứng trên đồng cỏ, nét rõ và ít chi tiết cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute giraffe with a long neck standing in a green savanna, simple preschool children book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hươu cao cổ
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -310,7 +310,7 @@ Cute dolphin jumping above blue waves, friendly preschool educational illustrati
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá heo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -324,7 +324,7 @@ Gentle whale spraying water in the ocean, simple cute preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá voi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -338,7 +338,7 @@ Friendly simplified shark swimming in the ocean, non-scary preschool educational
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá mập
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -352,7 +352,7 @@ Cute starfish on sandy beach, simple preschool coloring-friendly illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sao biển
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -366,7 +366,7 @@ Cute crab with two claws walking sideways on sand, simple preschool illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cua
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -380,7 +380,7 @@ Cute shrimp with long antennae swimming underwater, simple preschool illustratio
 
 ### Gợi ý trang tô màu
 Tên tranh: Con tôm
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -394,7 +394,7 @@ Cute squid swimming in the ocean with soft arms, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con mực
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -408,7 +408,7 @@ Cute octopus with eight soft arms under the sea, friendly preschool illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bạch tuộc
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -422,7 +422,7 @@ Cute zebra with black and white stripes standing in grassland, simple preschool 
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ngựa vằn
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -436,7 +436,7 @@ Gentle deer standing in a green forest, cute preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hươu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -450,7 +450,7 @@ Cute gentle deer in a forest clearing, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con nai
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -464,7 +464,7 @@ Friendly cute bear with thick fur in a forest, non-scary preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gấu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -478,7 +478,7 @@ Cute panda holding bamboo, black and white preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gấu trúc
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -492,7 +492,7 @@ Friendly simplified tiger with orange fur and black stripes in forest, preschool
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hổ
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -506,7 +506,7 @@ Cute leopard with spots in a forest, friendly non-scary preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con báo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -520,7 +520,7 @@ Friendly simplified wolf with pointed ears in a forest, non-scary preschool illu
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sói
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -534,7 +534,7 @@ Friendly simplified crocodile near water, non-scary preschool educational illust
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá sấu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -548,7 +548,7 @@ Cute hippo in a pond with wide mouth, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hà mã
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -562,21 +562,21 @@ Cute rhinoceros with a horn standing in grassland, simple preschool illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con tê giác
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
 ## 41. Con lạc đà
 
 ### Coloring Prompt
-Một con lạc đà có bướu đi trên cát sa mạc, nét đơn giản cho trẻ 3-5 tuổi tô màu.
+Một con lạc đà có bướu đi trên cát sa mạc, nét đơn giản cho trẻ 3 - 7 tuổi tô màu.
 
 ### Image Prompt
 Cute camel with a hump walking on sandy desert, simple preschool children book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con lạc đà
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -590,7 +590,7 @@ Cute kangaroo hopping with a pouch, simple preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chuột túi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -604,7 +604,7 @@ Cute koala hugging a tree branch, simple preschool children book illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gấu túi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -618,7 +618,7 @@ Cute squirrel with fluffy tail holding a nut on a tree branch, preschool illustr
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sóc
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -632,7 +632,7 @@ Cute small mouse with whiskers, simple friendly preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chuột
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -646,7 +646,7 @@ Cute porcupine with soft-looking quills, friendly preschool educational illustra
 
 ### Gợi ý trang tô màu
 Tên tranh: Con nhím
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -660,7 +660,7 @@ Friendly cute bat flying under the moon, non-scary preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con dơi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -674,7 +674,7 @@ Cute owl with big round eyes sitting on a branch, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cú mèo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -688,7 +688,7 @@ Cute eagle with wide wings flying in blue sky, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con đại bàng
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -702,7 +702,7 @@ Cute peacock spreading colorful tail feathers, preschool educational illustratio
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim công
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -716,7 +716,7 @@ Cute small sparrow perched on a branch, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim sẻ
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -730,7 +730,7 @@ Cute pigeon standing in a yard, gentle preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim bồ câu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -744,7 +744,7 @@ Cute pink flamingo standing by a lake, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim hồng hạc
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -758,7 +758,7 @@ Cute colorful parrot sitting on a branch, preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con vẹt
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -772,7 +772,7 @@ Cute white swan with long neck swimming on a lake, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con thiên nga
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -786,7 +786,7 @@ Cute goose with long neck walking near a pond, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ngỗng
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -800,7 +800,7 @@ Cute turkey spreading tail feathers on a farm, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gà tây
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -814,7 +814,7 @@ Cute ants walking in a line toward an anthill, preschool educational illustratio
 
 ### Gợi ý trang tô màu
 Tên tranh: Con kiến
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -828,7 +828,7 @@ Simple non-scary mosquito with small wings, preschool safety illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con muỗi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -842,7 +842,7 @@ Simple non-scary fly with wings, preschool hygiene educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ruồi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -856,7 +856,7 @@ Cute dragonfly with transparent wings resting on grass near a pond, preschool il
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chuồn chuồn
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -870,7 +870,7 @@ Cute green grasshopper with long back legs on grass, preschool educational illus
 
 ### Gợi ý trang tô màu
 Tên tranh: Con châu chấu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -884,7 +884,7 @@ Cute red ladybug with black spots on a green leaf, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bọ rùa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -898,7 +898,7 @@ Cute green praying mantis on a branch, friendly preschool educational illustrati
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bọ ngựa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -912,7 +912,7 @@ Cute earthworm in soil near a small sprout, preschool nature illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con giun đất
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -926,7 +926,7 @@ Cute caterpillar crawling on a green leaf, preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sâu bướm
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -940,7 +940,7 @@ Cute silkworm on mulberry leaf with a small cocoon, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con tằm
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -954,7 +954,7 @@ Friendly cute spider on a simple web, non-scary preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con nhện
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -968,7 +968,7 @@ Cute beetle with shiny hard shell on a leaf, preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con bọ cánh cứng
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -982,7 +982,7 @@ Cute seal resting near the sea, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hải cẩu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -996,7 +996,7 @@ Cute sea lion with whiskers resting on rocks by the sea, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sư tử biển
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1010,7 +1010,7 @@ Cute otter swimming in a river, simple preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con rái cá
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1024,7 +1024,7 @@ Cute seahorse with curled tail near seaweed, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá ngựa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1038,7 +1038,7 @@ Simple non-scary jellyfish with soft tentacles underwater, preschool safety illu
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sứa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1052,7 +1052,7 @@ Colorful coral reef with small fish, simple preschool ocean illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: San hô
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1066,7 +1066,7 @@ Cute sea snail with spiral shell on sandy beach, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ốc biển
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1080,7 +1080,7 @@ Cute clam with two shells in beach sand, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con ngao
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1094,7 +1094,7 @@ Cute seashell clam on sandy beach, simple preschool ocean illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con sò
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1108,7 +1108,7 @@ Cute buffalo with curved horns standing in a rice field, preschool rural illustr
 
 ### Gợi ý trang tô màu
 Tên tranh: Con trâu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1122,7 +1122,7 @@ Cute goat with small beard standing on a hillside, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con dê
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1136,7 +1136,7 @@ Cute donkey with long ears standing on a farm, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con lừa
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1150,7 +1150,7 @@ Cute fluffy alpaca with long neck on a farm, preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con alpaca
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1164,7 +1164,7 @@ Cute llama with long neck in mountain farm, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con lạc đà không bướu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1178,7 +1178,7 @@ Cute reindeer with antlers standing in snowy landscape, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con tuần lộc
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1192,7 +1192,7 @@ Friendly polar bear with white fur on ice, non-scary preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gấu bắc cực
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1206,7 +1206,7 @@ Cute fox with fluffy tail in a forest, friendly preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cáo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1220,7 +1220,7 @@ Cute raccoon with striped tail and dark face mask, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con gấu mèo
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1234,7 +1234,7 @@ Cute ferret-like weasel with long body near bushes, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chồn
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1248,7 +1248,7 @@ Cute beaver with flat tail holding a branch near a stream, preschool illustratio
 
 ### Gợi ý trang tô màu
 Tên tranh: Con hải ly
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1262,7 +1262,7 @@ Cute antelope with long legs running in grassland, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con linh dương
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1276,7 +1276,7 @@ Friendly lynx with pointed tufted ears in a snowy forest, preschool illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con linh miêu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1290,7 +1290,7 @@ Cute ostrich with long legs standing in grassland, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con đà điểu
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1304,7 +1304,7 @@ Cute kiwi bird with round body and long beak near bushes, preschool illustration
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim kiwi
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1318,7 +1318,7 @@ Cute emperor penguin standing on ice, simple preschool educational illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con chim cánh cụt hoàng đế
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1332,7 +1332,7 @@ Simple non-scary snake crawling through grass, preschool safety illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con rắn
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1346,7 +1346,7 @@ Cute small lizard with long tail on a wall, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con thằn lằn
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1360,7 +1360,7 @@ Cute gecko sticking to a wall, simple preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con tắc kè
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1374,7 +1374,7 @@ Cute iguana with small crest resting on a branch, preschool illustration.
 
 ### Gợi ý trang tô màu
 Tên tranh: Con kỳ nhông
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1388,7 +1388,7 @@ Friendly monitor lizard with long body and strong tail near forest edge, prescho
 
 ### Gợi ý trang tô màu
 Tên tranh: Con kỳ đà
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---
 
@@ -1402,6 +1402,6 @@ Cute manta ray with wide fins swimming under the sea, preschool ocean illustrati
 
 ### Gợi ý trang tô màu
 Tên tranh: Con cá đuối
-Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3-5 tuổi.
+Ghi chú: Nét rõ, ít chi tiết, phù hợp trẻ 3 - 7 tuổi.
 
 ---

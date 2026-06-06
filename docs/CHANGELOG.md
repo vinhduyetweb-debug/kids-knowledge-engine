@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Task 8 — Asset Replacement Pack
+
+- Added local asset structure for thumbnails, mascot and sounds.
+- Added starter SVG thumbnails and owl mascot asset.
+- Added safe asset fallback behavior.
+- Added wrong-answer vibration feedback on supported mobile devices.
+- Updated user-facing age display from 3-5 to 3 - 7 tuổi while preserving dataset/schema.
+- Kept static architecture with no backend/framework/package/CDN/storage.
+
 ## Task 7 — Kids Experience Upgrade Pack
 
 - Improved Vietnamese font consistency and overall typography.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Butterfly">
+  <rect width="160" height="160" rx="28" fill="#fff0fb"/>
+  <ellipse cx="52" cy="70" rx="34" ry="42" fill="#ff78bd"/>
+  <ellipse cx="108" cy="70" rx="34" ry="42" fill="#8b7cff"/>
+  <ellipse cx="58" cy="112" rx="28" ry="24" fill="#ffb238"/>
+  <ellipse cx="102" cy="112" rx="28" ry="24" fill="#67d6a3"/>
+  <rect x="74" y="48" width="12" height="80" rx="6" fill="#3a2a12"/>
+  <path d="M76 50L62 33M84 50l14-17" stroke="#3a2a12" stroke-width="5" stroke-linecap="round"/>
+</svg>

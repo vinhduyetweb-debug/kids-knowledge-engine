@@ -7,6 +7,20 @@ const SOUND_PATHS = {
   wrong: "/apps/guess-animal/assets/sounds/wrong.mp3"
 };
 
+const THUMBNAIL_ASSETS = [
+  { keywords: ["mèo"], src: "/apps/guess-animal/assets/thumbnails/cat.svg" },
+  { keywords: ["chó"], src: "/apps/guess-animal/assets/thumbnails/dog.svg" },
+  { keywords: ["cá", "cá heo", "cá voi", "cá mập"], src: "/apps/guess-animal/assets/thumbnails/fish.svg" },
+  { keywords: ["voi", "vòi"], src: "/apps/guess-animal/assets/thumbnails/elephant.svg" },
+  { keywords: ["sư tử"], src: "/apps/guess-animal/assets/thumbnails/lion.svg" },
+  { keywords: ["chim", "cánh", "vẹt", "đại bàng"], src: "/apps/guess-animal/assets/thumbnails/bird.svg" },
+  { keywords: ["ong", "mật"], src: "/apps/guess-animal/assets/thumbnails/bee.svg" },
+  { keywords: ["bướm"], src: "/apps/guess-animal/assets/thumbnails/butterfly.svg" },
+  { keywords: ["rùa", "mai"], src: "/apps/guess-animal/assets/thumbnails/turtle.svg" }
+];
+
+const DEFAULT_THUMBNAIL_ASSET = "/apps/guess-animal/assets/thumbnails/default.svg";
+
 const BADGE_MILESTONES = [
   { count: 5, id: "badge5", message: "Bé đạt huy hiệu đầu tiên!" },
   { count: 10, id: "badge10", message: "Bé nhận huy hiệu bạc!" },
@@ -213,6 +227,25 @@ function getThumbnail(value) {
   return match ? match[1] : "🌟";
 }
 
+function getThumbnailAsset(value) {
+  const normalized = normalizeText(value);
+  const match = THUMBNAIL_ASSETS.find((entry) =>
+    entry.keywords.some((keyword) => normalized.includes(normalizeText(keyword)))
+  );
+  return match ? match.src : DEFAULT_THUMBNAIL_ASSET;
+}
+
+function makeThumbnailHtml(value) {
+  const asset = getThumbnailAsset(value);
+  const emoji = getThumbnail(value);
+  return `
+    <span class="thumb-frame" aria-hidden="true">
+      <img class="thumb-img" src="${asset}" alt="" loading="lazy" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+      <span class="thumb-emoji" hidden>${emoji}</span>
+    </span>
+  `;
+}
+
 function getItemThumbnail(item) {
   return getThumbnail(`${item.answer} ${item.title} ${item.fact}`);
 }
@@ -227,7 +260,8 @@ function setMascotMessage(message) {
 }
 
 function setVisual(item, message) {
-  visualEmoji.textContent = item ? getItemThumbnail(item) : "❔";
+  const value = item ? `${item.answer} ${item.title} ${item.fact}` : "";
+  visualEmoji.innerHTML = item ? makeThumbnailHtml(value) : `<span class="thumb-emoji">❔</span>`;
   visualHint.textContent = message;
   visualStage.classList.remove("pop");
   window.setTimeout(() => visualStage.classList.add("pop"), 0);
@@ -257,6 +291,22 @@ function playTone(isCorrect) {
   gain.connect(context.destination);
   oscillator.start();
   oscillator.stop(context.currentTime + (isCorrect ? 0.16 : 0.22));
+}
+
+function playFeedbackSound(isCorrect) {
+  if (typeof Audio === "undefined") {
+    playTone(isCorrect);
+    return;
+  }
+
+  const sound = new Audio(isCorrect ? SOUND_PATHS.correct : SOUND_PATHS.wrong);
+  sound.play().catch(() => playTone(isCorrect));
+}
+
+function vibrateWrongAnswer() {
+  if (typeof navigator !== "undefined" && typeof navigator.vibrate === "function") {
+    navigator.vibrate([80, 40, 80]);
+  }
 }
 
 function updateBadges() {
@@ -390,7 +440,7 @@ function renderQuestion() {
     button.type = "button";
     button.className = "option-button answer-card";
     button.innerHTML = `
-      <span class="answer-thumb" aria-hidden="true">${getThumbnail(option)}</span>
+      <span class="answer-thumb">${makeThumbnailHtml(option)}</span>
       <span class="answer-name">${option}</span>
     `;
     button.dataset.answer = option;
@@ -428,7 +478,10 @@ function answerQuestion(selectedOption, item) {
     ? "Đúng rồi! +1 sao"
     : `Chưa đúng rồi. Đáp án là ${correctAnswer}.`;
 
-  playTone(isCorrect);
+  playFeedbackSound(isCorrect);
+  if (!isCorrect) {
+    vibrateWrongAnswer();
+  }
   setVisual(item, makeQuickFact(item));
   showDetails(item);
   updateScore();

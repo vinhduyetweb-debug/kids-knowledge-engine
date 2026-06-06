@@ -4,7 +4,7 @@
 
 MVP đầu tiên:
 - Chủ đề: Động vật thân quen
-- Độ tuổi: 3-5
+- Độ tuổi: 3 - 7 tuổi
 - Số item mẫu: 20
 - Đầu ra thử nghiệm:
   - Mini app đoán con vật
@@ -69,6 +69,23 @@ Sound files can be replaced later in:
 - `apps/guess-animal/assets/sounds/wrong.mp3`
 
 Current build uses a lightweight Web Audio fallback, so the app still works if those files are not present yet.
+
+## Asset Replacement
+
+Kids quiz assets are stored in:
+
+- `apps/guess-animal/assets/thumbnails/`
+- `apps/guess-animal/assets/mascot/`
+- `apps/guess-animal/assets/sounds/`
+
+You can replace:
+- animal thumbnails
+- mascot SVG
+- `correct.mp3`
+- `wrong.mp3`
+
+The app keeps fallback emoji/Web Audio behavior if assets are missing.
+Wrong answers can trigger device vibration on supported mobile browsers.
 
 ## Chạy landing page
 

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Turtle">
+  <rect width="160" height="160" rx="28" fill="#eefbea"/>
+  <ellipse cx="82" cy="90" rx="50" ry="38" fill="#4b9b55"/>
+  <ellipse cx="125" cy="88" rx="18" ry="16" fill="#75bd70"/>
+  <circle cx="130" cy="83" r="4" fill="#183b1f"/>
+  <path d="M48 66c16-18 52-18 68 0M44 94h76M62 56v68M91 56v68" stroke="#2f6f3a" stroke-width="6" opacity=".7"/>
+  <circle cx="47" cy="124" r="10" fill="#75bd70"/>
+  <circle cx="112" cy="124" r="10" fill="#75bd70"/>
+</svg>

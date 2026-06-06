@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Fish">
+  <rect width="160" height="160" rx="28" fill="#e8f7ff"/>
+  <path d="M30 82c22-34 66-34 94 0-28 34-72 34-94 0z" fill="#3ab7d8"/>
+  <path d="M124 82l26-25v50z" fill="#1687a7"/>
+  <circle cx="65" cy="73" r="7" fill="#102a43"/>
+  <path d="M82 52l18-22 10 32zM82 112l18 22 10-32z" fill="#61d4ee"/>
+</svg>

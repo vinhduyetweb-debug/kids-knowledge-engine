@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Bee">
+  <rect width="160" height="160" rx="28" fill="#fff9d8"/>
+  <ellipse cx="80" cy="86" rx="48" ry="34" fill="#ffcc33"/>
+  <path d="M55 58c-18-28-54 2-23 25M105 58c18-28 54 2 23 25" fill="#dff4ff" stroke="#8cc7e8" stroke-width="5"/>
+  <path d="M62 56v60M82 52v68M102 58v56" stroke="#3a2a12" stroke-width="10"/>
+  <circle cx="60" cy="78" r="6" fill="#3a2a12"/>
+  <circle cx="100" cy="78" r="6" fill="#3a2a12"/>
+</svg>
