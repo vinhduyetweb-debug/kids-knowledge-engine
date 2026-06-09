@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Fix — Canonical Real Thumbnail Selection
+
+- Changed real animal thumbnail selection to use canonical `item.id` asset keys.
+- Stopped selecting hero images from Vietnamese answer/title/fact keyword matching.
+- Prevented option card thumbnails from showing guessed animal images for non-animal answer text.
+
 ## Task 10B — Safe Asset Intake Workflow
 
 - Added safe asset inventory and mapping scripts.

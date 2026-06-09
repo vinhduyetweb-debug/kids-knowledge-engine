@@ -7,41 +7,6 @@ const SOUND_PATHS = {
   wrong: "/apps/guess-animal/assets/real/sounds/wrong.mp3"
 };
 
-const REAL_THUMBNAIL_ASSETS = [
-  { keywords: ["meo"], src: "/apps/guess-animal/assets/real/thumbnails/cat.webp" },
-  { keywords: ["cho"], src: "/apps/guess-animal/assets/real/thumbnails/dog.webp" },
-  { keywords: ["ca heo"], src: "/apps/guess-animal/assets/real/thumbnails/dolphin.webp" },
-  { keywords: ["ca voi"], src: "/apps/guess-animal/assets/real/thumbnails/whale.webp" },
-  { keywords: ["ca map"], src: "/apps/guess-animal/assets/real/thumbnails/shark.webp" },
-  { keywords: ["ca"], src: "/apps/guess-animal/assets/real/thumbnails/fish.webp" },
-  { keywords: ["voi"], src: "/apps/guess-animal/assets/real/thumbnails/elephant.webp" },
-  { keywords: ["su tu"], src: "/apps/guess-animal/assets/real/thumbnails/lion.webp" },
-  { keywords: ["chim", "vet", "dai bang"], src: "/apps/guess-animal/assets/real/thumbnails/bird.webp" },
-  { keywords: ["ong"], src: "/apps/guess-animal/assets/real/thumbnails/bee.webp" },
-  { keywords: ["buom"], src: "/apps/guess-animal/assets/real/thumbnails/butterfly.webp" },
-  { keywords: ["rua"], src: "/apps/guess-animal/assets/real/thumbnails/turtle.webp" },
-  { keywords: ["cuu"], src: "/apps/guess-animal/assets/real/thumbnails/sheep.webp" },
-  { keywords: ["bo"], src: "/apps/guess-animal/assets/real/thumbnails/cow.webp" },
-  { keywords: ["ga"], src: "/apps/guess-animal/assets/real/thumbnails/chicken.webp" },
-  { keywords: ["tho"], src: "/apps/guess-animal/assets/real/thumbnails/rabbit.webp" },
-  { keywords: ["khi"], src: "/apps/guess-animal/assets/real/thumbnails/monkey.webp" },
-  { keywords: ["cua"], src: "/apps/guess-animal/assets/real/thumbnails/crab.webp" },
-  { keywords: ["vit"], src: "/apps/guess-animal/assets/real/thumbnails/duck.webp" },
-  { keywords: ["ngua"], src: "/apps/guess-animal/assets/real/thumbnails/horse.webp" }
-];
-
-const THUMBNAIL_ASSETS = [
-  { keywords: ["mèo"], src: "/apps/guess-animal/assets/thumbnails/cat.svg" },
-  { keywords: ["chó"], src: "/apps/guess-animal/assets/thumbnails/dog.svg" },
-  { keywords: ["cá", "cá heo", "cá voi", "cá mập"], src: "/apps/guess-animal/assets/thumbnails/fish.svg" },
-  { keywords: ["voi", "vòi"], src: "/apps/guess-animal/assets/thumbnails/elephant.svg" },
-  { keywords: ["sư tử"], src: "/apps/guess-animal/assets/thumbnails/lion.svg" },
-  { keywords: ["chim", "cánh", "vẹt", "đại bàng"], src: "/apps/guess-animal/assets/thumbnails/bird.svg" },
-  { keywords: ["ong", "mật"], src: "/apps/guess-animal/assets/thumbnails/bee.svg" },
-  { keywords: ["bướm"], src: "/apps/guess-animal/assets/thumbnails/butterfly.svg" },
-  { keywords: ["rùa", "mai"], src: "/apps/guess-animal/assets/thumbnails/turtle.svg" }
-];
-
 const DEFAULT_THUMBNAIL_ASSET = "/apps/guess-animal/assets/thumbnails/default.svg";
 
 const BADGE_MILESTONES = [
@@ -250,20 +215,36 @@ function getThumbnail(value) {
   return match ? match[1] : "🌟";
 }
 
-function getThumbnailAsset(value) {
-  const normalized = normalizeText(value);
-  const match = THUMBNAIL_ASSETS.find((entry) =>
-    entry.keywords.some((keyword) => normalized.includes(normalizeText(keyword)))
-  );
-  return match ? match.src : DEFAULT_THUMBNAIL_ASSET;
+function getAssetKeyFromItem(item) {
+  if (!item || !item.id) {
+    return "default";
+  }
+
+  const key = String(item.id)
+    .replace(/^animal_/, "")
+    .replace(/_vi_3_5$/, "");
+  return key || "default";
 }
 
-function getRealThumbnailAsset(value) {
-  const normalized = normalizeText(value);
-  const match = REAL_THUMBNAIL_ASSETS.find((entry) =>
-    entry.keywords.some((keyword) => normalized.includes(keyword))
-  );
-  return match ? match.src : "";
+function getRealThumbnailAssetFromItem(item) {
+  const key = getAssetKeyFromItem(item);
+  return key === "default" ? "" : `/apps/guess-animal/assets/real/thumbnails/${key}.webp`;
+}
+
+function getStarterThumbnailAssetFromItem(item) {
+  const key = getAssetKeyFromItem(item);
+  const starterAssets = {
+    cat: "/apps/guess-animal/assets/thumbnails/cat.svg",
+    dog: "/apps/guess-animal/assets/thumbnails/dog.svg",
+    fish: "/apps/guess-animal/assets/thumbnails/fish.svg",
+    elephant: "/apps/guess-animal/assets/thumbnails/elephant.svg",
+    lion: "/apps/guess-animal/assets/thumbnails/lion.svg",
+    bird: "/apps/guess-animal/assets/thumbnails/bird.svg",
+    bee: "/apps/guess-animal/assets/thumbnails/bee.svg",
+    butterfly: "/apps/guess-animal/assets/thumbnails/butterfly.svg",
+    turtle: "/apps/guess-animal/assets/thumbnails/turtle.svg"
+  };
+  return starterAssets[key] || DEFAULT_THUMBNAIL_ASSET;
 }
 
 function escapeAttribute(value) {
@@ -282,11 +263,8 @@ function handleThumbnailError(img) {
   }
 }
 
-function makeThumbnailHtml(value, label) {
-  const labelText = String(label || value || "động vật").trim();
-  const realAsset = getRealThumbnailAsset(value);
-  const svgAsset = getThumbnailAsset(value);
-  const emoji = getThumbnail(value);
+function makeThumbnailHtmlFromAssets({ label, realAsset, svgAsset, emoji }) {
+  const labelText = String(label || "động vật").trim();
   const ariaLabel = escapeAttribute(`Minh họa ${labelText}`);
   const realImage = realAsset
     ? `<img class="thumb-img thumb-img-real" src="${realAsset}" alt="" loading="lazy" onerror="handleThumbnailError(this);">`
@@ -301,8 +279,29 @@ function makeThumbnailHtml(value, label) {
   `;
 }
 
-function getItemThumbnail(item) {
-  return getThumbnail(`${item.answer} ${item.title} ${item.fact}`);
+function makeItemThumbnailHtml(item, label) {
+  return makeThumbnailHtmlFromAssets({
+    label: label || item.answer || item.title,
+    realAsset: getRealThumbnailAssetFromItem(item),
+    svgAsset: getStarterThumbnailAssetFromItem(item),
+    emoji: getThumbnail(item.answer || item.title)
+  });
+}
+
+function makeNeutralThumbnailHtml(label) {
+  return makeThumbnailHtmlFromAssets({
+    label,
+    realAsset: "",
+    svgAsset: DEFAULT_THUMBNAIL_ASSET,
+    emoji: "❔"
+  });
+}
+
+function makeOptionThumbnailHtml(option, item) {
+  if (option === item.answer) {
+    return makeItemThumbnailHtml(item, option);
+  }
+  return makeNeutralThumbnailHtml(option);
 }
 
 function makeQuickFact(item) {
@@ -315,9 +314,8 @@ function setMascotMessage(message) {
 }
 
 function setVisual(item, message) {
-  const value = item ? `${item.answer} ${item.title} ${item.fact}` : "";
   const label = item ? item.answer || item.title : "";
-  visualEmoji.innerHTML = item ? makeThumbnailHtml(value, label) : `<span class="thumb-emoji">❔</span>`;
+  visualEmoji.innerHTML = item ? makeItemThumbnailHtml(item, label) : `<span class="thumb-emoji">❔</span>`;
   visualHint.textContent = message;
   visualStage.classList.remove("pop");
   window.setTimeout(() => visualStage.classList.add("pop"), 0);
@@ -496,7 +494,7 @@ function renderQuestion() {
     button.type = "button";
     button.className = "option-button answer-card";
     button.innerHTML = `
-      <span class="answer-thumb">${makeThumbnailHtml(option, option)}</span>
+      <span class="answer-thumb">${makeOptionThumbnailHtml(option, item)}</span>
       <span class="answer-name">${option}</span>
     `;
     button.dataset.answer = option;

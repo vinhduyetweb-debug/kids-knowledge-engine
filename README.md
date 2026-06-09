@@ -97,6 +97,14 @@ Real production assets can be placed in:
 
 The app will prefer real assets first, then fallback to starter SVG/emoji/Web Audio.
 
+Real animal thumbnails are resolved from the dataset item id, for example:
+
+```txt
+animal_octopus_vi_3_5 -> octopus.webp
+```
+
+The quiz does not choose real animal images from Vietnamese answer text, facts, or option text.
+
 ## Asset Intake Workflow
 
 Place AI-generated animal images in:
