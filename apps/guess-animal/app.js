@@ -481,7 +481,7 @@ function renderQuestion() {
   title.textContent = "Đố bé biết";
   riddle.textContent = item.riddle;
   setMascotMessage("Bé đoán xem là con gì nhé!");
-  setVisual(null, "Nhìn hình, nghe câu đố, rồi chọn đáp án nhé.");
+  setVisual(item, "Nhìn hình, nghe câu đố, rồi chọn đáp án nhé.");
   options.innerHTML = "";
   feedback.className = "feedback hidden";
   feedback.textContent = "";

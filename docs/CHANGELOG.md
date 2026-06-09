@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## Fix — Show Hero Thumbnail During Questions
+
+- Fixed question render state so the hero image uses the current item thumbnail instead of the neutral question mark.
+
 ## Fix — Canonical Real Thumbnail Selection
 
 - Changed real animal thumbnail selection to use canonical `item.id` asset keys.
