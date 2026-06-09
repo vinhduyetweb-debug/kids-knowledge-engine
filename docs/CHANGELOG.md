@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## Task — Animal Dataset V2 Option Images
+
+- Added 100-item V2 quiz dataset with `animalId` and `label` option records.
+- Added strict V2 validation for id coverage, correct answer ids, wrong answer ids, labels and WebP asset existence.
+- Updated the mini app to prefer valid V2 data and render option thumbnails from `option.animalId`.
+- Kept V1 fallback behavior if V2 is missing or invalid.
+
+## Task — Guess Animal UI Polish Pack
+
+- Polished the static mini app UI for mobile-first play.
+- Improved animal image framing, answer card touch targets, focus states and compact quiz spacing.
+- Kept quiz logic, dataset, asset mapping, sound, vibration and badge behavior unchanged.
+
 ## Fix — Show Hero Thumbnail During Questions
 
 - Fixed question render state so the hero image uses the current item thumbnail instead of the neutral question mark.

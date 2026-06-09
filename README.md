@@ -63,6 +63,7 @@ Mini app hiện có:
 - reward sounds
 - badge milestones
 - mobile-first larger UI
+- polished touch targets and compact mobile quiz layout
 
 Sound files can be replaced later in:
 - `apps/guess-animal/assets/sounds/correct.mp3`
@@ -104,6 +105,31 @@ animal_octopus_vi_3_5 -> octopus.webp
 ```
 
 The quiz does not choose real animal images from Vietnamese answer text, facts, or option text.
+
+## Animal Dataset V2
+
+The mini app prefers the V2 quiz dataset when it validates successfully:
+
+- `content/animals/animals_vi_3_5_v2_100.json`
+- `apps/guess-animal/data/animals_vi_3_5_v2_100.js`
+
+Question hero images resolve from:
+
+```txt
+item.id -> asset key -> apps/guess-animal/assets/real/thumbnails/{key}.webp
+```
+
+Option card images resolve only from:
+
+```txt
+option.animalId -> asset key -> apps/guess-animal/assets/real/thumbnails/{key}.webp
+```
+
+Validate before commit:
+
+```bat
+node tools\validate-animal-v2.js
+```
 
 ## Asset Intake Workflow
 

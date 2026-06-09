@@ -1,5 +1,5 @@
 :root {
-  --bg: #fff6e8;
+  --bg: #fff7ec;
   --surface: #ffffff;
   --surface-soft: #fffaf0;
   --text: #2f2923;
@@ -13,6 +13,7 @@
   --sky: #e7f3ff;
   --border: #ead7bb;
   --shadow: rgba(87, 54, 18, 0.1);
+  --shadow-strong: rgba(87, 54, 18, 0.16);
 }
 
 * {
@@ -27,18 +28,24 @@
 body {
   margin: 0;
   font-family: "Segoe UI", Arial, Tahoma, sans-serif;
-  background: linear-gradient(180deg, var(--bg), #ffffff 62%);
+  background:
+    linear-gradient(180deg, rgba(255, 247, 236, 0.96), rgba(255, 255, 255, 0.96) 62%),
+    radial-gradient(circle at top left, #ffe2a8 0, transparent 34%),
+    radial-gradient(circle at top right, #dff4df 0, transparent 30%);
   color: var(--text);
+  overflow-x: hidden;
 }
 
 .app {
-  width: min(900px, 100%);
+  width: 100%;
+  max-width: 820px;
   margin: 0 auto;
-  padding: 18px;
+  padding: 12px;
+  overflow-x: hidden;
 }
 
 .hero {
-  padding: 22px 4px 14px;
+  padding: 14px 4px 8px;
   text-align: center;
 }
 
@@ -60,14 +67,16 @@ p {
 }
 
 h1 {
-  margin: 0;
-  font-size: clamp(30px, 9vw, 52px);
-  line-height: 1.08;
+  max-width: 12ch;
+  margin: 0 auto;
+  font-size: clamp(27px, 7.4vw, 42px);
+  line-height: 1.05;
+  text-wrap: balance;
 }
 
 h2 {
-  margin: 12px 0;
-  font-size: 28px;
+  margin: 10px 0;
+  font-size: clamp(24px, 6vw, 30px);
 }
 
 h3 {
@@ -82,14 +91,18 @@ h4 {
 }
 
 .hero p {
-  margin: 10px auto 0;
+  margin: 8px auto 0;
   max-width: 620px;
   color: var(--muted);
-  line-height: 1.55;
+  line-height: 1.45;
 }
 
 .content-status {
-  display: inline-block;
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin-left: auto;
+  margin-right: auto;
   padding: 8px 12px;
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -97,22 +110,28 @@ h4 {
   color: var(--text);
   font-size: 14px;
   font-weight: 700;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+  line-height: 1.35;
 }
 
 .toolbar,
 .quiz-card,
 .parent-section {
-  margin: 16px 0;
+  margin: 12px 0;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--surface);
   box-shadow: 0 12px 34px var(--shadow);
+  max-width: 100%;
+  overflow: hidden;
 }
 
 .toolbar {
   display: grid;
   gap: 8px;
-  padding: 16px;
+  padding: 12px;
 }
 
 .toolbar label {
@@ -134,14 +153,13 @@ select {
 
 .quiz-card,
 .parent-section {
-  padding: 18px;
+  padding: 14px;
 }
 
 .quiz-topline {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr;
   align-items: center;
-  justify-content: space-between;
   gap: 8px;
 }
 
@@ -149,19 +167,20 @@ select {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 8px;
-  margin: 14px 0;
+  margin: 10px 0;
 }
 
 .badge {
   display: grid;
   place-items: center;
-  min-height: 72px;
-  padding: 10px 6px;
+  min-height: 58px;
+  padding: 8px 4px;
+  min-width: 0;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: #f2eadb;
   color: var(--muted);
-  font-size: 28px;
+  font-size: 24px;
   filter: grayscale(1);
   opacity: 0.72;
 }
@@ -171,6 +190,8 @@ select {
   margin-top: 4px;
   font-size: 12px;
   font-weight: 800;
+  overflow-wrap: anywhere;
+  text-align: center;
 }
 
 .badge.earned {
@@ -183,16 +204,18 @@ select {
 
 .mascot-panel {
   display: grid;
-  grid-template-columns: 80px 1fr;
-  gap: 12px;
+  grid-template-columns: 62px 1fr;
+  gap: 10px;
   align-items: center;
-  margin: 18px 0;
+  margin: 10px 0;
 }
 
 .mascot {
   display: grid;
   place-items: center;
-  min-height: 80px;
+  min-height: 62px;
+  width: 62px;
+  height: 62px;
   border: 1px solid var(--border);
   border-radius: 50%;
   background: #fff4c8;
@@ -201,12 +224,12 @@ select {
 }
 
 .mascot-face {
-  font-size: 48px;
+  font-size: 38px;
 }
 
 .mascot-img {
-  width: 70px;
-  height: 70px;
+  width: 54px;
+  height: 54px;
   object-fit: contain;
   display: block;
 }
@@ -218,12 +241,12 @@ select {
 .mascot-bubble {
   position: relative;
   margin: 0;
-  padding: 14px 16px;
+  padding: 10px 12px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--surface-soft);
   color: var(--text);
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 800;
   line-height: 1.45;
 }
@@ -231,12 +254,13 @@ select {
 .visual-stage {
   display: grid;
   place-items: center;
-  min-height: clamp(260px, 54vh, 440px);
-  margin: 16px 0;
-  padding: 22px;
+  min-height: clamp(210px, 40vh, 340px);
+  margin: 12px 0;
+  padding: 14px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: radial-gradient(circle at 50% 35%, #ffffff 0, #fff5d8 45%, #eaf7ff 100%);
+  box-shadow: inset 0 0 0 4px rgba(255, 255, 255, 0.54), 0 10px 22px rgba(87, 54, 18, 0.08);
   text-align: center;
 }
 
@@ -250,16 +274,19 @@ select {
 }
 
 .visual-emoji .thumb-frame {
-  width: min(62vw, 260px);
-  height: min(62vw, 260px);
+  width: min(72vw, 280px);
+  height: min(72vw, 280px);
   margin: 0 auto;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.72);
+  box-shadow: 0 12px 24px rgba(87, 54, 18, 0.08);
 }
 
 .visual-stage p {
   max-width: 520px;
-  margin: 18px auto 0;
+  margin: 12px auto 0;
   color: var(--primary-strong);
-  font-size: 20px;
+  font-size: clamp(16px, 4.4vw, 19px);
   font-weight: 900;
   line-height: 1.4;
 }
@@ -269,6 +296,7 @@ select {
   margin: 0;
   color: var(--muted);
   font-weight: 800;
+  min-width: 0;
 }
 
 .score {
@@ -276,38 +304,49 @@ select {
   border-radius: 999px;
   background: var(--sky);
   color: #21536f;
+  justify-self: start;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  white-space: normal;
 }
 
 .riddle {
-  min-height: 150px;
-  margin: 16px 0;
-  padding: 18px;
+  min-height: 120px;
+  margin: 12px 0;
+  padding: 14px;
   border: 1px dashed var(--border);
   border-radius: 8px;
   background: var(--surface-soft);
   white-space: pre-wrap;
   font-family: inherit;
-  font-size: 23px;
-  line-height: 1.65;
+  font-size: clamp(20px, 5.2vw, 24px);
+  line-height: 1.55;
 }
 
 .options {
   display: grid;
-  gap: 14px;
+  gap: 10px;
 }
 
 button,
 .option-button {
-  min-height: 58px;
+  min-height: 64px;
   border: 0;
   border-radius: 8px;
-  padding: 14px 18px;
+  padding: 14px 16px;
   background: var(--primary);
   color: #2a1700;
   cursor: pointer;
   font: inherit;
   font-size: 18px;
   font-weight: 800;
+}
+
+button:focus-visible,
+.option-button:focus-visible,
+select:focus-visible {
+  outline: 4px solid rgba(255, 178, 56, 0.42);
+  outline-offset: 3px;
 }
 
 button:disabled {
@@ -320,6 +359,14 @@ button:disabled {
   border: 1px solid var(--border);
   background: #ffffff;
   text-align: center;
+  transition: transform 160ms ease, border-color 160ms ease, box-shadow 160ms ease, background 160ms ease;
+}
+
+.option-button:hover:not(:disabled),
+.option-button:focus-visible:not(:disabled) {
+  border-color: var(--primary);
+  box-shadow: 0 12px 24px var(--shadow-strong);
+  transform: translateY(-1px);
 }
 
 .option-button.is-correct {
@@ -336,12 +383,12 @@ button:disabled {
 
 .answer-card {
   display: grid;
-  grid-template-columns: 92px minmax(0, 1fr);
-  gap: 14px;
+  grid-template-columns: 82px minmax(0, 1fr);
+  gap: 12px;
   align-items: center;
-  min-height: 124px;
-  padding: 14px;
-  box-shadow: 0 10px 24px var(--shadow);
+  min-height: 108px;
+  padding: 12px;
+  box-shadow: 0 8px 18px var(--shadow);
 }
 
 .answer-card:active {
@@ -355,10 +402,10 @@ button:disabled {
 .answer-thumb {
   display: grid;
   place-items: center;
-  width: 92px;
-  height: 92px;
-  min-width: 92px;
-  border-radius: 8px;
+  width: 82px;
+  height: 82px;
+  min-width: 82px;
+  border-radius: 10px;
   background: #fff7df;
   line-height: 1;
   overflow: hidden;
@@ -380,8 +427,8 @@ button:disabled {
 }
 
 .thumb-img-real {
-  border-radius: 8px;
-  object-fit: cover;
+  border-radius: 10px;
+  object-fit: contain;
   background: #ffffff;
 }
 
@@ -394,21 +441,21 @@ button:disabled {
   place-items: center;
   width: 100%;
   height: 100%;
-  font-size: 56px;
+  font-size: 48px;
   line-height: 1;
 }
 
 .answer-name {
   display: block;
   color: inherit;
-  font-size: 22px;
+  font-size: clamp(19px, 5vw, 23px);
   line-height: 1.25;
   overflow-wrap: anywhere;
 }
 
 .feedback {
-  margin-top: 14px;
-  padding: 14px;
+  margin-top: 12px;
+  padding: 12px;
   border-radius: 8px;
   font-weight: 800;
   font-size: 18px;
@@ -441,13 +488,13 @@ button:disabled {
 }
 
 .answer {
-  margin-top: 16px;
-  padding-top: 16px;
+  margin-top: 12px;
+  padding-top: 12px;
   border-top: 1px solid var(--border);
 }
 
 .quick-fact {
-  padding: 12px 14px;
+  padding: 10px 12px;
   border-radius: 8px;
   background: var(--sky);
   color: #21536f;
@@ -486,7 +533,7 @@ li {
 .actions {
   display: grid;
   gap: 10px;
-  margin-top: 18px;
+  margin-top: 14px;
 }
 
 button.secondary {
@@ -499,7 +546,7 @@ button.secondary {
 
 @media (min-width: 680px) {
   .app {
-    padding: 28px;
+    padding: 22px;
   }
 
   .toolbar {
@@ -507,23 +554,37 @@ button.secondary {
     align-items: center;
   }
 
+  .content-status {
+    max-width: 620px;
+  }
+
+  .quiz-topline {
+    grid-template-columns: 1fr auto;
+  }
+
+  .score {
+    justify-self: end;
+  }
+
   .quiz-card,
   .parent-section {
-    padding: 24px;
+    padding: 20px;
   }
 
   .options {
     grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 12px;
   }
 
   .answer-card {
     grid-template-columns: 1fr;
-    min-height: 190px;
+    min-height: 178px;
+    align-content: center;
   }
 
   .answer-thumb {
-    width: 112px;
-    height: 112px;
+    width: 116px;
+    height: 116px;
     margin: 0 auto;
   }
 
@@ -533,6 +594,58 @@ button.secondary {
 
   .actions {
     grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 420px) {
+  .app {
+    padding: 10px;
+  }
+
+  .hero {
+    padding-top: 10px;
+  }
+
+  h1 {
+    max-width: 11ch;
+    font-size: clamp(25px, 7vw, 30px);
+  }
+
+  .content-status {
+    font-size: 13px;
+    white-space: normal;
+  }
+
+  .quiz-topline {
+    grid-template-columns: 1fr;
+  }
+
+  .score {
+    justify-self: start;
+  }
+
+  .quiz-card,
+  .parent-section {
+    padding: 12px;
+  }
+
+  .badge span {
+    font-size: 11px;
+  }
+
+  .visual-stage {
+    min-height: 196px;
+  }
+
+  .answer-card {
+    grid-template-columns: 74px minmax(0, 1fr);
+    min-height: 96px;
+  }
+
+  .answer-thumb {
+    width: 74px;
+    height: 74px;
+    min-width: 74px;
   }
 }
 

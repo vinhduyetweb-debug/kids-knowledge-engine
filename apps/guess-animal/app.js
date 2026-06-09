@@ -1,6 +1,7 @@
-console.log("Guess Animal App build: 20260606-fix2");
+console.log("Guess Animal App build: 20260609-v2");
 
 let DATA = [];
+let DATA_VERSION = "v1";
 
 const SOUND_PATHS = {
   correct: "/apps/guess-animal/assets/real/sounds/correct.mp3",
@@ -13,32 +14,6 @@ const BADGE_MILESTONES = [
   { count: 5, id: "badge5", message: "Bé đạt huy hiệu đầu tiên!" },
   { count: 10, id: "badge10", message: "Bé nhận huy hiệu bạc!" },
   { count: 20, id: "badge20", message: "Bé đã trở thành nhà thám hiểm động vật!" }
-];
-
-const THUMBNAIL_MAP = [
-  ["cừu", "🐑"], ["voi", "🐘"], ["mèo", "🐱"], ["chó", "🐶"], ["vịt", "🦆"],
-  ["bò", "🐄"], ["gà", "🐔"], ["thỏ", "🐰"], ["ếch", "🐸"], ["cá", "🐟"],
-  ["chim", "🐦"], ["ngựa", "🐴"], ["heo", "🐷"], ["ong", "🐝"], ["bướm", "🦋"],
-  ["rùa", "🐢"], ["khỉ", "🐵"], ["sư tử", "🦁"], ["cánh cụt", "🐧"], ["ốc", "🐌"],
-  ["hươu", "🦒"], ["cao cổ", "🦒"], ["cá heo", "🐬"], ["cá voi", "🐋"],
-  ["cá mập", "🦈"], ["sao biển", "⭐"], ["cua", "🦀"], ["tôm", "🦐"],
-  ["mực", "🦑"], ["bạch tuộc", "🐙"], ["ngựa vằn", "🦓"], ["nai", "🦌"],
-  ["gấu", "🐻"], ["gấu trúc", "🐼"], ["hổ", "🐯"], ["báo", "🐆"], ["sói", "🐺"],
-  ["cá sấu", "🐊"], ["hà mã", "🦛"], ["tê giác", "🦏"], ["lạc đà", "🐪"],
-  ["chuột túi", "🦘"], ["sóc", "🐿️"], ["chuột", "🐭"], ["nhím", "🦔"],
-  ["dơi", "🦇"], ["cú", "🦉"], ["đại bàng", "🦅"], ["công", "🦚"],
-  ["vẹt", "🦜"], ["thiên nga", "🦢"], ["ngỗng", "🪿"], ["gà tây", "🦃"],
-  ["kiến", "🐜"], ["muỗi", "🦟"], ["ruồi", "🪰"], ["chuồn chuồn", "🌈"],
-  ["châu chấu", "🦗"], ["bọ rùa", "🐞"], ["bọ ngựa", "🌿"], ["giun", "🪱"],
-  ["sâu", "🐛"], ["tằm", "🐛"], ["nhện", "🕷️"], ["bọ cánh cứng", "🪲"],
-  ["hải cẩu", "🦭"], ["rái cá", "🦦"], ["cá ngựa", "🐠"], ["sứa", "🪼"],
-  ["san hô", "🪸"], ["ngao", "🦪"], ["sò", "🦪"], ["trâu", "🐃"], ["dê", "🐐"],
-  ["lừa", "🫏"], ["tuần lộc", "🦌"], ["cáo", "🦊"], ["hải ly", "🦫"],
-  ["linh miêu", "🐱"], ["đà điểu", "🪶"], ["kiwi", "🥝"], ["rắn", "🐍"],
-  ["thằn lằn", "🦎"], ["tắc kè", "🦎"], ["kỳ nhông", "🦎"], ["kỳ đà", "🦎"],
-  ["cánh", "🪽"], ["vòi", "🐘"], ["vây", "🐟"], ["đuôi", "〰️"], ["mào", "🔴"],
-  ["sừng", "🌙"], ["mai", "🛡️"], ["hoa", "🌸"], ["mật", "🍯"], ["bơi", "💧"],
-  ["rừng", "🌳"], ["biển", "🌊"], ["băng", "🧊"], ["đồng cỏ", "🌾"]
 ];
 
 const CATEGORY_IDS = {
@@ -209,30 +184,32 @@ function normalizeText(value) {
     .replace(/đ/g, "d");
 }
 
-function getThumbnail(value) {
-  const normalized = normalizeText(value);
-  const match = THUMBNAIL_MAP.find(([keyword]) => normalized.includes(normalizeText(keyword)));
-  return match ? match[1] : "🌟";
-}
-
-function getAssetKeyFromItem(item) {
-  if (!item || !item.id) {
+function getAssetKeyFromAnimalId(animalId) {
+  if (!animalId) {
     return "default";
   }
 
-  const key = String(item.id)
+  const key = String(animalId)
     .replace(/^animal_/, "")
     .replace(/_vi_3_5$/, "");
   return key || "default";
 }
 
-function getRealThumbnailAssetFromItem(item) {
-  const key = getAssetKeyFromItem(item);
+function getAssetKeyFromItem(item) {
+  return getAssetKeyFromAnimalId(item && item.id);
+}
+
+function getRealThumbnailAssetFromAnimalId(animalId) {
+  const key = getAssetKeyFromAnimalId(animalId);
   return key === "default" ? "" : `/apps/guess-animal/assets/real/thumbnails/${key}.webp`;
 }
 
-function getStarterThumbnailAssetFromItem(item) {
-  const key = getAssetKeyFromItem(item);
+function getRealThumbnailAssetFromItem(item) {
+  return getRealThumbnailAssetFromAnimalId(item && item.id);
+}
+
+function getStarterThumbnailAssetFromAnimalId(animalId) {
+  const key = getAssetKeyFromAnimalId(animalId);
   const starterAssets = {
     cat: "/apps/guess-animal/assets/thumbnails/cat.svg",
     dog: "/apps/guess-animal/assets/thumbnails/dog.svg",
@@ -245,6 +222,10 @@ function getStarterThumbnailAssetFromItem(item) {
     turtle: "/apps/guess-animal/assets/thumbnails/turtle.svg"
   };
   return starterAssets[key] || DEFAULT_THUMBNAIL_ASSET;
+}
+
+function getStarterThumbnailAssetFromItem(item) {
+  return getStarterThumbnailAssetFromAnimalId(item && item.id);
 }
 
 function escapeAttribute(value) {
@@ -263,7 +244,7 @@ function handleThumbnailError(img) {
   }
 }
 
-function makeThumbnailHtmlFromAssets({ label, realAsset, svgAsset, emoji }) {
+function makeThumbnailHtmlFromAssets({ label, realAsset, svgAsset }) {
   const labelText = String(label || "động vật").trim();
   const ariaLabel = escapeAttribute(`Minh họa ${labelText}`);
   const realImage = realAsset
@@ -274,7 +255,6 @@ function makeThumbnailHtmlFromAssets({ label, realAsset, svgAsset, emoji }) {
     <span class="thumb-frame" role="img" aria-label="${ariaLabel}">
       ${realImage}
       <img class="thumb-img thumb-img-svg" src="${svgAsset}" alt="" loading="lazy"${svgHidden} onerror="handleThumbnailError(this);">
-      <span class="thumb-emoji" hidden>${emoji}</span>
     </span>
   `;
 }
@@ -283,8 +263,7 @@ function makeItemThumbnailHtml(item, label) {
   return makeThumbnailHtmlFromAssets({
     label: label || item.answer || item.title,
     realAsset: getRealThumbnailAssetFromItem(item),
-    svgAsset: getStarterThumbnailAssetFromItem(item),
-    emoji: getThumbnail(item.answer || item.title)
+    svgAsset: getStarterThumbnailAssetFromItem(item)
   });
 }
 
@@ -292,12 +271,19 @@ function makeNeutralThumbnailHtml(label) {
   return makeThumbnailHtmlFromAssets({
     label,
     realAsset: "",
-    svgAsset: DEFAULT_THUMBNAIL_ASSET,
-    emoji: "❔"
+    svgAsset: DEFAULT_THUMBNAIL_ASSET
   });
 }
 
 function makeOptionThumbnailHtml(option, item) {
+  if (option && typeof option === "object" && option.animalId) {
+    return makeThumbnailHtmlFromAssets({
+      label: option.label,
+      realAsset: getRealThumbnailAssetFromAnimalId(option.animalId),
+      svgAsset: getStarterThumbnailAssetFromAnimalId(option.animalId)
+    });
+  }
+
   if (option === item.answer) {
     return makeItemThumbnailHtml(item, option);
   }
@@ -315,7 +301,7 @@ function setMascotMessage(message) {
 
 function setVisual(item, message) {
   const label = item ? item.answer || item.title : "";
-  visualEmoji.innerHTML = item ? makeItemThumbnailHtml(item, label) : `<span class="thumb-emoji">❔</span>`;
+  visualEmoji.innerHTML = item ? makeItemThumbnailHtml(item, label) : makeNeutralThumbnailHtml("động vật");
   visualHint.textContent = message;
   visualStage.classList.remove("pop");
   window.setTimeout(() => visualStage.classList.add("pop"), 0);
@@ -383,10 +369,73 @@ function updateBadges() {
 function updateStatus() {
   const reviewed = DATA.filter((item) => item.status === "reviewed").length;
   const draft = DATA.filter((item) => item.status === "draft").length;
-  contentStatus.textContent = `Bộ dữ liệu: ${DATA.length} câu đố động vật · ${reviewed} reviewed · ${draft} draft`;
+  const versionLabel = DATA_VERSION === "v2" ? "V2 option ảnh" : "V1";
+  contentStatus.textContent = `Bộ dữ liệu ${versionLabel}: ${DATA.length} câu đố động vật · ${reviewed} reviewed · ${draft} draft`;
 }
 
-async function loadAnimalsData() {
+function labelFromV1Item(item) {
+  return String(item.answer || item.title || "")
+    .replace(/^Con\s+/i, "")
+    .trim();
+}
+
+const BAD_OPTION_LABELS = new Set([
+  "co",
+  "khong",
+  "khong biet",
+  "canh",
+  "hoa",
+  "mau sac",
+  "duoi nuoc",
+  "tren cay",
+  "bay",
+  "boi",
+  "an co",
+  "bien",
+  "rung"
+]);
+
+function isValidAnimalsV2Data(v2Data, v1Data) {
+  if (!Array.isArray(v2Data) || !Array.isArray(v1Data) || v2Data.length !== v1Data.length) {
+    return false;
+  }
+
+  const v1ById = new Map(v1Data.map((item) => [item.id, item]));
+  const seen = new Set();
+
+  return v2Data.every((item) => {
+    if (!item || !item.id || seen.has(item.id) || !v1ById.has(item.id)) {
+      return false;
+    }
+    seen.add(item.id);
+
+    if (!item.correctAnswer || item.correctAnswer.animalId !== item.id) {
+      return false;
+    }
+
+    if (!Array.isArray(item.wrongAnswers) || item.wrongAnswers.length !== 2) {
+      return false;
+    }
+
+    const options = [item.correctAnswer, ...item.wrongAnswers];
+    const optionIds = new Set();
+    return options.every((option) => {
+      if (!option || !option.animalId || !option.label || !String(option.label).trim()) {
+        return false;
+      }
+      if (!v1ById.has(option.animalId) || optionIds.has(option.animalId)) {
+        return false;
+      }
+      optionIds.add(option.animalId);
+      if (BAD_OPTION_LABELS.has(normalizeText(option.label))) {
+        return false;
+      }
+      return normalizeText(option.label) === normalizeText(labelFromV1Item(v1ById.get(option.animalId)));
+    });
+  });
+}
+
+async function loadAnimalsV1Data() {
   if (Array.isArray(window.ANIMALS_DATA) && window.ANIMALS_DATA.length > 0) {
     return window.ANIMALS_DATA;
   }
@@ -404,6 +453,43 @@ async function loadAnimalsData() {
   }
 
   return [];
+}
+
+async function loadAnimalsV2Data() {
+  if (Array.isArray(window.ANIMALS_V2_DATA) && window.ANIMALS_V2_DATA.length > 0) {
+    return window.ANIMALS_V2_DATA;
+  }
+
+  if (location.protocol === "http:" || location.protocol === "https:") {
+    try {
+      const response = await fetch("/apps/guess-animal/data/animals_vi_3_5_v2_100.json", { cache: "no-store" });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+      return await response.json();
+    } catch (error) {
+      console.warn("Failed to fetch animals V2 JSON fallback", error);
+    }
+  }
+
+  return [];
+}
+
+async function loadAnimalsData() {
+  const v1Data = await loadAnimalsV1Data();
+  const v2Data = await loadAnimalsV2Data();
+
+  if (isValidAnimalsV2Data(v2Data, v1Data)) {
+    const v2ById = new Map(v2Data.map((item) => [item.id, item]));
+    DATA_VERSION = "v2";
+    return v1Data.map((item) => ({
+      ...item,
+      v2: v2ById.get(item.id)
+    }));
+  }
+
+  DATA_VERSION = "v1";
+  return v1Data;
 }
 
 function showDataLoadError() {
@@ -479,7 +565,7 @@ function renderQuestion() {
 
   counter.textContent = `Câu ${state.index + 1} / ${state.queue.length}`;
   title.textContent = "Đố bé biết";
-  riddle.textContent = item.riddle;
+  riddle.textContent = getQuestionText(item);
   setMascotMessage("Bé đoán xem là con gì nhé!");
   setVisual(item, "Nhìn hình, nghe câu đố, rồi chọn đáp án nhé.");
   options.innerHTML = "";
@@ -488,16 +574,16 @@ function renderQuestion() {
   answerBox.classList.add("hidden");
   nextBtn.disabled = true;
 
-  const quizOptions = item.quiz && Array.isArray(item.quiz.options) ? item.quiz.options : [];
+  const quizOptions = getQuizOptions(item);
   quizOptions.forEach((option) => {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "option-button answer-card";
     button.innerHTML = `
       <span class="answer-thumb">${makeOptionThumbnailHtml(option, item)}</span>
-      <span class="answer-name">${option}</span>
+      <span class="answer-name">${getOptionLabel(option)}</span>
     `;
-    button.dataset.answer = option;
+    button.dataset.answer = getOptionAnimalId(option);
     button.addEventListener("click", () => answerQuestion(option, item));
     options.appendChild(button);
   });
@@ -505,13 +591,46 @@ function renderQuestion() {
   updateScore();
 }
 
+function getQuestionText(item) {
+  return item.v2 && item.v2.question ? item.v2.question : item.riddle;
+}
+
+function getQuizOptions(item) {
+  if (item.v2 && item.v2.correctAnswer && Array.isArray(item.v2.wrongAnswers)) {
+    return shuffle([item.v2.correctAnswer, ...item.v2.wrongAnswers]);
+  }
+  return item.quiz && Array.isArray(item.quiz.options) ? item.quiz.options : [];
+}
+
+function getOptionLabel(option) {
+  return option && typeof option === "object" ? option.label : option;
+}
+
+function getOptionAnimalId(option) {
+  return option && typeof option === "object" ? option.animalId : option;
+}
+
+function getCorrectAnimalId(item) {
+  return item.v2 && item.v2.correctAnswer
+    ? item.v2.correctAnswer.animalId
+    : item.quiz.correctAnswer;
+}
+
+function getCorrectLabel(item) {
+  return item.v2 && item.v2.correctAnswer
+    ? item.v2.correctAnswer.label
+    : item.quiz.correctAnswer;
+}
+
 function answerQuestion(selectedOption, item) {
   if (state.currentAnswered) {
     return;
   }
 
-  const correctAnswer = item.quiz.correctAnswer;
-  const isCorrect = selectedOption === correctAnswer;
+  const selectedAnimalId = getOptionAnimalId(selectedOption);
+  const correctAnimalId = getCorrectAnimalId(item);
+  const correctLabel = getCorrectLabel(item);
+  const isCorrect = selectedAnimalId === correctAnimalId;
   state.currentAnswered = true;
   state.answered += 1;
   if (isCorrect) {
@@ -520,9 +639,9 @@ function answerQuestion(selectedOption, item) {
 
   Array.from(options.children).forEach((button) => {
     button.disabled = true;
-    if (button.dataset.answer === correctAnswer) {
+    if (button.dataset.answer === correctAnimalId) {
       button.classList.add("is-correct");
-    } else if (button.dataset.answer === selectedOption) {
+    } else if (button.dataset.answer === selectedAnimalId) {
       button.classList.add("is-incorrect");
     }
   });
@@ -530,7 +649,7 @@ function answerQuestion(selectedOption, item) {
   feedback.className = `feedback ${isCorrect ? "success" : "gentle"}`;
   feedback.textContent = isCorrect
     ? "Đúng rồi! +1 sao"
-    : `Chưa đúng rồi. Đáp án là ${correctAnswer}.`;
+    : `Chưa đúng rồi. Đáp án là ${correctLabel}.`;
 
   playFeedbackSound(isCorrect);
   if (!isCorrect) {
