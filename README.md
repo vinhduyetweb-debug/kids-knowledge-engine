@@ -64,6 +64,10 @@ Mini app hiện có:
 - badge milestones
 - mobile-first larger UI
 - polished touch targets and compact mobile quiz layout
+- mobile next-question auto scroll to the animal visual/question area
+- sound toggle saved with `localStorage` key `kke.guessAnimal.soundEnabled`
+- improved correct/wrong/victory sound effects with no default background music
+- expanded achievement milestones with a congratulation modal
 
 Sound files can be replaced later in:
 - `apps/guess-animal/assets/sounds/correct.mp3`
@@ -124,6 +128,8 @@ Option card images resolve only from:
 ```txt
 option.animalId -> asset key -> apps/guess-animal/assets/real/thumbnails/{key}.webp
 ```
+
+The UX layer does not change this mapping. Hero images still resolve from `item.id`, and option images still resolve from `option.animalId`.
 
 Validate before commit:
 

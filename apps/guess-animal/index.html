@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Bé Khám Phá Động Vật</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/apps/guess-animal/style.css?v=20260606-fix2">
+  <link rel="stylesheet" href="/apps/guess-animal/style.css?v=20260610-ux1">
 </head>
 <body>
   <main class="app">
@@ -16,14 +16,17 @@
     </section>
 
     <section class="toolbar" aria-label="Bộ lọc câu đố">
-      <label for="categoryFilter">Chủ đề</label>
-      <select id="categoryFilter">
-        <option value="all">Tất cả</option>
-        <option value="familiar">Động vật quen thuộc</option>
-        <option value="wild">Động vật hoang dã</option>
-        <option value="insects">Côn trùng</option>
-        <option value="sea">Sinh vật biển</option>
-      </select>
+      <div class="toolbar-field">
+        <label for="categoryFilter">Chủ đề</label>
+        <select id="categoryFilter">
+          <option value="all">Tất cả</option>
+          <option value="familiar">Động vật quen thuộc</option>
+          <option value="wild">Động vật hoang dã</option>
+          <option value="insects">Côn trùng</option>
+          <option value="sea">Sinh vật biển</option>
+        </select>
+      </div>
+      <button id="soundToggle" type="button" class="sound-toggle" aria-label="Tắt âm thanh">Âm thanh: Bật</button>
     </section>
 
     <section class="quiz-card" aria-live="polite">
@@ -32,11 +35,7 @@
         <p id="score" class="score">Đúng: 0 / 0</p>
       </div>
 
-      <div class="badge-row" aria-label="Huy hiệu">
-        <div id="badge5" class="badge">🏅<span>5 đúng</span></div>
-        <div id="badge10" class="badge">🥈<span>10 đúng</span></div>
-        <div id="badge20" class="badge">👑<span>20 đúng</span></div>
-      </div>
+      <div id="badgeRow" class="badge-row" aria-label="Huy hiệu"></div>
 
       <div class="mascot-panel">
         <div class="mascot" aria-hidden="true">
@@ -47,7 +46,7 @@
         <p id="mascotBubble" class="mascot-bubble">Bé đoán xem là con gì nhé!</p>
       </div>
 
-      <div id="visualStage" class="visual-stage" aria-hidden="true">
+      <div id="visualStage" class="visual-stage" aria-hidden="true" data-question-start>
         <div id="visualEmoji" class="visual-emoji">❔</div>
         <p id="visualHint">Nhìn hình, nghe câu đố, rồi chọn đáp án nhé.</p>
       </div>
@@ -59,6 +58,16 @@
 
       <div id="feedback" class="feedback hidden"></div>
       <div id="rewardToast" class="reward-toast hidden"></div>
+
+      <div id="badgeModal" class="badge-modal hidden" role="dialog" aria-modal="true" aria-labelledby="badgeModalTitle">
+        <div class="badge-modal-card">
+          <div id="badgeModalVisual" class="badge-modal-visual" aria-hidden="true">3</div>
+          <p id="badgeModalCount" class="badge-modal-count"></p>
+          <h3 id="badgeModalTitle"></h3>
+          <p id="badgeModalMessage"></p>
+          <button id="badgeContinueBtn" type="button">Tiếp tục</button>
+        </div>
+      </div>
 
       <div id="answerBox" class="answer hidden">
         <h3 id="answer"></h3>
@@ -96,6 +105,6 @@
 
   <script src="/apps/guess-animal/data/animals_vi_3_5_mvp_100.js?v=20260606-fix2"></script>
   <script src="/apps/guess-animal/data/animals_vi_3_5_v2_100.js?v=20260609-v2"></script>
-  <script src="/apps/guess-animal/app.js?v=20260609-v2"></script>
+  <script src="/apps/guess-animal/app.js?v=20260610-ux1"></script>
 </body>
 </html>

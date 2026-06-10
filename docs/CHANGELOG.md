@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Task — Guess Animal Mobile UX, Sound and Achievements
+
+- Added mobile next-question auto scroll to the animal visual/question area.
+- Added a sound toggle persisted with `localStorage`.
+- Improved correct, wrong and victory sound effects without adding default background music.
+- Expanded achievement milestones to 3, 5, 10, 15, 20, 30, 50, 75 and 100 correct answers.
+- Added an achievement modal with a large CSS badge visual and Continue action.
+- Kept Quiz V2 image mapping unchanged: hero images use `item.id`, option images use `option.animalId`.
+
 ## Task — Animal Dataset V2 Option Images
 
 - Added 100-item V2 quiz dataset with `animalId` and `label` option records.

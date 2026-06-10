@@ -1,4 +1,4 @@
-console.log("Guess Animal App build: 20260609-v2");
+console.log("Guess Animal App build: 20260610-ux1");
 
 let DATA = [];
 let DATA_VERSION = "v1";
@@ -9,11 +9,18 @@ const SOUND_PATHS = {
 };
 
 const DEFAULT_THUMBNAIL_ASSET = "/apps/guess-animal/assets/thumbnails/default.svg";
+const SOUND_STORAGE_KEY = "kke.guessAnimal.soundEnabled";
 
 const BADGE_MILESTONES = [
-  { count: 5, id: "badge5", message: "Bé đạt huy hiệu đầu tiên!" },
-  { count: 10, id: "badge10", message: "Bé nhận huy hiệu bạc!" },
-  { count: 20, id: "badge20", message: "Bé đã trở thành nhà thám hiểm động vật!" }
+  { count: 3, id: "badge3", title: "Khởi động giỏi quá", message: "Bé đã trả lời đúng 3 câu rồi!", asset: null },
+  { count: 5, id: "badge5", title: "Bé quan sát thật tốt", message: "Bé nhận huy hiệu 5 câu đúng!", asset: null },
+  { count: 10, id: "badge10", title: "Nhà thám hiểm động vật", message: "Bé đã trả lời đúng 10 câu!", asset: null },
+  { count: 15, id: "badge15", title: "Siêu chọn đúng", message: "15 câu đúng, bé chọn thật tinh mắt!", asset: null },
+  { count: 20, id: "badge20", title: "Bậc thầy động vật", message: "20 câu đúng, bé học rất chăm!", asset: null },
+  { count: 30, id: "badge30", title: "Anh hùng rừng xanh", message: "30 câu đúng, bé khám phá thật bền bỉ!", asset: null },
+  { count: 50, id: "badge50", title: "Chuyên gia động vật", message: "50 câu đúng, bé hiểu rất nhiều bạn động vật!", asset: null },
+  { count: 75, id: "badge75", title: "Siêu sao khám phá", message: "75 câu đúng, bé thật tuyệt vời!", asset: null },
+  { count: 100, id: "badge100", title: "Nhà vô địch bé khám phá động vật", message: "100 câu đúng, bé là nhà vô địch hôm nay!", asset: null }
 ];
 
 const CATEGORY_IDS = {
@@ -132,12 +139,23 @@ const safetyBlock = document.getElementById("safetyBlock");
 const safetyNotes = document.getElementById("safetyNotes");
 const nextBtn = document.getElementById("nextBtn");
 const replayBtn = document.getElementById("replayBtn");
+const soundToggle = document.getElementById("soundToggle");
 const mascotBubble = document.getElementById("mascotBubble");
 const visualStage = document.getElementById("visualStage");
 const visualEmoji = document.getElementById("visualEmoji");
 const visualHint = document.getElementById("visualHint");
 const rewardToast = document.getElementById("rewardToast");
 const quickFact = document.getElementById("quickFact");
+const badgeRow = document.getElementById("badgeRow");
+const badgeModal = document.getElementById("badgeModal");
+const badgeModalVisual = document.getElementById("badgeModalVisual");
+const badgeModalCount = document.getElementById("badgeModalCount");
+const badgeModalTitle = document.getElementById("badgeModalTitle");
+const badgeModalMessage = document.getElementById("badgeModalMessage");
+const badgeContinueBtn = document.getElementById("badgeContinueBtn");
+
+let soundEnabled = loadSoundPreference();
+let audioContext = null;
 
 const state = {
   category: "all",
@@ -148,6 +166,38 @@ const state = {
   currentAnswered: false,
   earnedBadges: new Set()
 };
+
+function loadSoundPreference() {
+  try {
+    return window.localStorage.getItem(SOUND_STORAGE_KEY) !== "off";
+  } catch (error) {
+    return true;
+  }
+}
+
+function saveSoundPreference() {
+  try {
+    window.localStorage.setItem(SOUND_STORAGE_KEY, soundEnabled ? "on" : "off");
+  } catch (error) {
+    // Sound preference is optional; the app still works without localStorage.
+  }
+}
+
+function updateSoundToggle() {
+  if (!soundToggle) {
+    return;
+  }
+
+  soundToggle.textContent = soundEnabled ? "Âm thanh: Bật" : "Âm thanh: Tắt";
+  soundToggle.setAttribute("aria-label", soundEnabled ? "Tắt âm thanh" : "Bật âm thanh");
+  soundToggle.setAttribute("aria-pressed", String(soundEnabled));
+}
+
+function toggleSound() {
+  soundEnabled = !soundEnabled;
+  saveSoundPreference();
+  updateSoundToggle();
+}
 
 function shuffle(items) {
   const copy = [...items];
@@ -315,32 +365,126 @@ function showReward(message, strong) {
   }, 1800);
 }
 
-function playTone(isCorrect) {
+function getAudioContext() {
   const AudioContextClass = window.AudioContext || window.webkitAudioContext;
   if (!AudioContextClass) {
+    return null;
+  }
+
+  if (!audioContext) {
+    audioContext = new AudioContextClass();
+  }
+
+  if (audioContext.state === "suspended") {
+    audioContext.resume().catch(() => {});
+  }
+
+  return audioContext;
+}
+
+function playTone(frequency, startTime, duration, type, volume) {
+  const context = getAudioContext();
+  if (!context) {
     return;
   }
 
-  const context = new AudioContextClass();
   const oscillator = context.createOscillator();
   const gain = context.createGain();
-  oscillator.type = "sine";
-  oscillator.frequency.value = isCorrect ? 740 : 220;
-  gain.gain.value = 0.05;
+  const start = startTime || context.currentTime;
+  oscillator.type = type || "sine";
+  oscillator.frequency.setValueAtTime(frequency, start);
+  gain.gain.setValueAtTime(0.0001, start);
+  gain.gain.exponentialRampToValueAtTime(volume || 0.04, start + 0.02);
+  gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
   oscillator.connect(gain);
   gain.connect(context.destination);
-  oscillator.start();
-  oscillator.stop(context.currentTime + (isCorrect ? 0.16 : 0.22));
+  oscillator.start(start);
+  oscillator.stop(start + duration + 0.02);
+}
+
+function playCorrectTone() {
+  const context = getAudioContext();
+  if (!context) {
+    return;
+  }
+
+  const now = context.currentTime;
+  [660, 880, 1046].forEach((frequency, index) => {
+    playTone(frequency, now + index * 0.07, 0.14, "sine", 0.035);
+  });
+}
+
+function playWrongTone() {
+  const context = getAudioContext();
+  if (!context) {
+    return;
+  }
+
+  const now = context.currentTime;
+  playTone(260, now, 0.13, "triangle", 0.028);
+  playTone(196, now + 0.12, 0.16, "triangle", 0.024);
+}
+
+function playApplauseBurst(context, start, duration) {
+  const sampleRate = context.sampleRate;
+  const frameCount = Math.floor(sampleRate * duration);
+  const buffer = context.createBuffer(1, frameCount, sampleRate);
+  const data = buffer.getChannelData(0);
+
+  for (let i = 0; i < frameCount; i += 1) {
+    data[i] = (Math.random() * 2 - 1) * (1 - i / frameCount);
+  }
+
+  const source = context.createBufferSource();
+  const filter = context.createBiquadFilter();
+  const gain = context.createGain();
+  filter.type = "bandpass";
+  filter.frequency.setValueAtTime(1400, start);
+  filter.Q.setValueAtTime(0.8, start);
+  gain.gain.setValueAtTime(0.0001, start);
+  gain.gain.exponentialRampToValueAtTime(0.035, start + 0.015);
+  gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
+  source.buffer = buffer;
+  source.connect(filter);
+  filter.connect(gain);
+  gain.connect(context.destination);
+  source.start(start);
+  source.stop(start + duration);
+}
+
+function playVictorySound() {
+  if (!soundEnabled) {
+    return;
+  }
+
+  const context = getAudioContext();
+  if (!context) {
+    return;
+  }
+
+  const now = context.currentTime;
+  [523, 659, 784, 1046].forEach((frequency, index) => {
+    playTone(frequency, now + index * 0.1, 0.18, "sine", 0.038);
+  });
+  [0.08, 0.18, 0.3, 0.42].forEach((offset) => {
+    playApplauseBurst(context, now + offset, 0.09);
+  });
 }
 
 function playFeedbackSound(isCorrect) {
+  if (!soundEnabled) {
+    return;
+  }
+
+  const fallback = isCorrect ? playCorrectTone : playWrongTone;
   if (typeof Audio === "undefined") {
-    playTone(isCorrect);
+    fallback();
     return;
   }
 
   const sound = new Audio(isCorrect ? SOUND_PATHS.correct : SOUND_PATHS.wrong);
-  sound.play().catch(() => playTone(isCorrect));
+  sound.volume = isCorrect ? 0.42 : 0.32;
+  sound.play().catch(fallback);
 }
 
 function vibrateWrongAnswer() {
@@ -349,21 +493,81 @@ function vibrateWrongAnswer() {
   }
 }
 
+function renderBadgeRow() {
+  if (!badgeRow) {
+    return;
+  }
+
+  badgeRow.innerHTML = "";
+  BADGE_MILESTONES.forEach((badge) => {
+    const element = document.createElement("div");
+    element.id = badge.id;
+    element.className = "badge";
+    element.innerHTML = `
+      <strong>${badge.count}</strong>
+      <span>${badge.count} đúng</span>
+    `;
+    element.title = badge.title;
+    badgeRow.appendChild(element);
+  });
+}
+
+function closeBadgeModal() {
+  if (!badgeModal) {
+    return;
+  }
+
+  badgeModal.classList.add("hidden");
+}
+
+function showBadgeModal(badge) {
+  if (!badgeModal || !badgeModalVisual || !badgeModalTitle || !badgeModalMessage || !badgeModalCount) {
+    return;
+  }
+
+  badgeModalVisual.textContent = badge.count;
+  badgeModalCount.textContent = `${badge.count} câu đúng`;
+  badgeModalTitle.textContent = badge.title;
+  badgeModalMessage.textContent = badge.message;
+  badgeModal.classList.remove("hidden");
+  if (badgeContinueBtn) {
+    badgeContinueBtn.focus();
+  }
+}
+
 function updateBadges() {
-  let earnedMessage = "";
+  let earnedBadge = null;
 
   BADGE_MILESTONES.forEach((badge) => {
     const element = document.getElementById(badge.id);
     const earned = state.correct >= badge.count;
-    element.classList.toggle("earned", earned);
+    if (element) {
+      element.classList.toggle("earned", earned);
+    }
 
     if (earned && !state.earnedBadges.has(badge.count)) {
       state.earnedBadges.add(badge.count);
-      earnedMessage = badge.message;
+      earnedBadge = badge;
     }
   });
 
-  return earnedMessage;
+  return earnedBadge;
+}
+
+function scrollToQuestionStart() {
+  const target =
+    document.querySelector("[data-question-start]") ||
+    document.getElementById("questionStage") ||
+    document.querySelector(".visual-stage");
+
+  if (!target) {
+    return;
+  }
+
+  target.scrollIntoView({
+    behavior: "smooth",
+    block: "start"
+  });
 }
 
 function updateStatus() {
@@ -651,16 +855,21 @@ function answerQuestion(selectedOption, item) {
     ? "Đúng rồi! +1 sao"
     : `Chưa đúng rồi. Đáp án là ${correctLabel}.`;
 
-  playFeedbackSound(isCorrect);
   if (!isCorrect) {
     vibrateWrongAnswer();
   }
   setVisual(item, makeQuickFact(item));
   showDetails(item);
   updateScore();
-  const badgeMessage = updateBadges();
-  setMascotMessage(badgeMessage || (isCorrect ? "Giỏi lắm!" : "Không sao, mình cùng học nhé!"));
-  showReward(badgeMessage || (isCorrect ? "+1 sao" : "Thử câu tiếp theo nhé"), Boolean(badgeMessage || isCorrect));
+  const earnedBadge = updateBadges();
+  if (earnedBadge) {
+    playVictorySound();
+    showBadgeModal(earnedBadge);
+  } else {
+    playFeedbackSound(isCorrect);
+  }
+  setMascotMessage(earnedBadge ? earnedBadge.message : (isCorrect ? "Giỏi lắm!" : "Không sao, mình cùng học nhé!"));
+  showReward(earnedBadge ? earnedBadge.title : (isCorrect ? "+1 sao" : "Thử câu tiếp theo nhé"), Boolean(earnedBadge || isCorrect));
   nextBtn.disabled = false;
 }
 
@@ -677,6 +886,7 @@ function startSession() {
   state.correct = 0;
   state.currentAnswered = false;
   state.earnedBadges = new Set();
+  closeBadgeModal();
   nextBtn.disabled = false;
   updateBadges();
   renderQuestion();
@@ -689,6 +899,11 @@ function goNext() {
 
   state.index += 1;
   renderQuestion();
+  if (state.index < state.queue.length) {
+    requestAnimationFrame(() => {
+      scrollToQuestionStart();
+    });
+  }
 }
 
 categoryFilter.addEventListener("change", () => {
@@ -698,6 +913,27 @@ categoryFilter.addEventListener("change", () => {
 
 nextBtn.addEventListener("click", goNext);
 replayBtn.addEventListener("click", startSession);
+if (soundToggle) {
+  soundToggle.addEventListener("click", toggleSound);
+}
+if (badgeContinueBtn) {
+  badgeContinueBtn.addEventListener("click", closeBadgeModal);
+}
+if (badgeModal) {
+  badgeModal.addEventListener("click", (event) => {
+    if (event.target === badgeModal) {
+      closeBadgeModal();
+    }
+  });
+}
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape") {
+    closeBadgeModal();
+  }
+});
+
+renderBadgeRow();
+updateSoundToggle();
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initApp);

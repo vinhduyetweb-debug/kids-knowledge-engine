@@ -134,6 +134,11 @@ h4 {
   padding: 12px;
 }
 
+.toolbar-field {
+  display: grid;
+  gap: 8px;
+}
+
 .toolbar label {
   color: var(--muted);
   font-weight: 800;
@@ -149,6 +154,16 @@ select {
   font: inherit;
   font-weight: 700;
   padding: 0 12px;
+}
+
+.sound-toggle {
+  min-height: 48px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  background: var(--sky);
+  color: #21536f;
+  font-size: 16px;
+  justify-self: stretch;
 }
 
 .quiz-card,
@@ -180,9 +195,19 @@ select {
   border-radius: 8px;
   background: #f2eadb;
   color: var(--muted);
-  font-size: 24px;
+  font-size: 20px;
   filter: grayscale(1);
   opacity: 0.72;
+}
+
+.badge strong {
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.72);
+  font-size: 17px;
 }
 
 .badge span {
@@ -262,6 +287,10 @@ select {
   background: radial-gradient(circle at 50% 35%, #ffffff 0, #fff5d8 45%, #eaf7ff 100%);
   box-shadow: inset 0 0 0 4px rgba(255, 255, 255, 0.54), 0 10px 22px rgba(87, 54, 18, 0.08);
   text-align: center;
+}
+
+[data-question-start] {
+  scroll-margin-top: 12px;
 }
 
 .visual-stage.pop .visual-emoji {
@@ -477,6 +506,65 @@ button:disabled {
   box-shadow: 0 0 0 4px rgba(255, 178, 56, 0.18);
 }
 
+.badge-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: grid;
+  place-items: center;
+  padding: 18px;
+  background: rgba(47, 41, 35, 0.46);
+}
+
+.badge-modal-card {
+  width: min(100%, 380px);
+  padding: 22px 18px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: 0 24px 60px rgba(47, 41, 35, 0.24);
+  text-align: center;
+  animation: badgePop 420ms ease;
+}
+
+.badge-modal-visual {
+  display: grid;
+  place-items: center;
+  width: 118px;
+  height: 118px;
+  margin: 0 auto 12px;
+  border: 8px solid #ffe08a;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #fff8d4 0, #ffbd45 58%, #d97518 100%);
+  color: #3f2600;
+  font-size: 44px;
+  font-weight: 900;
+  box-shadow: 0 14px 28px rgba(184, 93, 18, 0.22);
+}
+
+.badge-modal-count {
+  margin: 0 0 6px;
+  color: var(--primary-strong);
+  font-size: 15px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.badge-modal-card h3 {
+  margin: 0 0 8px;
+  color: var(--text);
+  font-size: 26px;
+  line-height: 1.15;
+}
+
+.badge-modal-card p {
+  margin: 0 auto 14px;
+  color: var(--muted);
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1.45;
+}
+
 .feedback.success {
   background: var(--mint);
   color: var(--mint-text);
@@ -550,8 +638,18 @@ button.secondary {
   }
 
   .toolbar {
-    grid-template-columns: 120px 1fr;
+    grid-template-columns: 1fr auto;
     align-items: center;
+  }
+
+  .toolbar-field {
+    grid-template-columns: 120px minmax(0, 1fr);
+    align-items: center;
+  }
+
+  .sound-toggle {
+    justify-self: end;
+    white-space: nowrap;
   }
 
   .content-status {
@@ -564,6 +662,10 @@ button.secondary {
 
   .score {
     justify-self: end;
+  }
+
+  .badge-row {
+    grid-template-columns: repeat(9, minmax(0, 1fr));
   }
 
   .quiz-card,
@@ -630,7 +732,13 @@ button.secondary {
   }
 
   .badge span {
-    font-size: 11px;
+    font-size: 10px;
+  }
+
+  .badge strong {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
   }
 
   .visual-stage {
